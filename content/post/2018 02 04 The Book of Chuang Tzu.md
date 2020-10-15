@@ -1,0 +1,18 @@
+---
+date: 2018-02-04
+meta: true
+title: "The Book of Chuang Tzu"
+toc: false
+categories:
+- Zhuangzi
+- books
+---
+
+{{< section "start" >}}
+{{< figure src="https://images.booksense.com/images/883/194/9780140194883.jpg" type="margin" label="mn-cover" alt="Book cover" >}}
+
+I had built up this book so much in my mind, perhaps it was inevitable that I would be disappointed in it. I really wanted to like it. I've felt for a long time that I had some affinity with Daoist ideas--mostly from reading Dao De Jing, Smullyan's "The Tao is Silent," and Le Guin's "The Lathe of Heaven." I'm drawn to the attitude, similar to Hellenistic Skepticism, of withholding judgment on things going on around you, and I like the gentle but pronounced disdain for those things often held in esteem by the world--again something Daoism has in common with some Hellenistic philosophies. And, I had heard over and over that Zhuangzi was the earthier cousin of the gnomic Dao De Jing. <br /><br />I'm sad to say that this whole book felt like a slog for me. I would have quit partway through if it weren't so widely seen as a classic. It's possible some of the blame is with the translation--it was hard for me to get a sense of what people thought of different translations, so I went for a safe choice with the Penguin edition. It's possible a different translator could do more to bring it alive for me. It's also very likely that some of the blame lies with me, and in particular, with my insistence on reading it cover-to-cover rather than keeping it around as something to dip into once in a while. But I also think some of the fault comes from the text itself. With a couple of rare exceptions, I didn't find the "stories" in it to be earthy or accessible--indeed, I'd hardly characterize them as stories at all. A typical passage just involves a dialog between two characters where some ideas of Daoism are touched upon. Of course a dialog can be a great literary form, but I found these pieces too fragmentary to really develop ideas. (Perhaps that is just a non-Daoist form of communication!) But at the same time, they weren't at all memorable parable-type stories. About a month after having finished the book, it's hard for me to remember many specific stories from it.<br /><br />So, I don't know. Four stars for the ideas, but two stars for the style, maybe? The most memorable idea for me, which reappears often in slightly different forms, is the following. Things that are "useful", particularly exemplary individuals of a certain form, are the first to be destroyed, while weak or flawed individuals are more likely to be left alone. For example, a woodcutter going into a forest is likely to seek out the tallest, straightest tree and cut it down. So although we would commonly call this the "best" tree, it's certainly not best for the tree! At first the "moral" of this story might seem obvious, but I think it's actually pretty subtle and difficult to pin down, and therefore fruitful. For example, occasionally this story will be accompanied by a side comment that, actually, the "worst" instances are also likely to be destroyed (because they are wasting space or whatever)! So it's not as though there's some simple moral like "be a slacker." For me, these stories are meant to get the reader thinking critically about our concept of "usefulness," and what classes of things we do or don't apply it to. There's actually quite a bit of resonance with some of the ideas in Jemisin's "The Stone Sky," where she introduces but then subtly problematizes a civilization that is built around the channeling of biological energy, and the dichotomy of reverence and instrumentalization.
+
+My rating: 3 stars  
+
+[IndieBound](https://www.indiebound.org/book/9780140194883)

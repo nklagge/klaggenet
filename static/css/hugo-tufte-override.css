@@ -1,0 +1,57 @@
+/* header stuff */
+
+.header {
+    background-color: darkseagreen;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+}
+
+header.brand{
+   text-align: center;
+}
+
+header.brand h1 {
+    padding-top: 0.5em;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 4rem;
+}
+
+header.brand h1 a:link,
+header.brand h1 a:visited {
+    background: transparent;
+    text-decoration: none;
+    color: inherit;
+    text-shadow: none;
+}
+
+header.brand h1 a:hover,
+header.brand h1 a:focus {
+    color: darkgray;
+}
+
+nav.menu ul {
+    width: 100%;
+    max-width: none;
+}
+
+nav.menu li a {
+    text-shadow: none;
+}
+
+/* space for header */
+
+article { padding-top: 10rem; }
+
+/* line between posts */
+
+.post-spacer-hr {
+	height: 3rem;
+	clear: both;
+	border-bottom: 1px solid #111;
+	margin-bottom: 3.5rem;
+	width: 55%;
+}
