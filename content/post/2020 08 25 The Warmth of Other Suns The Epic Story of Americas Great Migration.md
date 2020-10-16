@@ -1,7 +1,7 @@
 ---
 date: 2020-08-25
 meta: true
-title: "The Warmth of Other Suns: The Epic Story of America's Great Migration"
+title: "The Warmth of Other Suns"
 toc: false
 categories:
 - Isabel Wilkerson
@@ -16,3 +16,5 @@ Read in preparation for Wilkerson's new book on caste, since I hadn't read WOS w
 My rating: 4 stars  
 
 [IndieBound](https://www.indiebound.org/book/9780679444329)
+
+<!--more-->

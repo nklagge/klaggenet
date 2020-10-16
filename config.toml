@@ -5,7 +5,7 @@ builddrafts = true
 canonifyurls = true
 baseurl = "/"
 theme = "hugo-tufte"
-title = "The City of Mind"
+title = "The Madrone Library"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [markup]
@@ -29,19 +29,19 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # -----------------------------------------------------------------------
 [[menu.nav]]
   name = "About"
-  pre = "<i class='fa fa-university fa-lg'></i> "
+  pre = "<i class='fas fa-book-open fa-lg'></i> "
   weight = -110 
   identifier = "about"
   url = "/about"
 [[menu.nav]]
   name = "All Posts"
-  pre = "<i class='fa fa-book fa-lg'></i> "
+  pre = "<i class='fab fa-pagelines fa-lg'></i> "
   weight = -100 
   identifier = "posts"
   url = "/post"
 [[menu.nav]]
   name = "Categories"
-  pre = "<i class='fas fa-sitemap fa-lg'></i> "
+  pre = "<i class='fas fa-crow fa-lg'></i> "
   weight = -90 
   identifier = "categories"
   url = "/categories"

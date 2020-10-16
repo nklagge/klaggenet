@@ -16,3 +16,5 @@ This was a decent comic story, but was made much more interesting to me by the e
 My rating: 3 stars  
 
 [IndieBound](https://www.indiebound.org/book/9781401298418)
+
+<!--more-->

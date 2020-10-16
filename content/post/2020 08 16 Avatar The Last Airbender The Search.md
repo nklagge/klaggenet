@@ -16,3 +16,5 @@ Even more than "The Promise," I think this is the volume fans of the show are lo
 My rating: 4 stars  
 
 [IndieBound](https://www.indiebound.org/book/9781616552268)
+
+<!--more-->
