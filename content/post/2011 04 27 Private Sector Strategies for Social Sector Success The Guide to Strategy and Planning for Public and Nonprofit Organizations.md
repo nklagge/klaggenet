@@ -13,6 +13,6 @@ categories:
 
 I was assigned this book for a grad-school class, but unlike the other class text ("Why David Sometimes Wins" by Marshall Ganz), this one was utterly dry and boring. While some of the frameworks Kearns describes may be useful, the book is strategy without soul.
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/147484628)  
 
 [IndieBound](https://www.indiebound.org/book/9780787941895)

@@ -13,6 +13,6 @@ categories:
 
 I liked these OK, but most of them didn't really grab me. I tend to prefer more understated stories, and many of these are more dramatic. My favorite story was "World Famous," which is a great meditation on who gets credibility conferred on them by society (and by us as individuals) and why. It is the first half of a narrative that continues with "Radha, Krishna," but I preferred the first part of the story (where less happens) to the second.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/2474540987)  
 
 [IndieBound](https://www.indiebound.org/book/9781250183194)

@@ -13,6 +13,6 @@ categories:
 
 Minorly interesting, and available free online. It's cool to know the history of the core curriculum (if you went to Columbia, at least), but the fact that it's an official history I think means it leaves something to be desired. It is always walking that line of "just enough criticism to make it seem interesting, but never any real criticism". If you are in the Facebook group "I Adore The Core" (which I am) it's probably worth reading; otherwise, probably not.
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/91562003)  
 
 [IndieBound](https://www.indiebound.org/book/9780964908406)

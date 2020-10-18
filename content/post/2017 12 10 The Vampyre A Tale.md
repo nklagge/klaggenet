@@ -13,6 +13,6 @@ categories:
 
 I also read this as background inspiration for Curse of Strahd (see my review of Bram Stoker's Dracula). This story is considered to be the genesis of our modern literary conception of vampires, and it predates Stoker by about 80 years. However, as with many things like this, there's a reason you've heard of Stoker and (probably) not Polidori. This is pretty much just not a good story; it totally lacks the atmosphere and charismatic antagonist of Stoker's book, which to me are the core parts of a good vampire story.
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/2210556156)  
 
 [IndieBound](https://www.indiebound.org/book/9781846372827)

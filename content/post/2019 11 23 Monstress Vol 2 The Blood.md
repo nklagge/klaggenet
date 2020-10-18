@@ -13,6 +13,6 @@ categories:
 
 A great continuation of the story; the pirate/haunted island setting alone is enough fun to make this a worthy addition to the first volume. The pace of learning more about Maika's backstory is slow but continuous, which always make me interested to keep going. 
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/3049179554)  
 
 [IndieBound](https://www.indiebound.org/book/9781534300415)

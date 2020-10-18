@@ -14,6 +14,6 @@ categories:
 
   
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/96599987)  
 
 [IndieBound](https://www.indiebound.org/book/9781582406701)

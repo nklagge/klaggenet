@@ -13,6 +13,6 @@ categories:
 
 A fun and weird book--bought it for my nephew (who is 3), but also enjoyed it myself. He's on the sensitive side and seemed scared at some parts, but a couple of weeks later, asked after the book unprompted!
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/3455164330)  
 
 [IndieBound](https://www.indiebound.org/book/9781944211738)

@@ -13,6 +13,6 @@ categories:
 
 A pretty quick read as reading-cookbooks go. Good in that it is more about general principles than a collection of recipes. I'll reserve full judgment until Elise and I have made some liqueurs from its pages, but judging from the ones Laurel and Malcolm have made (we borrowed it from them) they are very good.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/126589437)  
 
 [IndieBound](https://www.indiebound.org/book/9780809275823)

@@ -13,6 +13,6 @@ categories:
 
 Didn't like this as much as "The Lost Adventures"; somehow it had less of the feel of the series. Still worth a read though!
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/3469835048)  
 
 [IndieBound](https://www.indiebound.org/book/9781506707938)

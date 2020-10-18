@@ -13,6 +13,6 @@ categories:
 
 Read in Montana over our honeymoon, and left behind in Granite Park Chalet to save backpack weight after I finished. Pretty enjoyable overall. Proulx's writing is nicely understated for the most part, with a couple of exceptions. I most enjoyed the first and last stories ("Half-Skinned Steer" and the well-known "Brokeback Mountain").
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/665745043)  
 
 [IndieBound](https://www.indiebound.org/book/9780684852225)

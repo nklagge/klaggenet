@@ -13,6 +13,6 @@ categories:
 
 These graphic novels are a bridge between the TV show "Firefly" and the movie "Serenity." They are pretty nice, although not as enjoyable as an episode of "Firefly." Easily read on two BART rides.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/842206017)  
 
 [IndieBound](https://www.indiebound.org/book/9781593074494)

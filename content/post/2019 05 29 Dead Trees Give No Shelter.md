@@ -13,6 +13,6 @@ categories:
 
 Listened to as an audiobook on a cross-country plane ride. I really enjoy WW as an audiobook reader. He does a good job (both as author and reader) of setting an atmosphere, and the story has a satisfying symmetry to it. I did wish for a little more in-universe lore about the monster. Perhaps a sequel?
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/2831521310)  
 
 [IndieBound](https://www.indiebound.org/book/)

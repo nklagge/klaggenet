@@ -14,6 +14,6 @@ categories:
 
   
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/100672126)  
 
 [IndieBound](https://www.indiebound.org/book/9781891830761)

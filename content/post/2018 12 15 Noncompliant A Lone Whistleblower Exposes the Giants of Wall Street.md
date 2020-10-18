@@ -13,6 +13,6 @@ categories:
 
 I'm not leaving a review of this book for the time being, given that the focus is my current employer.
 
-My rating: 0 stars  
+[My Goodreads rating: 0 stars](https://www.goodreads.com/review/show/2611899344)  
 
 [IndieBound](https://www.indiebound.org/book/9781568588452)

@@ -14,6 +14,6 @@ categories:
 
   
 
-My rating: 0 stars  
+[My Goodreads rating: 0 stars](https://www.goodreads.com/review/show/665745552)  
 
 [IndieBound](https://www.indiebound.org/book/9780231086493)

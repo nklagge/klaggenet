@@ -13,6 +13,6 @@ categories:
 
 An excellent debut novel. (I was about to say "enjoyable," but that's not quite the word given the amount of sad content.) I appreciated Lin's narration from a kid's point of view, which leaves the reader to infer a lot of plot detail that the narrator hasn't fully grasped. Lin does this deftly, without hitting us over the head with situational irony. She also has a great eye for detail while maintaining a spare writing style--even a month or so after finishing the book, I can call to mind several scenes in great mental detail, even ones where nothing of particular plot importance happens. 
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/3213980799)  
 
 [IndieBound](https://www.indiebound.org/book/9780374279363)

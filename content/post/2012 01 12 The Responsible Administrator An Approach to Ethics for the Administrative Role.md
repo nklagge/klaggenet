@@ -13,6 +13,6 @@ categories:
 
 "It was OK" is about right for this book. Required textbook for my January class on Ethical Issues in Public Service. In a way, I appreciate that the author tries to approach the issue from a completely analytical point of view; that is, not advocating for any particular system of values. But it's quite dry and not engaging. I think the author would have gotten me more interested if he used real historical examples rather than made-up cases.
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/255050271)  
 
 [IndieBound](https://www.indiebound.org/book/9780787976514)

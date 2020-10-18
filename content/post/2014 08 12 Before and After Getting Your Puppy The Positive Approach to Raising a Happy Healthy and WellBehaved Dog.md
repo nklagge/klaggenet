@@ -13,6 +13,6 @@ categories:
 
 Recommended by a friend who has two dogs. The method laid out by the author makes a lot of sense, but is not "just common sense." We ended up not getting a dog, but if we did, I would want to use this approach for training.
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/1017870447)  
 
 [IndieBound](https://www.indiebound.org/book/9781577314554)

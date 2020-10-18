@@ -13,6 +13,6 @@ categories:
 
 Will write a full review after finishing books 3 and 4.
 
-My rating: 0 stars  
+[My Goodreads rating: 0 stars](https://www.goodreads.com/review/show/1253162443)  
 
 [IndieBound](https://www.indiebound.org/book/9781438916705)

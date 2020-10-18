@@ -13,6 +13,6 @@ categories:
 
 Pretty cute picture book from the author of my favorite graphic novels. Although it was interesting to see Owly &amp; Wormy in a different format, I like the slightly longer-form medium of the graphic novel a little better. But great as always!
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/155105692)  
 
 [IndieBound](https://www.indiebound.org/book/9781416957744)

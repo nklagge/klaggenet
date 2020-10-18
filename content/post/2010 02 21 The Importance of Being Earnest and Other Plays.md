@@ -13,6 +13,6 @@ categories:
 
 Read this for the first time in preparation for a reading that Elise and I are planning! It's pretty funny and quite modern-seeming, and I actually laughed out loud a number of times reading it. Should be a fun reading.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/91563018)  
 
 [IndieBound](https://www.indiebound.org/book/9780613642910)

@@ -13,6 +13,6 @@ categories:
 
 Has the qualities of cookbooks that I like: no photographs, hand-drawn pictures, and enough non-recipe text that you can "read" it cover-to-cover...which I did. I like that this book has fairly substantial sections on both gardening and preserving, but given everything that it is trying to squeeze in, it's not a replacement for dedicated books on those topics.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/812847045)  
 
 [IndieBound](https://www.indiebound.org/book/9780307718273)

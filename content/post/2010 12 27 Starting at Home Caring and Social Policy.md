@@ -13,6 +13,6 @@ categories:
 
 A follow-up to her book "Caring" which works toward applying her ethical theory to public policy. Some interesting thoughts, but not breaking much new ground beyond the explorations of her earlier book.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/134806026)  
 
 [IndieBound](https://www.indiebound.org/book/9780520230262)

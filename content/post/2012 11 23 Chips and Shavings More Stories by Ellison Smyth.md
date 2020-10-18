@@ -13,6 +13,6 @@ categories:
 
 Found this in my grandparents' house and read it over Thanksgiving. I knew Ellison when he was an old guy and I was a little boy. It was nice to read the book, although it definitely doesn't totally capture what an interesting and fine person he was.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/463092053)  
 
 [IndieBound](https://www.indiebound.org/book/9780936015675)

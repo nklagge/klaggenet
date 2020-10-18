@@ -1,6 +1,29 @@
 ---
 hasMath: false
-title: About This Site
+title: About The Madrone Library
 ---
+{{% epigraph pre="Ursula K. Le Guin, \"Pandora Converses with the Archivist of the Library of the Madrone Lodge at Wakwaha-na\"," cite="Always Coming Home" post="(1985)" %}}
+<b>Pandora</b>: You destroy valuable books?  
 
-This is Nick Klagge's About page.
+<b>Archivist</b>: Oh, yes. Who wants to be buried under them?
+
+<b>PAN</b>: But you could keep important documents and valuable literary works in electronic storage, at the Exchange, where they don't take up any room--
+
+<b>ARC</b>: The City of Mind does that. They want a copy of everything. We give them some. What is "room"--is it only a piece of space?
+
+<b>PAN</b>: But intangibles--information--
+
+<b>ARC</b>: Tangible or intangible, either you keep a thing or you give it. We find it safer to give it.
+
+<b>PAN</b>: But that's the point of information storage and retrieval systems! The material is kept for anyone who wants or needs it. Information is passed on--the central act of human culture.
+
+<b>ARC</b>: "Keeping grows; giving flows." Giving involves a good deal of discrimination; as a business it requires more disciplined intelligence than keeping, perhaps. Disciplined people come here, Oak Lodge people, historians, learned people, scribes and reciters and writers, they're always here, like these four, you see, going through the books, copying out what they want, annotating. Books no one reads go; books people read go after a while. But they all go. Books are mortal. They die. A book is an act; it takes place in time, not just in space. It is not information, but relation.
+{{% /epigraph %}}
+
+I've always loved to read, but my relationship with books has changed a couple of times over the years. The first time was when I joined Goodreads in 2009, a couple of years after its launch (and a couple of years after I graduated college.) I loved the idea of having a place I could keep track of all the books I read. In fact I had already made an abortive attempt at this with a physical journal my mom had given me as a gift; my dad had already created his own personal Goodreads-avant-la-lettre by cataloguing his reading on his faculty website. In addition, I felt drawn to the Goodreads feature that allows you to post book reviews. I had never really written a book review before, but I committed then to writing a review (and not just giving a star rating) to every book I logged on the site. I felt like writing reviews would help me engage with books more deeply, and perhaps retain them better--a desire that was probably born of the vertigo of the post-college life's lack of guideposts.
+
+I actually kept this up, for over a decade and over six hundred books. But in the intervening period, my relationship with books changed again, slowly over time and then decisively in 2013. I had moved apartments five times since college, and at some point had begun to chafe at boxing and unboxing all the books every time--particularly at the ones that I had boxed and unboxed more than once without reading them. I remember at the time also having the feeling that a "dead hand" was guiding my reading--the hand of gifts that missed the mark, of "important" books I kept from college, of just plain my interests of three years ago--the hand of my fealty to the idea that having a well-stocked set of bookshelves is something to be desired. I started putting old books out in free-boxes on stoops, buying fewer books, using the library more. It felt liberating. And then in 2013, my partner and I moved from New York to California. {{% marginnote %}}"Here in the Madrone of Wakwaha the lodge has destruction ceremonies yearly, between the Grass and the Sun dances. They're secret. Members only. A kind of orgy. A fit of housecleaning--the nesting instinct, the collecting drive, turned inside out, reversed. Unhoarding." -The Archivist{{% /marginnote %}}Excited by the idea of a fresh start, we decided to bring only a few boxes of stuff that we mailed to ourselves, and gave away almost all our books. Since then, like the Madrone Library archivist, I've found it safer to give books than to keep them. (My dad even published [an op-ed](https://roanoke.com/opinion/klagge-me-and-my-books/article_82c5b951-fbae-5172-abe1-1ef18169f4f8.html) about our differing relations to books in his local newspaper in 2014!)
+
+Around 2019, I started feeling like it was time for a change again in my relationship to books. (Perhaps it's not a coincidence that [I read](/post/2019-08-10-always-coming-home-authors-expanded-edition/) *Always Coming Home* in 2019.) My dutiful Goodreads cataloguing started to feel like another kind of dead hand. {{% marginnote %}} "'I don't like to read much,' she said...Barbara wiped her hands on her thighs and grabbed an empty bin. Her hands roamed over the pile of books, sizing and squeezing them as if they were melons. She cocked her head at me. 'You read and read and read,' she said, 'and then what?'"  -Susan Orlean, *The Library Book* (2018){{% /marginnote %}}I started to put down books that weren't grabbing me; something I had virtually never done before. I wanted to re-read books that I loved. I wanted to engage more deeply with books that resonated with me, and not worry about dashing off reviews of books that were just fine. I wanted to write margin notes, which you can't do with a library book. And why, in the first place, was I doing all this free labor for Goodreads, which after all had been acquired in 2013 by Amazon, a company I strongly dislike? I didn't really "own" any of the hundreds of reviews I had written on Goodreads over the years, and if they decided to shut down the site one day, they'd just be gone. 
+
+{{% marginnote %}}Of course, the first thing I did was write some code to copy all of my old Goodreads reviews into blog posts here. I'm still working on being more yin!{{% /marginnote %}}That's why I started the Madrone Library--to have a little corner of the internet to call my own, where I can experiment with writing about books, and maybe non-books, in new ways. To live in the unburdened spirit that Le Guin wrote about.

@@ -13,6 +13,6 @@ categories:
 
 I lol'd quite a bit and showed several funny parts to my partner before she had a chance to read it. <br /><br />I thought Gharib did a great job mixing humor with more serious observations about growing up as a person of color in America. Her style sort of reminds me of Roz Chast, for a new generation.<br /><br />As a white man married to a Filipina-American, several parts of the story rang a bell for me! I'm also proud to say that I knew 9 of 11 of the Tagalog flash card words in the book (and also, learned that there is a specific Tagalog word for eye boogers!).
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/2892451365)  
 
 [IndieBound](https://www.indiebound.org/book/9780525575115)

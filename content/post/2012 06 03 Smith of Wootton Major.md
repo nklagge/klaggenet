@@ -13,6 +13,6 @@ categories:
 
 I don't consider myself a Tolkien completist, but for some reason I had this slim little volume hanging around and picked it up a couple of weeks ago. Not really worth it--fairly bland, unmemorable characters and plot. There's a reason why his famous stuff is his famous stuff.
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/345329173)  
 
 [IndieBound](https://www.indiebound.org/book/9780007202478)

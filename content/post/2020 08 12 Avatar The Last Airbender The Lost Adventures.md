@@ -13,6 +13,6 @@ categories:
 
 Not a must-read by any means, but fun for fans like me who wanted more Avatar after finishing the show. The stories are set at the same time as the series, and you can often tell exactly where stories are supposed to come. The stories are a mix of quality, but mostly they feel like scenes that could have shown up in the original series--especially e.g. "Relics" and "Sokka the Avatar."
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/3464855148)  
 
 [IndieBound](https://www.indiebound.org/book/9781595827487)

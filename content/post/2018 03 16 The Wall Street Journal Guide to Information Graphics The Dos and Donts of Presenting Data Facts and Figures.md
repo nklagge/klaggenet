@@ -13,6 +13,6 @@ categories:
 
 Dona Wong now works at my employer, so I thought it would be interesting to read her book. It came highly recommended by a couple of friends. I'll admit that I was skeptical that it would be of interest to me, because I feel like I'm pretty good at data visualization. I was partly right in that there weren't a ton of new insights for me, but there were definitely some good ideas that I hadn't encountered before. <br /><br />The book is admirably straightforward and spare, except for the end part, where there is some useless filler added in that isn't related to information graphics.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/2313139585)  
 
 [IndieBound](https://www.indiebound.org/book/9780393072952)

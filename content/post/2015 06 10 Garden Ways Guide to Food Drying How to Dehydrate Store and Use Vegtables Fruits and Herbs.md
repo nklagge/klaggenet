@@ -13,6 +13,6 @@ categories:
 
 This was fine, but what I am actually interested in is making meals out of dried foods, for example for backpacking. The book addresses this briefly, but it is mostly, as the name implies, about drying food yourself. This seems somewhat interesting to me, but I don't really feel motivated to do it right now, since we have a great hippie grocery store with lots of dried food in bulk.
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/1306503761)  
 
 [IndieBound](https://www.indiebound.org/book/9780882661551)

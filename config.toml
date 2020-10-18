@@ -6,7 +6,7 @@ canonifyurls = true
 baseurl = "/"
 theme = "hugo-tufte"
 title = "The Madrone Library"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
 [markup]
   [markup.goldmark]

@@ -13,6 +13,6 @@ categories:
 
 A cute book of oral history about Appalachian Christmas traditions. 
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/137287739)  
 
 [IndieBound](https://www.indiebound.org/book/9780385413473)

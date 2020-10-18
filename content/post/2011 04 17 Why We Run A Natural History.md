@@ -13,6 +13,6 @@ categories:
 
 Somehow I just didn't click with this writer. His areas of technical interest (moth respiration!) didn't really do it for me, and his personal story/anecdotes lacked the sort of warmth and humanity that I am now reading in Frans de Waal. Although Heinrich tries to portray ultrarunning as accessible for anyone with the will to train, his race paces were world-class, which makes it hard for the amateur runner to relate. Nonetheless, I did find interesting the (somewhat speculative) accounts of the evolution of human endurance hunting. 
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/159910066)  
 
 [IndieBound](https://www.indiebound.org/book/9780060958701)

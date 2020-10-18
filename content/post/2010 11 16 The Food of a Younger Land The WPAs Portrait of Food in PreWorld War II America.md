@@ -13,6 +13,6 @@ categories:
 
 I had high hopes for this book, given my love of local and homemade food, but I was fairly disappointed. It seemed reasonably clear why these pieces had never been published back when they were created. Most are not that well written, and although it was interesting to read about the different foods, they were almost entirely bereft of characters--which, interestingly, is also a criticism I just read of Kurlansky's own new fiction work.
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/128921785)  
 
 [IndieBound](https://www.indiebound.org/book/9781594488658)

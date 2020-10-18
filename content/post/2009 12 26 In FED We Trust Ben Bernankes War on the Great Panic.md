@@ -13,6 +13,6 @@ categories:
 
 A solid account of the financial crisis, but if you have been following the news closely there won't be much new here. Oddly, devotes barely any attention to the collapse of Lehman Brothers--I would guess that the author failed to get sources to talk with him about it. 
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/81639874)  
 
 [IndieBound](https://www.indiebound.org/book/9780307459688)

@@ -13,6 +13,6 @@ categories:
 
 Good but not great; I'd recommend reading the Bendis "Ultimate Spider-Man" Miles Morales series, but not this re-launch.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/2867012912)  
 
 [IndieBound](https://www.indiebound.org/book/9780785199625)

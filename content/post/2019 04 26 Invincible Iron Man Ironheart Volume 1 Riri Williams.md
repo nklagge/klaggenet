@@ -13,6 +13,6 @@ categories:
 
 I got interested in reading this after reading the more recent Ironheart series written by Eve Ewing. I wanted to see more of the character's backstory, but was a little worried that it would be missing something. I shouldn't have worried, as Bendis is a great writer too. This is well worth reading, and it's interesting to see the foundation that Bendis created, which Ewing has been building from. I would say that we see "the same" Riri Williams in both series. Bendis focuses a bit more on her internal struggles as a teenager thrust into the spotlight, while Ewing does a bit more to bring her personal relationships to the fore. The only thing I didn't really like in this was that [spoilers removed]
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/2797005029)  
 
 [IndieBound](https://www.indiebound.org/book/9781302906719)

@@ -13,6 +13,6 @@ categories:
 
 I may have jumped the gun a bit in reading this book, but I got so excited about working in school leadership that I couldn't help it. The reason I'm not giving it more than three stars is that I think it will become much more helpful to me when I am a practitioner than it is at the moment. At any rate, it provided a good mix of insights that I relate to from my own socioprofessional experiences and ones that seem new and useful to me. 
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/82181931)  
 
 [IndieBound](https://www.indiebound.org/book/9780787974343)

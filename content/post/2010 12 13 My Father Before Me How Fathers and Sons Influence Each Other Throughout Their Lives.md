@@ -13,6 +13,6 @@ categories:
 
 I read this book because my dad had read it (amusingly we are the only two people to have reviewed it on Goodreads to date), but I ended up being pretty disappointed with it. The author is a psychoanalyst, and his emphasis is fairly heavy on the classic psychoanalytical tropes. In general I find those to be pretty unconvincing, and particularly because I recently read Carol Gilligan's masterful takedown of Freud's theories of moral development. 
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/134110853)  
 
 [IndieBound](https://www.indiebound.org/book/9780393060607)

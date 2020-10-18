@@ -13,6 +13,6 @@ categories:
 
 This is the first in a series held in very high esteem by my comic book loving friend Matt. I definitely enjoyed it but also feel the need to wait to make a judgment on its quality. Matt said he didn't get really into the series until a few books in. So far it doesn't seem to have as much depth of meaning as (say) Watchmen, but I can definitely see how it might get there. 
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/95141002)  
 
 [IndieBound](https://www.indiebound.org/book/9781582406695)

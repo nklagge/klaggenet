@@ -13,6 +13,6 @@ categories:
 
 I was a little hesitant to read this book because I was sure it wouldn't live up to the quality of Kavalier &amp; Clay, and I was right. TA is a very nice novel and I enjoyed reading it, but it lacked that special quality that K&amp;C had. My experience of reading TA was much like my experience of reading "The Fortress of Solitude"--the characters and story are interesting, but I didn't come to care deeply about them. 
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/512242294)  
 
 [IndieBound](https://www.indiebound.org/book/9780061493348)

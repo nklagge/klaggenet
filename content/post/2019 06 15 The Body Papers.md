@@ -13,6 +13,6 @@ categories:
 
 This is a very well-written memoir, organized as a series of loosely related essays. It deals with some very heavy issues, but the episodic style and Talusan's strong authorial voice keep it from bogging down in the tragic (of which there is certainly plenty). Her inclusion of primary source documents, including some immigration files acquired via FOIA, is a creative and original approach to memoir. My favorite essays included "Crossing the Street" and "Deportable Alien." Restless Books is a great nonprofit small press from here in Brooklyn!
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/2806100058)  
 
 [IndieBound](https://www.indiebound.org/book/9781632061836)

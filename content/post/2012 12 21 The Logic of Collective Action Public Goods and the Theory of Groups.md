@@ -13,6 +13,6 @@ categories:
 
 I kind of read this book by accident. The author, Mancur Olson, is often mentioned by an author I like, Ashwin Parameswaran, on the topic of "crony capitalism." I saw this book in a used book store and picked it up. It turns out, however, that this particular book is completely unrelated to the work mentioned by Parameswaran. To me it is pretty much a garden-variety exposition of the economic problems associated with collective goods (though perhaps it was groundbreaking when published).
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/479447353)  
 
 [IndieBound](https://www.indiebound.org/book/9780674537514)

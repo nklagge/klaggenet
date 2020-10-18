@@ -13,6 +13,6 @@ categories:
 
 I enjoyed reading this out loud with Elise (though reading a recipe aloud is a bit of an odd experience!). While I always appreciate Tamar Adler, though, this book didn't inspire the way that "An Everlasting Meal" did. That's a pretty high bar, though, seeing as how AEM is probably my (and definitely Elise's) favorite cookbook of all time! 
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/2375809862)  
 
 [IndieBound](https://www.indiebound.org/book/9781476799612)

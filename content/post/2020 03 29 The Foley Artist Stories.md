@@ -13,6 +13,6 @@ categories:
 
 This was a pretty good debut collection, and I liked the loose connections between the various stories. The first story, "The Rice Bowl," was probably my favorite.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/3241595067)  
 
 [IndieBound](https://www.indiebound.org/book/)

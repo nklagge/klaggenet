@@ -13,6 +13,6 @@ categories:
 
 This was fine, kind of like a very condensed version of the Damiana Eugenio folktales collection. Unfortunately, probably like the original Grimm's, most of these stories either have horrible things happening, or have pretty retrograde biases, so I wouldn't really enjoy reading with a kid. 
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/3366745887)  
 
 [IndieBound](https://www.indiebound.org/book/9781976145698)

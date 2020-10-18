@@ -13,6 +13,6 @@ categories:
 
 A book about making Christmas more tradition-focused and less commercial. About what one might expect; I didn't find any particularly new insights. 
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/137287811)  
 
 [IndieBound](https://www.indiebound.org/book/9780688109615)

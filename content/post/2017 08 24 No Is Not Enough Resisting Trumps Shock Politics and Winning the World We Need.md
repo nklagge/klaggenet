@@ -13,6 +13,6 @@ categories:
 
 Felt kind of meh on this one. I like Klein's ideas, and it is rather notable how Trump blends together aspects of her thought from _No Logo_, _The Shock Doctrine_, and _This Changes Everything_. But if you've read her prior work, you're probably not going to find much new here, or not much that you couldn't probably piece together yourself. Also listened on audiobook which may have contributed to it feeling disjointed to me (though it is nice to have Klein herself reading the book!).
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/2084706780)  
 
 [IndieBound](https://www.indiebound.org/book/9780735273993)

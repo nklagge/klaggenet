@@ -13,6 +13,6 @@ categories:
 
 A nice basic cookbook, and one that is readable cover-to-cover, for the most part. I can imagine this being a good gift for a beginning cook. It kind of falls part way between "The Joy of Cooking" (as a compendium of useful recipes) and something more unusual like "An Everlasting Meal" (as something more focused on philosophy and integration with life)
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/929332885)  
 
 [IndieBound](https://www.indiebound.org/book/9780307336798)

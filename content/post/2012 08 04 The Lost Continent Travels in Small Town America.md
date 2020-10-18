@@ -13,6 +13,6 @@ categories:
 
 Elise and I read most of this book aloud on our camping vacation in Maine and New Hampshire. I got a few LOLs out of it, but didn't enjoy it as much as "A Walk In The Woods." Mainly, BB is so mean! Perhaps I liked AWITW better because it was the first BB book I read; here, the humor seemed mostly predictable to me.
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/373990146)  
 
 [IndieBound](https://www.indiebound.org/book/9780060920081)

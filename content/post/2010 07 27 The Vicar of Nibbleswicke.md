@@ -14,6 +14,6 @@ categories:
 
   
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/113857964)  
 
 [IndieBound](https://www.indiebound.org/book/9780140368376)

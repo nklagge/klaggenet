@@ -13,6 +13,6 @@ categories:
 
 The authors have some pretty good ideas about modeling non-rational belief formation using insights from psychology, but I'm not sure this needed to be a book rather than a paper. The best part of this book for me was that it pointed me to the paper "Capital Market Blind Spots."
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/2892451802)  
 
 [IndieBound](https://www.indiebound.org/book/9780691182506)

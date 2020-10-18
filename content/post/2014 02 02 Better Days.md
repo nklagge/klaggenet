@@ -13,6 +13,6 @@ categories:
 
 [See my review for "Those Left Behind."]
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/842206357)  
 
 [IndieBound](https://www.indiebound.org/book/9781595821621)

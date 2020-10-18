@@ -13,6 +13,6 @@ categories:
 
 This was the required textbook for my class, "Power and Politics in Organizations." While I liked the class, I wasn't a big fan of the book. The concepts that Pfeffer discusses seem worthwhile as far as they go, but I guess I don't especially like this format of presenting them--basically, presenting a concept and then giving several brief case-study-based illustrations of the point. In the class, I far preferred extended case study readings, such as Ken Auletta's narration of the (1980s edition) collapse of Lehman Brothers. I can see why an academic would want to depict concepts as general conclusions with concrete examples, but I feel like you miss out on too much by just getting the snippets.
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/210062933)  
 
 [IndieBound](https://www.indiebound.org/book/9780875844404)

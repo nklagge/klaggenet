@@ -13,6 +13,6 @@ categories:
 
 A pretty good book, especially given that I often don't like popular economics books. I'd probably recommend that anyone with a reasonable understanding of banking skip the first couple of chapters, but the rest of the book is worth reading. The authors do an admirable job of explaining potentially daunting concepts like Modigliani-Miller in plain English. Perhaps as a corollary, their policy prescription is very easily expressed: banks should be made to hold more capital. I tend to be skeptical of complexity in the financial world in general, including financial regulation, so I'm pretty receptive to their argument. The book does a good job of addressing several common misconceptions and shooting down counterarguments.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/907380111)  
 
 [IndieBound](https://www.indiebound.org/book/9780691156842)

@@ -13,8 +13,6 @@ categories:
 
 Even more than "The Promise," I think this is the volume fans of the show are looking for--a conclusion to the unfinished story of Zuko's mother. Yang does a good job setting up tension between Zuko's desire not to be the son of a monster like Ozai, and the importance of that fact for his legitimacy as a ruler (although I feel like the agni kai rules of the Fire Nation should trump this question?). 
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/3491372207)  
 
 [IndieBound](https://www.indiebound.org/book/9781616552268)
-
-<!--more-->

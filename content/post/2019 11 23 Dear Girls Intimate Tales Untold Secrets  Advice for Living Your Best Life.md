@@ -13,6 +13,6 @@ categories:
 
 Wong is a pretty good writer and this book is a good mix of serious topics and her signature brash/gross comedic style. I also loved the afterword written by her husband Justin Hakuta. From that section as well as the parts of the book where she writes about him, it's clear that they are such a supportive and loving couple, even if they both seem deeply weird. Aren't we all!<br /><br />Real talk though Ali, your Asian restaurant do/don't chart is hilarious, but you are totally wrong about Filipino food. Saying it's only good if it's home-cooked by a lola (grandma) is a disservice to all the creative young Filipino chefs and restaurateurs on the scene today!
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/3026246739)  
 
 [IndieBound](https://www.indiebound.org/book/9780525508830)

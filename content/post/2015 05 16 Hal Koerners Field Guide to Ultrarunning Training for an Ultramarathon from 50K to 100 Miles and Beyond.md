@@ -13,6 +13,6 @@ categories:
 
 An enjoyable book about the nuts and bolts of ultrarunning from a very accomplished runner. (Watch the movie "Unbreakable" and see if you end up rooting for him!) Elise and I borrowed this from a friend who has already run several ultras. After reading this and crewing for our friend at the Miwok 100K, we are ready to take the plunge and run our first ultra this fall! (Just a 50K though.)
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/1270945491)  
 
 [IndieBound](https://www.indiebound.org/book/9781937715229)

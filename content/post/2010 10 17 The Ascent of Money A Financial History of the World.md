@@ -13,6 +13,6 @@ categories:
 
 It was probably dumb of me to finish this book. As someone with a pretty strong background in finance, I found almost nothing new or interesting in this book. I had been hoping that a historian might bring an interesting perspective to the topic, but Ferguson covered his topics in a pretty standard way. I should have cut my losses and put it down earlier, but I kept hoping I would run across some new perspectives.
 
-My rating: 2 stars  
+[My Goodreads rating: 2 stars](https://www.goodreads.com/review/show/125787892)  
 
 [IndieBound](https://www.indiebound.org/book/9781594201929)

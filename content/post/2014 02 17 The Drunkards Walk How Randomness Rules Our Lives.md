@@ -13,6 +13,6 @@ categories:
 
 Checked this out on a friend's recommendation. I liked it fine, but didn't feel like I took a lot away from it. It is a general-audience book and a lot of the material was already familiar from "Thinking, Fast and Slow."
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/858647147)  
 
 [IndieBound](https://www.indiebound.org/book/9780375424045)

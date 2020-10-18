@@ -13,6 +13,6 @@ categories:
 
 This was a fun book with lots of nice nature pictures in it that Elise's mom picked up for us at a library remainders table. Although we won't be on the AT, it made me look forward to the 2014 hiking season!
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/804936110)  
 
 [IndieBound](https://www.indiebound.org/book/9780870446689)

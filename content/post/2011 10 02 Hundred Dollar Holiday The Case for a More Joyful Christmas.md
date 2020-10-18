@@ -13,6 +13,6 @@ categories:
 
 Nice little (very little!) book. It doesn't break a ton of new ground, but it was interesting learning about the evolution of the celebration of Christmas over time. I find McKibben very refreshing in his willingness to critique the status quo of commercialism without positing some superior golden age in the past. Instead, his writing is a challenge to "make it new" for our own time.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/218765365)  
 
 [IndieBound](https://www.indiebound.org/book/9780684855950)

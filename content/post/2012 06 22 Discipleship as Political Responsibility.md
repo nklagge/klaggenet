@@ -13,6 +13,6 @@ categories:
 
 As usual, I love anything Yoder writes. But only four stars because it doesn't cover any ground that I haven't already read about in "The Politics of Jesus" or "Body Politics." <br /><br />JHY is probably the clearest writer I have ever read. His arguments have very compelling, narrative-like logical structures, and yet you don't feel like you're reading academic work at all. Check out my previous reviews of the above-mentioned books if you want to know more about him.
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/351783034)  
 
 [IndieBound](https://www.indiebound.org/book/9780836192551)

@@ -13,6 +13,6 @@ categories:
 
 [See my review of "Mockingjay" for a review of the trilogy as a whole.]
 
-My rating: 5 stars  
+[My Goodreads rating: 5 stars](https://www.goodreads.com/review/show/221921972)  
 
 [IndieBound](https://www.indiebound.org/book/9780439023498)

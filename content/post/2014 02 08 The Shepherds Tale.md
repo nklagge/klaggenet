@@ -13,6 +13,6 @@ categories:
 
 This was significantly better than the other two "Serenity" graphic novels. The other two basically seemed like attempts at putting a "Firefly" episode into graphic novel form, which seemed only marginally successful--the actors are a lot of what drives the show. But this book delves into the backstory of one particular character, and does it in a way that takes advantage of the different possibilities available in the graphic novel medium. It's nothing like a "Firefly" episode, and is much better for it.
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/849223476)  
 
 [IndieBound](https://www.indiebound.org/book/9781595825612)

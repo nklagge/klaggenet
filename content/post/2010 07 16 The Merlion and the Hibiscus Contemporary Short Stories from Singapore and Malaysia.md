@@ -13,6 +13,6 @@ categories:
 
 Overall this was a pretty strong collection of short stories, with only one or two that I thought were bad and a few that were really superb. The standouts for me were "My Cousin Tim" by Simon Tay and "Surja Singh" by Lloyd Fernando--I'll definitely be looking for more books by these authors.
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/112861184)  
 
 [IndieBound](https://www.indiebound.org/book/9780143028123)

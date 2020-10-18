@@ -13,6 +13,6 @@ categories:
 
 Fun book. Elise and I have enjoyed having a little "fika" tradition of our own lately, as people whose days are often otherwise fairly unstructured. I'm not much of a baker normally, but I set myself a challenge to make something out of this book (not that the recipes are particularly complicated). I made "muskotsnittar," or nutmeg cookies, with a fresh nutmeg nut we have had sitting around forever. ("Fresh.") They are super easy and came out well, although surprisingly not all that nutmeggy given the smell when I was grating. Kept two rolls in the freezer as Anna recommends so we can have fresh cookies again later!
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/1365714079)  
 
 [IndieBound](https://www.indiebound.org/book/9781607745860)

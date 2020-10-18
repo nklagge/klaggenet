@@ -15,6 +15,6 @@ categories:
       God damn it, Franken.
   
 
-My rating: 0 stars  
+[My Goodreads rating: 0 stars](https://www.goodreads.com/review/show/2165559400)  
 
 [IndieBound](https://www.indiebound.org/book/9781455540433)

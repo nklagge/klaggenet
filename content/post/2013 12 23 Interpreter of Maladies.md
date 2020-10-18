@@ -13,6 +13,6 @@ categories:
 
 I guess I'm on a JL kick, but after the excellent "Unaccustomed Earth," IM was a bit of a letdown. The stories in the two collections are similar in many ways, but this one was published much earlier, and to me, it shows. The stories in IM lack the poise and subtlety that JL achieves in UE. The "point" of each story seems to be a little more apparent, and the characters to have a little less depth, than those in the later collection. Certainly, though, the bar set by the later collection is very high, and this set of stories is still quite good. Looking forward to "The Lowland."
 
-My rating: 3 stars  
+[My Goodreads rating: 3 stars](https://www.goodreads.com/review/show/798270337)  
 
 [IndieBound](https://www.indiebound.org/book/9780618101368)

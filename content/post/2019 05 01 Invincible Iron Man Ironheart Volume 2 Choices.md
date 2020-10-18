@@ -13,6 +13,6 @@ categories:
 
 This is as good as the first Iron Man/Ironheart volume. I especially liked that there was a supergroup of good-aligned female characters constantly interacting and playing off one another in interesting ways: Riri Williams, Maria Stark, Sharon Carter, Virginia Potts, Mary Jane Watson, and the AI FRIDAY.
 
-My rating: 4 stars  
+[My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/2798503556)  
 
 [IndieBound](https://www.indiebound.org/book/9781302906733)
