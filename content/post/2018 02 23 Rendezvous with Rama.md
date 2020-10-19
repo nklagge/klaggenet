@@ -1,7 +1,8 @@
 ---
 date: 2018-02-23
 meta: true
-title: "Rendezvous with Rama"
+title: "<em>Rendezvous with Rama</em>"
+subtitle: "Arthur C. Clarke"
 toc: false
 categories:
 - Arthur C. Clarke

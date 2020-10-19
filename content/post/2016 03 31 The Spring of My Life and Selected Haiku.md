@@ -1,7 +1,8 @@
 ---
 date: 2016-03-31
 meta: true
-title: "The Spring of My Life and Selected Haiku"
+title: "<em>The Spring of My Life and Selected Haiku</em>"
+subtitle: "Kobayashi Issa"
 toc: false
 categories:
 - Kobayashi Issa

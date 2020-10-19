@@ -1,7 +1,8 @@
 ---
 date: 2014-05-05
 meta: true
-title: "Love in the Time of Cholera"
+title: "<em>Love in the Time of Cholera</em>"
+subtitle: "Gabriel García Márquez"
 toc: false
 categories:
 - Gabriel García Márquez

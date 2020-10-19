@@ -1,7 +1,8 @@
 ---
 date: 2019-05-29
 meta: true
-title: "Dead Trees Give No Shelter"
+title: "<em>Dead Trees Give No Shelter</em>"
+subtitle: "Wil Wheaton"
 toc: false
 categories:
 - Wil Wheaton

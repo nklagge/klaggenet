@@ -1,7 +1,8 @@
 ---
 date: 2014-11-25
 meta: true
-title: "The Bone Clocks"
+title: "<em>The Bone Clocks</em>"
+subtitle: "David Mitchell"
 toc: false
 categories:
 - David Mitchell

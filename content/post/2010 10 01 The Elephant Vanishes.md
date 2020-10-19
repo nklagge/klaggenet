@@ -1,7 +1,8 @@
 ---
 date: 2010-10-01
 meta: true
-title: "The Elephant Vanishes"
+title: "<em>The Elephant Vanishes</em>"
+subtitle: "Haruki Murakami"
 toc: false
 categories:
 - Haruki Murakami

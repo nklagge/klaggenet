@@ -1,7 +1,8 @@
 ---
 date: 2016-05-09
 meta: true
-title: "Listen, Liberal: Or, What Ever Happened to the Party of the People"
+title: "<em>Listen, Liberal: Or, What Ever Happened to the Party of the People</em>"
+subtitle: "Thomas Frank"
 toc: false
 categories:
 - Thomas Frank

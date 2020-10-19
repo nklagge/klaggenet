@@ -1,7 +1,8 @@
 ---
 date: 2017-04-07
 meta: true
-title: "The Obelisk Gate"
+title: "<em>The Obelisk Gate</em>"
+subtitle: "N.K. Jemisin"
 toc: false
 categories:
 - N.K. Jemisin

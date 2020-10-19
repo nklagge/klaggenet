@@ -1,7 +1,8 @@
 ---
 date: 2012-05-05
 meta: true
-title: "American Born Chinese"
+title: "<em>American Born Chinese</em>"
+subtitle: "Gene Luen Yang"
 toc: false
 categories:
 - Gene Luen Yang

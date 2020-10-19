@@ -1,7 +1,8 @@
 ---
 date: 2015-10-06
 meta: true
-title: "Near & Far: Recipes Inspired by Home and Travel"
+title: "<em>Near & Far: Recipes Inspired by Home and Travel</em>"
+subtitle: "Heidi Swanson"
 toc: false
 categories:
 - Heidi Swanson

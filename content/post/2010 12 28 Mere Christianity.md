@@ -1,7 +1,8 @@
 ---
 date: 2010-12-28
 meta: true
-title: "Mere Christianity"
+title: "<em>Mere Christianity</em>"
+subtitle: "C.S. Lewis"
 toc: false
 categories:
 - C.S. Lewis

@@ -1,7 +1,8 @@
 ---
 date: 2014-05-12
 meta: true
-title: "Nudge: Improving Decisions About Health, Wealth, and Happiness"
+title: "<em>Nudge: Improving Decisions About Health, Wealth, and Happiness</em>"
+subtitle: "Richard H. Thaler"
 toc: false
 categories:
 - Richard H. Thaler

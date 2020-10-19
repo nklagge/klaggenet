@@ -1,7 +1,8 @@
 ---
 date: 2015-03-08
 meta: true
-title: "Our Only World: Ten Essays"
+title: "<em>Our Only World: Ten Essays</em>"
+subtitle: "Wendell Berry"
 toc: false
 categories:
 - Wendell Berry

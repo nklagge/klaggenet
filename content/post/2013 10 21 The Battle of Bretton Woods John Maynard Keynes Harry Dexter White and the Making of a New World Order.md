@@ -1,7 +1,8 @@
 ---
 date: 2013-10-21
 meta: true
-title: "The Battle of Bretton Woods: John Maynard Keynes, Harry Dexter White, and the Making of a New World Order"
+title: "<em>The Battle of Bretton Woods: John Maynard Keynes, Harry Dexter White, and the Making of a New World Order</em>"
+subtitle: "Benn Steil"
 toc: false
 categories:
 - Benn Steil

@@ -1,7 +1,8 @@
 ---
 date: 2011-04-17
 meta: true
-title: "Why We Run: A Natural History"
+title: "<em>Why We Run: A Natural History</em>"
+subtitle: "Bernd Heinrich"
 toc: false
 categories:
 - Bernd Heinrich

@@ -1,7 +1,8 @@
 ---
 date: 2011-06-11
 meta: true
-title: "Market Day"
+title: "<em>Market Day</em>"
+subtitle: "James Sturm"
 toc: false
 categories:
 - James Sturm

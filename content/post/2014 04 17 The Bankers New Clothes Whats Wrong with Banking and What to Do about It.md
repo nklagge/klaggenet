@@ -1,7 +1,8 @@
 ---
 date: 2014-04-17
 meta: true
-title: "The Bankers' New Clothes: Whats Wrong with Banking and What to Do about It"
+title: "<em>The Bankers' New Clothes: Whats Wrong with Banking and What to Do about It</em>"
+subtitle: "Anat Admati"
 toc: false
 categories:
 - Anat Admati

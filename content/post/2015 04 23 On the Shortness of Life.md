@@ -1,7 +1,8 @@
 ---
 date: 2015-04-23
 meta: true
-title: "On the Shortness of Life"
+title: "<em>On the Shortness of Life</em>"
+subtitle: "Seneca"
 toc: false
 categories:
 - Seneca

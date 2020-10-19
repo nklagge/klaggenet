@@ -1,7 +1,8 @@
 ---
 date: 2017-06-11
 meta: true
-title: "Amusing Ourselves to Death: Public Discourse in the Age of Show Business"
+title: "<em>Amusing Ourselves to Death: Public Discourse in the Age of Show Business</em>"
+subtitle: "Neil Postman"
 toc: false
 categories:
 - Neil Postman

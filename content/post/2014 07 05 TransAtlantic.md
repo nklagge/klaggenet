@@ -1,7 +1,8 @@
 ---
 date: 2014-07-05
 meta: true
-title: "TransAtlantic"
+title: "<em>TransAtlantic</em>"
+subtitle: "Colum McCann"
 toc: false
 categories:
 - Colum McCann

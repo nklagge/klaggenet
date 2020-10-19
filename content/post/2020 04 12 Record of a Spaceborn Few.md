@@ -1,7 +1,8 @@
 ---
 date: 2020-04-12
 meta: true
-title: "Record of a Spaceborn Few"
+title: "<em>Record of a Spaceborn Few</em>"
+subtitle: "Becky Chambers"
 toc: false
 categories:
 - Becky Chambers

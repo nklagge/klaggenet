@@ -1,7 +1,8 @@
 ---
 date: 2015-06-10
 meta: true
-title: "Garden Way's Guide to Food Drying: How to Dehydrate, Store and Use Vegtables, Fruits and Herbs"
+title: "<em>Garden Way's Guide to Food Drying: How to Dehydrate, Store and Use Vegtables, Fruits and Herbs</em>"
+subtitle: "Phyllis Hobson"
 toc: false
 categories:
 - Phyllis Hobson

@@ -1,7 +1,8 @@
 ---
 date: 2009-12-28
 meta: true
-title: "Oz: The Wonderful Wizard of Oz"
+title: "<em>Oz: The Wonderful Wizard of Oz</em>"
+subtitle: "Eric Shanower"
 toc: false
 categories:
 - Eric Shanower

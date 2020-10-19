@@ -1,7 +1,8 @@
 ---
 date: 2012-08-04
 meta: true
-title: "The Lost Continent: Travels in Small Town America"
+title: "<em>The Lost Continent: Travels in Small Town America</em>"
+subtitle: "Bill Bryson"
 toc: false
 categories:
 - Bill Bryson

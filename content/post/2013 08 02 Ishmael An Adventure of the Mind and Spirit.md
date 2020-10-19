@@ -1,7 +1,8 @@
 ---
 date: 2013-08-02
 meta: true
-title: "Ishmael: An Adventure of the Mind and Spirit"
+title: "<em>Ishmael: An Adventure of the Mind and Spirit</em>"
+subtitle: "Daniel Quinn"
 toc: false
 categories:
 - Daniel Quinn

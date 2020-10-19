@@ -1,7 +1,8 @@
 ---
 date: 2016-09-09
 meta: true
-title: "Zen Shorts"
+title: "<em>Zen Shorts</em>"
+subtitle: "Jon J. Muth"
 toc: false
 categories:
 - Jon J. Muth

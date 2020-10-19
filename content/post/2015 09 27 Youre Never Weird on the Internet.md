@@ -1,7 +1,8 @@
 ---
 date: 2015-09-27
 meta: true
-title: "You're Never Weird on the Internet"
+title: "<em>You're Never Weird on the Internet</em>"
+subtitle: "Felicia Day"
 toc: false
 categories:
 - Felicia Day

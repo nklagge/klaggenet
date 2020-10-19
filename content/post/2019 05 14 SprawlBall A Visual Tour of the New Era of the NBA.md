@@ -1,7 +1,8 @@
 ---
 date: 2019-05-14
 meta: true
-title: "SprawlBall: A Visual Tour of the New Era of the NBA"
+title: "<em>SprawlBall: A Visual Tour of the New Era of the NBA</em>"
+subtitle: "Kirk Goldsberry"
 toc: false
 categories:
 - Kirk Goldsberry

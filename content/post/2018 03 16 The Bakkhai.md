@@ -1,7 +1,8 @@
 ---
 date: 2018-03-16
 meta: true
-title: "The Bakkhai"
+title: "<em>The Bakkhai</em>"
+subtitle: "Euripides"
 toc: false
 categories:
 - Euripides

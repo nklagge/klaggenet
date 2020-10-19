@@ -1,7 +1,8 @@
 ---
 date: 2011-07-01
 meta: true
-title: "The Good Man Jesus and the Scoundrel Christ"
+title: "<em>The Good Man Jesus and the Scoundrel Christ</em>"
+subtitle: "Philip Pullman"
 toc: false
 categories:
 - Philip Pullman

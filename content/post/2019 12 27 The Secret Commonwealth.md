@@ -1,7 +1,8 @@
 ---
 date: 2019-12-27
 meta: true
-title: "The Secret Commonwealth"
+title: "<em>The Secret Commonwealth</em>"
+subtitle: "Philip Pullman"
 toc: false
 categories:
 - Philip Pullman

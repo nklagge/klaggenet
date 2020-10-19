@@ -1,7 +1,8 @@
 ---
 date: 2012-04-13
 meta: true
-title: "Stabilizing an Unstable Economy: A Twentieth Century Fund Report"
+title: "<em>Stabilizing an Unstable Economy: A Twentieth Century Fund Report</em>"
+subtitle: "Hyman P. Minsky"
 toc: false
 categories:
 - Hyman P. Minsky

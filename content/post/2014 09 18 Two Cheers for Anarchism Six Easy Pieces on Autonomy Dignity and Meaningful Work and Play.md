@@ -1,7 +1,8 @@
 ---
 date: 2014-09-18
 meta: true
-title: "Two Cheers for Anarchism: Six Easy Pieces on Autonomy, Dignity and Meaningful Work and Play"
+title: "<em>Two Cheers for Anarchism: Six Easy Pieces on Autonomy, Dignity and Meaningful Work and Play</em>"
+subtitle: "James C. Scott"
 toc: false
 categories:
 - James C. Scott

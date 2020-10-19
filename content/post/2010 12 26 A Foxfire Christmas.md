@@ -1,7 +1,8 @@
 ---
 date: 2010-12-26
 meta: true
-title: "A Foxfire Christmas"
+title: "<em>A Foxfire Christmas</em>"
+subtitle: "Eliot Wigginton"
 toc: false
 categories:
 - Eliot Wigginton

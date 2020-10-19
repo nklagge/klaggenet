@@ -1,7 +1,8 @@
 ---
 date: 2019-04-26
 meta: true
-title: "The Forbidden Book: The Philippine-American War in Political Cartoons"
+title: "<em>The Forbidden Book: The Philippine-American War in Political Cartoons</em>"
+subtitle: "Abe Ignacio"
 toc: false
 categories:
 - Abe Ignacio

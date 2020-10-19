@@ -1,7 +1,8 @@
 ---
 date: 2016-06-21
 meta: true
-title: "The East Bay Out: A Personal Guide to the East Bay Regional Parks"
+title: "<em>The East Bay Out: A Personal Guide to the East Bay Regional Parks</em>"
+subtitle: "Malcolm Margolin"
 toc: false
 categories:
 - Malcolm Margolin

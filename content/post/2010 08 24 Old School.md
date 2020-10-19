@@ -1,7 +1,8 @@
 ---
 date: 2010-08-24
 meta: true
-title: "Old School"
+title: "<em>Old School</em>"
+subtitle: "Tobias Wolff"
 toc: false
 categories:
 - Tobias Wolff

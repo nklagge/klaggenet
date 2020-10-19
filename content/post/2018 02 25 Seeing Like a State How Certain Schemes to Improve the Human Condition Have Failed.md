@@ -1,7 +1,8 @@
 ---
 date: 2018-02-25
 meta: true
-title: "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed"
+title: "<em>Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed</em>"
+subtitle: "James C. Scott"
 toc: false
 categories:
 - James C. Scott

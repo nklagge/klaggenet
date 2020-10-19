@@ -1,7 +1,8 @@
 ---
 date: 2014-10-11
 meta: true
-title: "Americanah"
+title: "<em>Americanah</em>"
+subtitle: "Chimamanda Ngozi Adichie"
 toc: false
 categories:
 - Chimamanda Ngozi Adichie

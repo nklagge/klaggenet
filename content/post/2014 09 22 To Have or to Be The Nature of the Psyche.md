@@ -1,7 +1,8 @@
 ---
 date: 2014-09-22
 meta: true
-title: "To Have or to Be? The Nature of the Psyche"
+title: "<em>To Have or to Be? The Nature of the Psyche</em>"
+subtitle: "Erich Fromm"
 toc: false
 categories:
 - Erich Fromm

@@ -1,7 +1,8 @@
 ---
 date: 2013-12-07
 meta: true
-title: "Hear the Wind Sing"
+title: "<em>Hear the Wind Sing</em>"
+subtitle: "Haruki Murakami"
 toc: false
 categories:
 - Haruki Murakami

@@ -1,7 +1,8 @@
 ---
 date: 2011-11-24
 meta: true
-title: "Body Politics: Five Practices of the Christian Community Before the Watching World"
+title: "<em>Body Politics: Five Practices of the Christian Community Before the Watching World</em>"
+subtitle: "John Howard Yoder"
 toc: false
 categories:
 - John Howard Yoder

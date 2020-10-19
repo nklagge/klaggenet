@@ -1,7 +1,8 @@
 ---
 date: 2016-06-03
 meta: true
-title: "American Amnesia: Business, Government, and the Forgotten Roots of Our Prosperity"
+title: "<em>American Amnesia: Business, Government, and the Forgotten Roots of Our Prosperity</em>"
+subtitle: "Jacob S. Hacker"
 toc: false
 categories:
 - Jacob S. Hacker

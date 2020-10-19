@@ -1,7 +1,8 @@
 ---
 date: 2011-03-13
 meta: true
-title: "Loaves and Fishes"
+title: "<em>Loaves and Fishes</em>"
+subtitle: "Dorothy Day"
 toc: false
 categories:
 - Dorothy Day

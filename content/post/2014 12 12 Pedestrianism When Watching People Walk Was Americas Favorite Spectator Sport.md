@@ -1,7 +1,8 @@
 ---
 date: 2014-12-12
 meta: true
-title: "Pedestrianism: When Watching People Walk Was America's Favorite Spectator Sport"
+title: "<em>Pedestrianism: When Watching People Walk Was America's Favorite Spectator Sport</em>"
+subtitle: "Matthew Algeo"
 toc: false
 categories:
 - Matthew Algeo

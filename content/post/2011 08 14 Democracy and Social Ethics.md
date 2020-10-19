@@ -1,7 +1,8 @@
 ---
 date: 2011-08-14
 meta: true
-title: "Democracy and Social Ethics"
+title: "<em>Democracy and Social Ethics</em>"
+subtitle: "Jane Addams"
 toc: false
 categories:
 - Jane Addams

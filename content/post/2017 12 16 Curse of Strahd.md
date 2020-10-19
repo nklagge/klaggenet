@@ -1,7 +1,8 @@
 ---
 date: 2017-12-16
 meta: true
-title: "Curse of Strahd"
+title: "<em>Curse of Strahd</em>"
+subtitle: "Christopher Perkins"
 toc: false
 categories:
 - Christopher Perkins

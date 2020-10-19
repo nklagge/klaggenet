@@ -1,7 +1,8 @@
 ---
 date: 2012-11-15
 meta: true
-title: "Twilight of the Elites: America After Meritocracy"
+title: "<em>Twilight of the Elites: America After Meritocracy</em>"
+subtitle: "Christopher L. Hayes"
 toc: false
 categories:
 - Christopher L. Hayes

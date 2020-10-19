@@ -1,7 +1,8 @@
 ---
 date: 2010-07-24
 meta: true
-title: "Little Chapel on the River: A Pub, a Town and the Search for What Matters Most"
+title: "<em>Little Chapel on the River: A Pub, a Town and the Search for What Matters Most</em>"
+subtitle: "Gwendolyn Bounds"
 toc: false
 categories:
 - Gwendolyn Bounds

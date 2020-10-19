@@ -1,7 +1,8 @@
 ---
 date: 2016-08-01
 meta: true
-title: "Escape Everything!: Escape from work. Escape from consumerism. Escape from despair."
+title: "<em>Escape Everything!: Escape from work. Escape from consumerism. Escape from despair.</em>"
+subtitle: "Robert Wringham"
 toc: false
 categories:
 - Robert Wringham

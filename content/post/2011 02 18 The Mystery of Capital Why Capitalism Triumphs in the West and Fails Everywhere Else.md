@@ -1,7 +1,8 @@
 ---
 date: 2011-02-18
 meta: true
-title: "The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else"
+title: "<em>The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else</em>"
+subtitle: "Hernando de Soto"
 toc: false
 categories:
 - Hernando de Soto

@@ -1,7 +1,8 @@
 ---
 date: 2017-08-09
 meta: true
-title: "Run Fast. Eat Slow."
+title: "<em>Run Fast. Eat Slow.</em>"
+subtitle: "Shalane Flanagan"
 toc: false
 categories:
 - Shalane Flanagan

@@ -1,7 +1,8 @@
 ---
 date: 2019-01-05
 meta: true
-title: "How to Write an Autobiographical Novel: Essays"
+title: "<em>How to Write an Autobiographical Novel: Essays</em>"
+subtitle: "Alexander Chee"
 toc: false
 categories:
 - Alexander Chee

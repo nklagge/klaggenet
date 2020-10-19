@@ -1,7 +1,8 @@
 ---
 date: 2020-08-12
 meta: true
-title: "Chicken of the Sea"
+title: "<em>Chicken of the Sea</em>"
+subtitle: "Viet Thanh Nguyen"
 toc: false
 categories:
 - Viet Thanh Nguyen

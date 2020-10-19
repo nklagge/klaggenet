@@ -1,7 +1,8 @@
 ---
 date: 2016-09-28
 meta: true
-title: "At the Existentialist Café: Freedom, Being, and Apricot Cocktails"
+title: "<em>At the Existentialist Café: Freedom, Being, and Apricot Cocktails</em>"
+subtitle: "Sarah Bakewell"
 toc: false
 categories:
 - Sarah Bakewell

@@ -1,7 +1,8 @@
 ---
 date: 2017-08-09
 meta: true
-title: "House of Debt: How They (and You) Caused the Great Recession, and How We Can Prevent It from Happening Again"
+title: "<em>House of Debt: How They (and You) Caused the Great Recession, and How We Can Prevent It from Happening Again</em>"
+subtitle: "Atif Mian"
 toc: false
 categories:
 - Atif Mian

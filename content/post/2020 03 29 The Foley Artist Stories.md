@@ -1,7 +1,8 @@
 ---
 date: 2020-03-29
 meta: true
-title: "The Foley Artist: Stories"
+title: "<em>The Foley Artist: Stories</em>"
+subtitle: "Ricco Villanueva Siasoco"
 toc: false
 categories:
 - Ricco Villanueva Siasoco

@@ -1,7 +1,8 @@
 ---
 date: 2017-12-16
 meta: true
-title: "Dungeon Master's Guide"
+title: "<em>Dungeon Master's Guide</em>"
+subtitle: "Mike Mearls"
 toc: false
 categories:
 - Mike Mearls

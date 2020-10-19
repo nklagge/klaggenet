@@ -1,7 +1,8 @@
 ---
 date: 2015-07-03
 meta: true
-title: "Displacement: A Travelogue"
+title: "<em>Displacement: A Travelogue</em>"
+subtitle: "Lucy Knisley"
 toc: false
 categories:
 - Lucy Knisley

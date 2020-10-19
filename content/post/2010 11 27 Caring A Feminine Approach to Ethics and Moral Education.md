@@ -1,7 +1,8 @@
 ---
 date: 2010-11-27
 meta: true
-title: "Caring: A Feminine Approach to Ethics and Moral Education"
+title: "<em>Caring: A Feminine Approach to Ethics and Moral Education</em>"
+subtitle: "Nel Noddings"
 toc: false
 categories:
 - Nel Noddings

@@ -1,7 +1,8 @@
 ---
 date: 2019-03-10
 meta: true
-title: "Salvage the Bones"
+title: "<em>Salvage the Bones</em>"
+subtitle: "Jesmyn Ward"
 toc: false
 categories:
 - Jesmyn Ward

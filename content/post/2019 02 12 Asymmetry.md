@@ -1,7 +1,8 @@
 ---
 date: 2019-02-12
 meta: true
-title: "Asymmetry"
+title: "<em>Asymmetry</em>"
+subtitle: "Lisa Halliday"
 toc: false
 categories:
 - Lisa Halliday

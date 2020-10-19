@@ -1,7 +1,8 @@
 ---
 date: 2012-12-12
 meta: true
-title: "The Black Swan: The Impact of the Highly Improbable"
+title: "<em>The Black Swan: The Impact of the Highly Improbable</em>"
+subtitle: "Nassim Nicholas Taleb"
 toc: false
 categories:
 - Nassim Nicholas Taleb

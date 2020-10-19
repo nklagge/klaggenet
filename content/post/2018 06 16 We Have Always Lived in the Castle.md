@@ -1,7 +1,8 @@
 ---
 date: 2018-06-16
 meta: true
-title: "We Have Always Lived in the Castle"
+title: "<em>We Have Always Lived in the Castle</em>"
+subtitle: "Shirley Jackson"
 toc: false
 categories:
 - Shirley Jackson

@@ -1,7 +1,8 @@
 ---
 date: 2011-03-05
 meta: true
-title: "The Conquest of Bread"
+title: "<em>The Conquest of Bread</em>"
+subtitle: "Pyotr Kropotkin"
 toc: false
 categories:
 - Pyotr Kropotkin

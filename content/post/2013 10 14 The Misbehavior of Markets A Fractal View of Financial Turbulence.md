@@ -1,7 +1,8 @@
 ---
 date: 2013-10-14
 meta: true
-title: "The Misbehavior of Markets: A Fractal View of Financial Turbulence"
+title: "<em>The Misbehavior of Markets: A Fractal View of Financial Turbulence</em>"
+subtitle: "Benoît B. Mandelbrot"
 toc: false
 categories:
 - Benoît B. Mandelbrot

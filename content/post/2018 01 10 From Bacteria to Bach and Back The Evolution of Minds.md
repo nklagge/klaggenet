@@ -1,7 +1,8 @@
 ---
 date: 2018-01-10
 meta: true
-title: "From Bacteria to Bach and Back: The Evolution of Minds"
+title: "<em>From Bacteria to Bach and Back: The Evolution of Minds</em>"
+subtitle: "Daniel C. Dennett"
 toc: false
 categories:
 - Daniel C. Dennett

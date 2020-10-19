@@ -1,7 +1,8 @@
 ---
 date: 2011-10-02
 meta: true
-title: "Hundred Dollar Holiday: The Case for a More Joyful Christmas"
+title: "<em>Hundred Dollar Holiday: The Case for a More Joyful Christmas</em>"
+subtitle: "Bill McKibben"
 toc: false
 categories:
 - Bill McKibben

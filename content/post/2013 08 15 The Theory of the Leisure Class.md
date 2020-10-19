@@ -1,7 +1,8 @@
 ---
 date: 2013-08-15
 meta: true
-title: "The Theory of the Leisure Class"
+title: "<em>The Theory of the Leisure Class</em>"
+subtitle: "Thorstein Veblen"
 toc: false
 categories:
 - Thorstein Veblen

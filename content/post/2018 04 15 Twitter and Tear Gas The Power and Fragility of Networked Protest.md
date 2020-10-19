@@ -1,7 +1,8 @@
 ---
 date: 2018-04-15
 meta: true
-title: "Twitter and Tear Gas: The Power and Fragility of Networked Protest"
+title: "<em>Twitter and Tear Gas: The Power and Fragility of Networked Protest</em>"
+subtitle: "Zeynep Tufekci"
 toc: false
 categories:
 - Zeynep Tufekci

@@ -1,7 +1,8 @@
 ---
 date: 2010-04-29
 meta: true
-title: "Owly, Vol. 1:  The Way Home & The Bittersweet Summer"
+title: "<em>Owly, Vol. 1:  The Way Home & The Bittersweet Summer</em>"
+subtitle: "Andy Runton"
 toc: false
 categories:
 - Andy Runton

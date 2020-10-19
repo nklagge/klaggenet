@@ -1,7 +1,8 @@
 ---
 date: 2019-03-01
 meta: true
-title: "Witches, Midwives and Nurses: A History of Women Healers"
+title: "<em>Witches, Midwives and Nurses: A History of Women Healers</em>"
+subtitle: "Barbara Ehrenreich"
 toc: false
 categories:
 - Barbara Ehrenreich

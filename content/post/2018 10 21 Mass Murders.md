@@ -1,7 +1,8 @@
 ---
 date: 2018-10-21
 meta: true
-title: "Mass Murders"
+title: "<em>Mass Murders</em>"
+subtitle: "Budjette Tan"
 toc: false
 categories:
 - Budjette Tan

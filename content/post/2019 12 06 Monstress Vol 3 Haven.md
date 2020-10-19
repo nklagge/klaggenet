@@ -1,7 +1,8 @@
 ---
 date: 2019-12-06
 meta: true
-title: "Monstress, Vol. 3: Haven"
+title: "<em>Monstress, Vol. 3: Haven</em>"
+subtitle: "Marjorie M. Liu"
 toc: false
 categories:
 - Marjorie M. Liu

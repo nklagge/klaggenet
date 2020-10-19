@@ -1,7 +1,8 @@
 ---
 date: 2018-05-29
 meta: true
-title: "Sex and Social Justice"
+title: "<em>Sex and Social Justice</em>"
+subtitle: "Martha C. Nussbaum"
 toc: false
 categories:
 - Martha C. Nussbaum

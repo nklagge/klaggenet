@@ -1,7 +1,8 @@
 ---
 date: 2013-05-28
 meta: true
-title: "Pound Foolish: Exposing the Dark Side of the Personal Finance Industry"
+title: "<em>Pound Foolish: Exposing the Dark Side of the Personal Finance Industry</em>"
+subtitle: "Helaine Olen"
 toc: false
 categories:
 - Helaine Olen

@@ -1,7 +1,8 @@
 ---
 date: 2017-10-30
 meta: true
-title: "Goodbye, Things: The New Japanese Minimalism"
+title: "<em>Goodbye, Things: The New Japanese Minimalism</em>"
+subtitle: "Fumio Sasaki"
 toc: false
 categories:
 - Fumio Sasaki

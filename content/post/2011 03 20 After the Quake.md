@@ -1,7 +1,8 @@
 ---
 date: 2011-03-20
 meta: true
-title: "After the Quake"
+title: "<em>After the Quake</em>"
+subtitle: "Haruki Murakami"
 toc: false
 categories:
 - Haruki Murakami

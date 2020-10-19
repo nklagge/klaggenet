@@ -1,7 +1,8 @@
 ---
 date: 2018-06-21
 meta: true
-title: "My Favorite Thing Is Monsters, Vol. 1"
+title: "<em>My Favorite Thing Is Monsters, Vol. 1</em>"
+subtitle: "Emil Ferris"
 toc: false
 categories:
 - Emil Ferris

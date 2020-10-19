@@ -1,7 +1,8 @@
 ---
 date: 2020-08-25
 meta: true
-title: "The Warmth of Other Suns: The Epic Story of America's Great Migration"
+title: "<em>The Warmth of Other Suns: The Epic Story of America's Great Migration</em>"
+subtitle: "Isabel Wilkerson"
 toc: false
 categories:
 - Isabel Wilkerson

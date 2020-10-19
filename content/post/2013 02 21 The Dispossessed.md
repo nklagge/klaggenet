@@ -1,7 +1,8 @@
 ---
 date: 2013-02-21
 meta: true
-title: "The Dispossessed"
+title: "<em>The Dispossessed</em>"
+subtitle: "Ursula K. Le Guin"
 toc: false
 categories:
 - Ursula K. Le Guin

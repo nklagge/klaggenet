@@ -1,7 +1,8 @@
 ---
 date: 2013-06-01
 meta: true
-title: "A Reader's Companion to the Hobbit and the Lord of the Rings"
+title: "<em>A Reader's Companion to the Hobbit and the Lord of the Rings</em>"
+subtitle: "Isaac Asimov"
 toc: false
 categories:
 - Isaac Asimov

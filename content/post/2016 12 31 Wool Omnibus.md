@@ -1,7 +1,8 @@
 ---
 date: 2016-12-31
 meta: true
-title: "Wool Omnibus"
+title: "<em>Wool Omnibus</em>"
+subtitle: "Hugh Howey"
 toc: false
 categories:
 - Hugh Howey

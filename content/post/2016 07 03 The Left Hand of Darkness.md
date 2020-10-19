@@ -1,7 +1,8 @@
 ---
 date: 2016-07-03
 meta: true
-title: "The Left Hand of Darkness"
+title: "<em>The Left Hand of Darkness</em>"
+subtitle: "Ursula K. Le Guin"
 toc: false
 categories:
 - Ursula K. Le Guin

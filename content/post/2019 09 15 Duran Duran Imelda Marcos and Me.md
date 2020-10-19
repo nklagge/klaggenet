@@ -1,7 +1,8 @@
 ---
 date: 2019-09-15
 meta: true
-title: "Duran Duran, Imelda Marcos, and Me"
+title: "<em>Duran Duran, Imelda Marcos, and Me</em>"
+subtitle: "Lorina Mapa"
 toc: false
 categories:
 - Lorina Mapa

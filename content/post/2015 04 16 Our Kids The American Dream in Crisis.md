@@ -1,7 +1,8 @@
 ---
 date: 2015-04-16
 meta: true
-title: "Our Kids: The American Dream in Crisis"
+title: "<em>Our Kids: The American Dream in Crisis</em>"
+subtitle: "Robert D. Putnam"
 toc: false
 categories:
 - Robert D. Putnam

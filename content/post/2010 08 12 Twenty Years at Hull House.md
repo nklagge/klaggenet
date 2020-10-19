@@ -1,7 +1,8 @@
 ---
 date: 2010-08-12
 meta: true
-title: "Twenty Years at Hull House"
+title: "<em>Twenty Years at Hull House</em>"
+subtitle: "Jane Addams"
 toc: false
 categories:
 - Jane Addams

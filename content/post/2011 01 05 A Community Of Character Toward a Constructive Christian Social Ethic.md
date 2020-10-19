@@ -1,7 +1,8 @@
 ---
 date: 2011-01-05
 meta: true
-title: "A Community Of Character: Toward a Constructive Christian Social Ethic"
+title: "<em>A Community Of Character: Toward a Constructive Christian Social Ethic</em>"
+subtitle: "Stanley Hauerwas"
 toc: false
 categories:
 - Stanley Hauerwas

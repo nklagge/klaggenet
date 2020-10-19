@@ -1,7 +1,8 @@
 ---
 date: 2010-04-27
 meta: true
-title: "Bowling Alone: The Collapse and Revival of American Community"
+title: "<em>Bowling Alone: The Collapse and Revival of American Community</em>"
+subtitle: "Robert D. Putnam"
 toc: false
 categories:
 - Robert D. Putnam

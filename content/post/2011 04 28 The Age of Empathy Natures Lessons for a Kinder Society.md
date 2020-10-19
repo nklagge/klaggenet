@@ -1,7 +1,8 @@
 ---
 date: 2011-04-28
 meta: true
-title: "The Age of Empathy: Nature's Lessons for a Kinder Society"
+title: "<em>The Age of Empathy: Nature's Lessons for a Kinder Society</em>"
+subtitle: "Frans de Waal"
 toc: false
 categories:
 - Frans de Waal

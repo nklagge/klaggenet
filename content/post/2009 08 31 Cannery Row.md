@@ -1,7 +1,8 @@
 ---
 date: 2009-08-31
 meta: true
-title: "Cannery Row"
+title: "<em>Cannery Row</em>"
+subtitle: "John Steinbeck"
 toc: false
 categories:
 - John Steinbeck

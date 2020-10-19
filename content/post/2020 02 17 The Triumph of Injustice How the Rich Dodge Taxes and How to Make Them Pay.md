@@ -1,7 +1,8 @@
 ---
 date: 2020-02-17
 meta: true
-title: "The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay"
+title: "<em>The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay</em>"
+subtitle: "Emmanuel Saez"
 toc: false
 categories:
 - Emmanuel Saez

@@ -1,7 +1,8 @@
 ---
 date: 2011-09-16
 meta: true
-title: "The Shadow of the Wind"
+title: "<em>The Shadow of the Wind</em>"
+subtitle: "Carlos Ruiz Zafón"
 toc: false
 categories:
 - Carlos Ruiz Zafón

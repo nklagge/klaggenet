@@ -1,7 +1,8 @@
 ---
 date: 2009-09-29
 meta: true
-title: "The Art of War"
+title: "<em>The Art of War</em>"
+subtitle: "Sun Tzu"
 toc: false
 categories:
 - Sun Tzu

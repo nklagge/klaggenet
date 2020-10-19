@@ -1,7 +1,8 @@
 ---
 date: 2016-09-10
 meta: true
-title: "Corruption in America: From Benjamin Franklin's Snuff Box to Citizens United"
+title: "<em>Corruption in America: From Benjamin Franklin's Snuff Box to Citizens United</em>"
+subtitle: "Zephyr Teachout"
 toc: false
 categories:
 - Zephyr Teachout

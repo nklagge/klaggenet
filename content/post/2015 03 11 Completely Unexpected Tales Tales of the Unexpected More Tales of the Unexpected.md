@@ -1,7 +1,8 @@
 ---
 date: 2015-03-11
 meta: true
-title: "Completely Unexpected Tales: Tales of the Unexpected. More Tales of the Unexpected"
+title: "<em>Completely Unexpected Tales: Tales of the Unexpected. More Tales of the Unexpected</em>"
+subtitle: "Roald Dahl"
 toc: false
 categories:
 - Roald Dahl

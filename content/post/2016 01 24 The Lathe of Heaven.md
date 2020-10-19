@@ -1,7 +1,8 @@
 ---
 date: 2016-01-24
 meta: true
-title: "The Lathe of Heaven"
+title: "<em>The Lathe of Heaven</em>"
+subtitle: "Ursula K. Le Guin"
 toc: false
 categories:
 - Ursula K. Le Guin

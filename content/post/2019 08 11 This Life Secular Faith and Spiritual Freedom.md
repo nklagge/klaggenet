@@ -1,7 +1,8 @@
 ---
 date: 2019-08-11
 meta: true
-title: "This Life: Secular Faith and Spiritual Freedom"
+title: "<em>This Life: Secular Faith and Spiritual Freedom</em>"
+subtitle: "Martin Hägglund"
 toc: false
 categories:
 - Martin Hägglund

@@ -1,7 +1,8 @@
 ---
 date: 2016-06-21
 meta: true
-title: "This Changes Everything: Capitalism vs. The Climate"
+title: "<em>This Changes Everything: Capitalism vs. The Climate</em>"
+subtitle: "Naomi Klein"
 toc: false
 categories:
 - Naomi Klein

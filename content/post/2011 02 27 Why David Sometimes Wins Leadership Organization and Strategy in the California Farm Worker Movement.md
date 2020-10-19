@@ -1,7 +1,8 @@
 ---
 date: 2011-02-27
 meta: true
-title: "Why David Sometimes Wins: Leadership, Organization, and Strategy in the California Farm Worker Movement"
+title: "<em>Why David Sometimes Wins: Leadership, Organization, and Strategy in the California Farm Worker Movement</em>"
+subtitle: "Marshall Ganz"
 toc: false
 categories:
 - Marshall Ganz

@@ -1,7 +1,8 @@
 ---
 date: 2010-05-03
 meta: true
-title: "Transmetropolitan, Vol. 1: Back on the Street"
+title: "<em>Transmetropolitan, Vol. 1: Back on the Street</em>"
+subtitle: "Warren Ellis"
 toc: false
 categories:
 - Warren Ellis

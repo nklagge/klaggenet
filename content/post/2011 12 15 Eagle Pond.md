@@ -1,7 +1,8 @@
 ---
 date: 2011-12-15
 meta: true
-title: "Eagle Pond"
+title: "<em>Eagle Pond</em>"
+subtitle: "Donald Hall"
 toc: false
 categories:
 - Donald Hall

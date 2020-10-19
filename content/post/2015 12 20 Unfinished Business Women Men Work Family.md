@@ -1,7 +1,8 @@
 ---
 date: 2015-12-20
 meta: true
-title: "Unfinished Business: Women, Men, Work, Family"
+title: "<em>Unfinished Business: Women, Men, Work, Family</em>"
+subtitle: "Anne-Marie Slaughter"
 toc: false
 categories:
 - Anne-Marie Slaughter

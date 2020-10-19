@@ -1,7 +1,8 @@
 ---
 date: 2012-05-04
 meta: true
-title: "Micromotives and Macrobehaviour"
+title: "<em>Micromotives and Macrobehaviour</em>"
+subtitle: "Thomas C. Schelling"
 toc: false
 categories:
 - Thomas C. Schelling

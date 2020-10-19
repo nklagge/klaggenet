@@ -1,7 +1,8 @@
 ---
 date: 2020-08-12
 meta: true
-title: "To Be Taught, If Fortunate"
+title: "<em>To Be Taught, If Fortunate</em>"
+subtitle: "Becky Chambers"
 toc: false
 categories:
 - Becky Chambers

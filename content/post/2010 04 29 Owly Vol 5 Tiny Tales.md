@@ -1,7 +1,8 @@
 ---
 date: 2010-04-29
 meta: true
-title: "Owly, Vol. 5: Tiny Tales"
+title: "<em>Owly, Vol. 5: Tiny Tales</em>"
+subtitle: "Andy Runton"
 toc: false
 categories:
 - Andy Runton

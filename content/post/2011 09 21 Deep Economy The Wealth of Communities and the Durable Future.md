@@ -1,7 +1,8 @@
 ---
 date: 2011-09-21
 meta: true
-title: "Deep Economy: The Wealth of Communities and the Durable Future"
+title: "<em>Deep Economy: The Wealth of Communities and the Durable Future</em>"
+subtitle: "Bill McKibben"
 toc: false
 categories:
 - Bill McKibben

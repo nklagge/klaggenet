@@ -1,7 +1,8 @@
 ---
 date: 2019-02-12
 meta: true
-title: "The Totally Awesome Hulk, Vol. 1: Cho Time"
+title: "<em>The Totally Awesome Hulk, Vol. 1: Cho Time</em>"
+subtitle: "Greg Pak"
 toc: false
 categories:
 - Greg Pak

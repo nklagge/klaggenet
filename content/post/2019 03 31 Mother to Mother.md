@@ -1,7 +1,8 @@
 ---
 date: 2019-03-31
 meta: true
-title: "Mother to Mother"
+title: "<em>Mother to Mother</em>"
+subtitle: "Sindiwe Magona"
 toc: false
 categories:
 - Sindiwe Magona

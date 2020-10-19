@@ -1,7 +1,8 @@
 ---
 date: 2013-07-07
 meta: true
-title: "Close Range"
+title: "<em>Close Range</em>"
+subtitle: "Annie Proulx"
 toc: false
 categories:
 - Annie Proulx

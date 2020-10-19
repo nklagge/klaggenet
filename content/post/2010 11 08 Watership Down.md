@@ -1,7 +1,8 @@
 ---
 date: 2010-11-08
 meta: true
-title: "Watership Down"
+title: "<em>Watership Down</em>"
+subtitle: "Richard  Adams"
 toc: false
 categories:
 - Richard  Adams

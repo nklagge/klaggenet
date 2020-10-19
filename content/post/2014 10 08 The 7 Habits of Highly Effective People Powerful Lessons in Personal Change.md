@@ -1,7 +1,8 @@
 ---
 date: 2014-10-08
 meta: true
-title: "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change"
+title: "<em>The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change</em>"
+subtitle: "Stephen R. Covey"
 toc: false
 categories:
 - Stephen R. Covey

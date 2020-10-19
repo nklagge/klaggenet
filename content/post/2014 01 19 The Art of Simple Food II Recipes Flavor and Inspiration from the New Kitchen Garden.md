@@ -1,7 +1,8 @@
 ---
 date: 2014-01-19
 meta: true
-title: "The Art of Simple Food II: Recipes, Flavor, and Inspiration from the New Kitchen Garden"
+title: "<em>The Art of Simple Food II: Recipes, Flavor, and Inspiration from the New Kitchen Garden</em>"
+subtitle: "Alice Waters"
 toc: false
 categories:
 - Alice Waters

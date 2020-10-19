@@ -1,7 +1,8 @@
 ---
 date: 2013-06-27
 meta: true
-title: "Surfaces and Essences: Analogy as the Fuel and Fire of Thinking"
+title: "<em>Surfaces and Essences: Analogy as the Fuel and Fire of Thinking</em>"
+subtitle: "Douglas R. Hofstadter"
 toc: false
 categories:
 - Douglas R. Hofstadter

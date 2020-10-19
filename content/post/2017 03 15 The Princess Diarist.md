@@ -1,7 +1,8 @@
 ---
 date: 2017-03-15
 meta: true
-title: "The Princess Diarist"
+title: "<em>The Princess Diarist</em>"
+subtitle: "Carrie Fisher"
 toc: false
 categories:
 - Carrie Fisher

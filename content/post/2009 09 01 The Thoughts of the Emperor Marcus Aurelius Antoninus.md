@@ -1,7 +1,8 @@
 ---
 date: 2009-09-01
 meta: true
-title: "The Thoughts of the Emperor Marcus Aurelius Antoninus"
+title: "<em>The Thoughts of the Emperor Marcus Aurelius Antoninus</em>"
+subtitle: "Marcus Aurelius"
 toc: false
 categories:
 - Marcus Aurelius

@@ -1,7 +1,8 @@
 ---
 date: 2012-10-01
 meta: true
-title: "All Labor Has Dignity"
+title: "<em>All Labor Has Dignity</em>"
+subtitle: "Martin Luther King Jr."
 toc: false
 categories:
 - Martin Luther King Jr.

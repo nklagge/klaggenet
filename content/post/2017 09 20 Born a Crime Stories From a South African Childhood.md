@@ -1,7 +1,8 @@
 ---
 date: 2017-09-20
 meta: true
-title: "Born a Crime: Stories From a South African Childhood"
+title: "<em>Born a Crime: Stories From a South African Childhood</em>"
+subtitle: "Trevor Noah"
 toc: false
 categories:
 - Trevor Noah

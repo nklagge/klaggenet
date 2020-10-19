@@ -1,7 +1,8 @@
 ---
 date: 2017-04-30
 meta: true
-title: "The Mother of All Questions"
+title: "<em>The Mother of All Questions</em>"
+subtitle: "Rebecca Solnit"
 toc: false
 categories:
 - Rebecca Solnit

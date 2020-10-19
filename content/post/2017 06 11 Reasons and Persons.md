@@ -1,7 +1,8 @@
 ---
 date: 2017-06-11
 meta: true
-title: "Reasons and Persons"
+title: "<em>Reasons and Persons</em>"
+subtitle: "Derek Parfit"
 toc: false
 categories:
 - Derek Parfit

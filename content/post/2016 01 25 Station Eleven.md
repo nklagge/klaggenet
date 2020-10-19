@@ -1,7 +1,8 @@
 ---
 date: 2016-01-25
 meta: true
-title: "Station Eleven"
+title: "<em>Station Eleven</em>"
+subtitle: "Emily St. John Mandel"
 toc: false
 categories:
 - Emily St. John Mandel

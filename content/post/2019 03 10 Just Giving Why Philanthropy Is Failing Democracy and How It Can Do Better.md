@@ -1,7 +1,8 @@
 ---
 date: 2019-03-10
 meta: true
-title: "Just Giving: Why Philanthropy Is Failing Democracy and How It Can Do Better"
+title: "<em>Just Giving: Why Philanthropy Is Failing Democracy and How It Can Do Better</em>"
+subtitle: "Rob Reich"
 toc: false
 categories:
 - Rob Reich

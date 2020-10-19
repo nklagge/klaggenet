@@ -1,7 +1,8 @@
 ---
 date: 2020-08-12
 meta: true
-title: "Avatar: The Last Airbender: The Lost Adventures"
+title: "<em>Avatar: The Last Airbender: The Lost Adventures</em>"
+subtitle: "Bryan Konietzko"
 toc: false
 categories:
 - Bryan Konietzko

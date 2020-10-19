@@ -1,7 +1,8 @@
 ---
 date: 2016-11-15
 meta: true
-title: "The Haunting of Hill House"
+title: "<em>The Haunting of Hill House</em>"
+subtitle: "Shirley Jackson"
 toc: false
 categories:
 - Shirley Jackson

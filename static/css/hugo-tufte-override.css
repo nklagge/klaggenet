@@ -55,3 +55,7 @@ article { padding-top: 10rem; }
 	margin-bottom: 3.5rem;
 	width: 55%;
 }
+
+p.subtitle {
+    font-style: normal;
+}

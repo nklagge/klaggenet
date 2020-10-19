@@ -1,7 +1,8 @@
 ---
 date: 2015-04-26
 meta: true
-title: "Essays, First Series"
+title: "<em>Essays, First Series</em>"
+subtitle: "Ralph Waldo Emerson"
 toc: false
 categories:
 - Ralph Waldo Emerson

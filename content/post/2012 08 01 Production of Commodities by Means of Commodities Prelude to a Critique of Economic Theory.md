@@ -1,7 +1,8 @@
 ---
 date: 2012-08-01
 meta: true
-title: "Production of Commodities by Means of Commodities: Prelude to a Critique of Economic Theory"
+title: "<em>Production of Commodities by Means of Commodities: Prelude to a Critique of Economic Theory</em>"
+subtitle: "Piero Sraffa"
 toc: false
 categories:
 - Piero Sraffa

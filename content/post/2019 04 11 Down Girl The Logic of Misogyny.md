@@ -1,7 +1,8 @@
 ---
 date: 2019-04-11
 meta: true
-title: "Down Girl: The Logic of Misogyny"
+title: "<em>Down Girl: The Logic of Misogyny</em>"
+subtitle: "Kate Manne"
 toc: false
 categories:
 - Kate Manne

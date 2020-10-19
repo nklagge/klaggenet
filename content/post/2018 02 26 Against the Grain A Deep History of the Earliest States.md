@@ -1,7 +1,8 @@
 ---
 date: 2018-02-26
 meta: true
-title: "Against the Grain: A Deep History of the Earliest States"
+title: "<em>Against the Grain: A Deep History of the Earliest States</em>"
+subtitle: "James C. Scott"
 toc: false
 categories:
 - James C. Scott

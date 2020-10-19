@@ -1,7 +1,8 @@
 ---
 date: 2020-01-23
 meta: true
-title: "Voices from Chernobyl: The Oral History of a Nuclear Disaster"
+title: "<em>Voices from Chernobyl: The Oral History of a Nuclear Disaster</em>"
+subtitle: "Svetlana Alexievich"
 toc: false
 categories:
 - Svetlana Alexievich

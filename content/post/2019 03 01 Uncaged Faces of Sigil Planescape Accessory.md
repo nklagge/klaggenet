@@ -1,7 +1,8 @@
 ---
 date: 2019-03-01
 meta: true
-title: "Uncaged: Faces of Sigil: Planescape Accessory"
+title: "<em>Uncaged: Faces of Sigil: Planescape Accessory</em>"
+subtitle: "Ray Vallese"
 toc: false
 categories:
 - Ray Vallese

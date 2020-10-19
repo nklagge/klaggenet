@@ -1,7 +1,8 @@
 ---
 date: 2012-06-08
 meta: true
-title: "Netherland"
+title: "<em>Netherland</em>"
+subtitle: "Joseph O'Neill"
 toc: false
 categories:
 - Joseph O'Neill

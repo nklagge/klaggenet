@@ -1,7 +1,8 @@
 ---
 date: 2019-07-13
 meta: true
-title: "A Crisis of Beliefs: Investor Psychology and Financial Fragility"
+title: "<em>A Crisis of Beliefs: Investor Psychology and Financial Fragility</em>"
+subtitle: "Nicola Gennaioli"
 toc: false
 categories:
 - Nicola Gennaioli

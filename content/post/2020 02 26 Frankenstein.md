@@ -1,7 +1,8 @@
 ---
 date: 2020-02-26
 meta: true
-title: "Frankenstein"
+title: "<em>Frankenstein</em>"
+subtitle: "Mary Wollstonecraft Shelley"
 toc: false
 categories:
 - Mary Wollstonecraft Shelley

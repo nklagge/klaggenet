@@ -1,7 +1,8 @@
 ---
 date: 2016-11-30
 meta: true
-title: "Writing Down the Bones: Freeing the Writer Within"
+title: "<em>Writing Down the Bones: Freeing the Writer Within</em>"
+subtitle: "Natalie Goldberg"
 toc: false
 categories:
 - Natalie Goldberg

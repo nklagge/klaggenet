@@ -1,7 +1,8 @@
 ---
 date: 2011-01-21
 meta: true
-title: "American Grace: How Religion Divides and Unites Us"
+title: "<em>American Grace: How Religion Divides and Unites Us</em>"
+subtitle: "Robert D. Putnam"
 toc: false
 categories:
 - Robert D. Putnam

@@ -1,7 +1,8 @@
 ---
 date: 2016-06-30
 meta: true
-title: "Half-Earth: Our Planet's Fight for Life"
+title: "<em>Half-Earth: Our Planet's Fight for Life</em>"
+subtitle: "Edward O. Wilson"
 toc: false
 categories:
 - Edward O. Wilson

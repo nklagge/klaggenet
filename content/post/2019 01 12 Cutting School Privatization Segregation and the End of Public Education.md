@@ -1,7 +1,8 @@
 ---
 date: 2019-01-12
 meta: true
-title: "Cutting School: Privatization, Segregation, and the End of Public Education"
+title: "<em>Cutting School: Privatization, Segregation, and the End of Public Education</em>"
+subtitle: "Noliwe Rooks"
 toc: false
 categories:
 - Noliwe Rooks

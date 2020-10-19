@@ -1,7 +1,8 @@
 ---
 date: 2013-05-29
 meta: true
-title: "Anne Frank: The Anne Frank House Authorized Graphic Biography"
+title: "<em>Anne Frank: The Anne Frank House Authorized Graphic Biography</em>"
+subtitle: "Sid Jacobson"
 toc: false
 categories:
 - Sid Jacobson

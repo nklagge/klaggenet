@@ -1,7 +1,8 @@
 ---
 date: 2010-07-10
 meta: true
-title: "Hard-boiled Wonderland and the End of the World"
+title: "<em>Hard-boiled Wonderland and the End of the World</em>"
+subtitle: "Haruki Murakami"
 toc: false
 categories:
 - Haruki Murakami

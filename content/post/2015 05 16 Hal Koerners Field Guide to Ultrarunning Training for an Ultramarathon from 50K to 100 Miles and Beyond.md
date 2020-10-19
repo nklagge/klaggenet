@@ -1,7 +1,8 @@
 ---
 date: 2015-05-16
 meta: true
-title: "Hal Koerner's Field Guide to Ultrarunning: Training for an Ultramarathon from 50K to 100 Miles and Beyond"
+title: "<em>Hal Koerner's Field Guide to Ultrarunning: Training for an Ultramarathon from 50K to 100 Miles and Beyond</em>"
+subtitle: "Hal Koerner"
 toc: false
 categories:
 - Hal Koerner

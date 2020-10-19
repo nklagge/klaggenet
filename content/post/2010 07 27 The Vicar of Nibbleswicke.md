@@ -1,7 +1,8 @@
 ---
 date: 2010-07-27
 meta: true
-title: "The Vicar of Nibbleswicke"
+title: "<em>The Vicar of Nibbleswicke</em>"
+subtitle: "Roald Dahl"
 toc: false
 categories:
 - Roald Dahl

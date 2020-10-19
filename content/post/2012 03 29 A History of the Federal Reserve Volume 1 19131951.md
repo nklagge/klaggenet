@@ -1,7 +1,8 @@
 ---
 date: 2012-03-29
 meta: true
-title: "A History of the Federal Reserve, Volume 1: 1913-1951"
+title: "<em>A History of the Federal Reserve, Volume 1: 1913-1951</em>"
+subtitle: "Allan H. Meltzer"
 toc: false
 categories:
 - Allan H. Meltzer

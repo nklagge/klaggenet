@@ -1,7 +1,8 @@
 ---
 date: 2015-02-16
 meta: true
-title: "Life at Home in the Twenty-First Century: 32 Families Open Their Doors"
+title: "<em>Life at Home in the Twenty-First Century: 32 Families Open Their Doors</em>"
+subtitle: "Jeanne E. Arnold"
 toc: false
 categories:
 - Jeanne E. Arnold

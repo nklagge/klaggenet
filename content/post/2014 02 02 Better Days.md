@@ -1,7 +1,8 @@
 ---
 date: 2014-02-02
 meta: true
-title: "Better Days"
+title: "<em>Better Days</em>"
+subtitle: "Joss Whedon"
 toc: false
 categories:
 - Joss Whedon

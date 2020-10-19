@@ -1,7 +1,8 @@
 ---
 date: 2015-07-23
 meta: true
-title: "The Son Also Rises: Surnames and the History of Social Mobility"
+title: "<em>The Son Also Rises: Surnames and the History of Social Mobility</em>"
+subtitle: "Gregory Clark"
 toc: false
 categories:
 - Gregory Clark

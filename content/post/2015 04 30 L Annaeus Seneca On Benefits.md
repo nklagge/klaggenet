@@ -1,7 +1,8 @@
 ---
 date: 2015-04-30
 meta: true
-title: "L. Annaeus Seneca: On Benefits"
+title: "<em>L. Annaeus Seneca: On Benefits</em>"
+subtitle: "Seneca"
 toc: false
 categories:
 - Seneca

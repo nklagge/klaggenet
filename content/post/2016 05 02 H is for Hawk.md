@@ -1,7 +1,8 @@
 ---
 date: 2016-05-02
 meta: true
-title: "H is for Hawk"
+title: "<em>H is for Hawk</em>"
+subtitle: "Helen Macdonald"
 toc: false
 categories:
 - Helen Macdonald

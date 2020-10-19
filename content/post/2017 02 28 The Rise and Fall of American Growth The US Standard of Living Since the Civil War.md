@@ -1,7 +1,8 @@
 ---
 date: 2017-02-28
 meta: true
-title: "The Rise and Fall of American Growth: The U.S. Standard of Living Since the Civil War"
+title: "<em>The Rise and Fall of American Growth: The U.S. Standard of Living Since the Civil War</em>"
+subtitle: "Robert J. Gordon"
 toc: false
 categories:
 - Robert J. Gordon

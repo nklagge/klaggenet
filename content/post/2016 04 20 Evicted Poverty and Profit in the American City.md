@@ -1,7 +1,8 @@
 ---
 date: 2016-04-20
 meta: true
-title: "Evicted: Poverty and Profit in the American City"
+title: "<em>Evicted: Poverty and Profit in the American City</em>"
+subtitle: "Matthew Desmond"
 toc: false
 categories:
 - Matthew Desmond

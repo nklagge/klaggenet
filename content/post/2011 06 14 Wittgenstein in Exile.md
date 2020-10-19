@@ -1,7 +1,8 @@
 ---
 date: 2011-06-14
 meta: true
-title: "Wittgenstein in Exile"
+title: "<em>Wittgenstein in Exile</em>"
+subtitle: "James C. Klagge"
 toc: false
 categories:
 - James C. Klagge

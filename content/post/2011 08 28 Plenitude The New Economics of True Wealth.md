@@ -1,7 +1,8 @@
 ---
 date: 2011-08-28
 meta: true
-title: "Plenitude: The New Economics of True Wealth"
+title: "<em>Plenitude: The New Economics of True Wealth</em>"
+subtitle: "Juliet B. Schor"
 toc: false
 categories:
 - Juliet B. Schor

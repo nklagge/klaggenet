@@ -1,7 +1,8 @@
 ---
 date: 2017-03-15
 meta: true
-title: "The Fifth Season"
+title: "<em>The Fifth Season</em>"
+subtitle: "N.K. Jemisin"
 toc: false
 categories:
 - N.K. Jemisin

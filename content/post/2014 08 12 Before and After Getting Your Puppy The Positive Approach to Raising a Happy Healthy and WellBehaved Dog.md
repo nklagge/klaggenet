@@ -1,7 +1,8 @@
 ---
 date: 2014-08-12
 meta: true
-title: "Before and After Getting Your Puppy: The Positive Approach to Raising a Happy, Healthy, and Well-Behaved Dog"
+title: "<em>Before and After Getting Your Puppy: The Positive Approach to Raising a Happy, Healthy, and Well-Behaved Dog</em>"
+subtitle: "Ian Dunbar"
 toc: false
 categories:
 - Ian Dunbar

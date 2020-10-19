@@ -1,7 +1,8 @@
 ---
 date: 2016-08-15
 meta: true
-title: "The Shock Doctrine: The Rise of Disaster Capitalism"
+title: "<em>The Shock Doctrine: The Rise of Disaster Capitalism</em>"
+subtitle: "Naomi Klein"
 toc: false
 categories:
 - Naomi Klein

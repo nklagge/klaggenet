@@ -1,7 +1,8 @@
 ---
 date: 2011-06-27
 meta: true
-title: "The Kingdom of God Is Within You"
+title: "<em>The Kingdom of God Is Within You</em>"
+subtitle: "Leo Tolstoy"
 toc: false
 categories:
 - Leo Tolstoy

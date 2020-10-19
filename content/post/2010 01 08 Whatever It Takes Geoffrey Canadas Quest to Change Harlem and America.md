@@ -1,7 +1,8 @@
 ---
 date: 2010-01-08
 meta: true
-title: "Whatever It Takes: Geoffrey Canada's Quest to Change Harlem and America"
+title: "<em>Whatever It Takes: Geoffrey Canada's Quest to Change Harlem and America</em>"
+subtitle: "Paul Tough"
 toc: false
 categories:
 - Paul Tough

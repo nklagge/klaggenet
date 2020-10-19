@@ -1,7 +1,8 @@
 ---
 date: 2015-02-24
 meta: true
-title: "Collected Papers of Kenneth J. Arrow, Volume 1: Social Choice and Justice"
+title: "<em>Collected Papers of Kenneth J. Arrow, Volume 1: Social Choice and Justice</em>"
+subtitle: "Kenneth J. Arrow"
 toc: false
 categories:
 - Kenneth J. Arrow

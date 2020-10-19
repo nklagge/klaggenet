@@ -1,7 +1,8 @@
 ---
 date: 2018-03-25
 meta: true
-title: "Adults in the Room: My Battle with Europe's Deep Establishment"
+title: "<em>Adults in the Room: My Battle with Europe's Deep Establishment</em>"
+subtitle: "Yanis Varoufakis"
 toc: false
 categories:
 - Yanis Varoufakis

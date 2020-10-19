@@ -1,7 +1,8 @@
 ---
 date: 2012-01-08
 meta: true
-title: "The Screwtape Letters"
+title: "<em>The Screwtape Letters</em>"
+subtitle: "C.S. Lewis"
 toc: false
 categories:
 - C.S. Lewis

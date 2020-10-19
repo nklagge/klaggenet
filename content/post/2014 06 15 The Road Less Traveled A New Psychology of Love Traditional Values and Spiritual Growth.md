@@ -1,7 +1,8 @@
 ---
 date: 2014-06-15
 meta: true
-title: "The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth"
+title: "<em>The Road Less Traveled: A New Psychology of Love, Traditional Values and Spiritual Growth</em>"
+subtitle: "M. Scott Peck"
 toc: false
 categories:
 - M. Scott Peck

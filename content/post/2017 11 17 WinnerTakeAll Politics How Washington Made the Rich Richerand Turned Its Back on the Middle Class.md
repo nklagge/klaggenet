@@ -1,7 +1,8 @@
 ---
 date: 2017-11-17
 meta: true
-title: "Winner-Take-All Politics: How Washington Made the Rich Richer--and Turned Its Back on the Middle Class"
+title: "<em>Winner-Take-All Politics: How Washington Made the Rich Richer--and Turned Its Back on the Middle Class</em>"
+subtitle: "Jacob S. Hacker"
 toc: false
 categories:
 - Jacob S. Hacker

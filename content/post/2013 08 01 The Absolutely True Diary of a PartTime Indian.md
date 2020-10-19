@@ -1,7 +1,8 @@
 ---
 date: 2013-08-01
 meta: true
-title: "The Absolutely True Diary of a Part-Time Indian"
+title: "<em>The Absolutely True Diary of a Part-Time Indian</em>"
+subtitle: "Sherman Alexie"
 toc: false
 categories:
 - Sherman Alexie

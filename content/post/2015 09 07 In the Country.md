@@ -1,7 +1,8 @@
 ---
 date: 2015-09-07
 meta: true
-title: "In the Country"
+title: "<em>In the Country</em>"
+subtitle: "Mia Alvar"
 toc: false
 categories:
 - Mia Alvar

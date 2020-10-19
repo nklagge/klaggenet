@@ -1,7 +1,8 @@
 ---
 date: 2010-07-16
 meta: true
-title: "The Merlion and the Hibiscus: Contemporary Short Stories from Singapore and Malaysia"
+title: "<em>The Merlion and the Hibiscus: Contemporary Short Stories from Singapore and Malaysia</em>"
+subtitle: "Michelle A. Edwards"
 toc: false
 categories:
 - Michelle A. Edwards

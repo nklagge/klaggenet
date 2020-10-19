@@ -1,7 +1,8 @@
 ---
 date: 2010-11-21
 meta: true
-title: "A Call for Judgment"
+title: "<em>A Call for Judgment</em>"
+subtitle: "Amar Bhide"
 toc: false
 categories:
 - Amar Bhide

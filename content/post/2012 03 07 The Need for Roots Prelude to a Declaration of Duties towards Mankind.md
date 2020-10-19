@@ -1,7 +1,8 @@
 ---
 date: 2012-03-07
 meta: true
-title: "The Need for Roots: Prelude to a Declaration of Duties towards Mankind"
+title: "<em>The Need for Roots: Prelude to a Declaration of Duties towards Mankind</em>"
+subtitle: "Simone Weil"
 toc: false
 categories:
 - Simone Weil

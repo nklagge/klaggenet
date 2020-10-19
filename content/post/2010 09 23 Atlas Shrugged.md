@@ -1,7 +1,8 @@
 ---
 date: 2010-09-23
 meta: true
-title: "Atlas Shrugged"
+title: "<em>Atlas Shrugged</em>"
+subtitle: "Ayn Rand"
 toc: false
 categories:
 - Ayn Rand

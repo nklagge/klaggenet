@@ -1,7 +1,8 @@
 ---
 date: 2019-05-01
 meta: true
-title: "Invincible Iron Man: Ironheart, Volume 2: Choices"
+title: "<em>Invincible Iron Man: Ironheart, Volume 2: Choices</em>"
+subtitle: "Brian Michael Bendis"
 toc: false
 categories:
 - Brian Michael Bendis

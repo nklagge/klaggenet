@@ -1,7 +1,8 @@
 ---
 date: 2010-06-09
 meta: true
-title: "The Zuni Cafe Cookbook: A Compendium of Recipes and Cooking Lessons from San Francisco's Beloved Restaurant"
+title: "<em>The Zuni Cafe Cookbook: A Compendium of Recipes and Cooking Lessons from San Francisco's Beloved Restaurant</em>"
+subtitle: "Judy Rodgers"
 toc: false
 categories:
 - Judy Rodgers

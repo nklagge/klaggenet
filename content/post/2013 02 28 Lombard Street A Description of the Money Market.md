@@ -1,7 +1,8 @@
 ---
 date: 2013-02-28
 meta: true
-title: "Lombard Street: A Description of the Money Market"
+title: "<em>Lombard Street: A Description of the Money Market</em>"
+subtitle: "Walter Bagehot"
 toc: false
 categories:
 - Walter Bagehot

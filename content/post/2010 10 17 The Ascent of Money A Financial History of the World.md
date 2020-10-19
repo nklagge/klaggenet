@@ -1,7 +1,8 @@
 ---
 date: 2010-10-17
 meta: true
-title: "The Ascent of Money: A Financial History of the World"
+title: "<em>The Ascent of Money: A Financial History of the World</em>"
+subtitle: "Niall Ferguson"
 toc: false
 categories:
 - Niall Ferguson

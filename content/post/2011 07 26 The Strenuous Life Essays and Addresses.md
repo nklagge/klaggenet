@@ -1,7 +1,8 @@
 ---
 date: 2011-07-26
 meta: true
-title: "The Strenuous Life: Essays and Addresses"
+title: "<em>The Strenuous Life: Essays and Addresses</em>"
+subtitle: "Theodore Roosevelt"
 toc: false
 categories:
 - Theodore Roosevelt

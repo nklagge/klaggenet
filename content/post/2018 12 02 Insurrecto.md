@@ -1,7 +1,8 @@
 ---
 date: 2018-12-02
 meta: true
-title: "Insurrecto"
+title: "<em>Insurrecto</em>"
+subtitle: "Gina Apostol"
 toc: false
 categories:
 - Gina Apostol

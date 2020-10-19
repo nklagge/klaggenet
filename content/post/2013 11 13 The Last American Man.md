@@ -1,7 +1,8 @@
 ---
 date: 2013-11-13
 meta: true
-title: "The Last American Man"
+title: "<em>The Last American Man</em>"
+subtitle: "Elizabeth Gilbert"
 toc: false
 categories:
 - Elizabeth Gilbert

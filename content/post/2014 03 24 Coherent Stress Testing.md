@@ -1,7 +1,8 @@
 ---
 date: 2014-03-24
 meta: true
-title: "Coherent Stress Testing"
+title: "<em>Coherent Stress Testing</em>"
+subtitle: "Riccardo Rebonato"
 toc: false
 categories:
 - Riccardo Rebonato

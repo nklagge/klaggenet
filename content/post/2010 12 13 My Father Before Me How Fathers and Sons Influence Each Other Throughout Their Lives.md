@@ -1,7 +1,8 @@
 ---
 date: 2010-12-13
 meta: true
-title: "My Father Before Me: How Fathers and Sons Influence Each Other Throughout Their Lives"
+title: "<em>My Father Before Me: How Fathers and Sons Influence Each Other Throughout Their Lives</em>"
+subtitle: "Michael J. Diamond"
 toc: false
 categories:
 - Michael J. Diamond

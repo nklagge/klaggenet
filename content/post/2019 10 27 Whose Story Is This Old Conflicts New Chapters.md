@@ -1,7 +1,8 @@
 ---
 date: 2019-10-27
 meta: true
-title: "Whose Story Is This? Old Conflicts, New Chapters"
+title: "<em>Whose Story Is This? Old Conflicts, New Chapters</em>"
+subtitle: "Rebecca Solnit"
 toc: false
 categories:
 - Rebecca Solnit

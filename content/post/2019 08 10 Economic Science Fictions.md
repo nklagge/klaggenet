@@ -1,7 +1,8 @@
 ---
 date: 2019-08-10
 meta: true
-title: "Economic Science Fictions"
+title: "<em>Economic Science Fictions</em>"
+subtitle: "William  Davies"
 toc: false
 categories:
 - William  Davies

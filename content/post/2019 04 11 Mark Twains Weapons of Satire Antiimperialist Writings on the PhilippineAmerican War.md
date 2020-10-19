@@ -1,7 +1,8 @@
 ---
 date: 2019-04-11
 meta: true
-title: "Mark Twain's Weapons of Satire: Anti-imperialist Writings on the Philippine-American War"
+title: "<em>Mark Twain's Weapons of Satire: Anti-imperialist Writings on the Philippine-American War</em>"
+subtitle: "Mark Twain"
 toc: false
 categories:
 - Mark Twain

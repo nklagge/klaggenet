@@ -1,7 +1,8 @@
 ---
 date: 2015-04-01
 meta: true
-title: "The Wisdom of Life"
+title: "<em>The Wisdom of Life</em>"
+subtitle: "Arthur Schopenhauer"
 toc: false
 categories:
 - Arthur Schopenhauer

@@ -1,7 +1,8 @@
 ---
 date: 2015-03-18
 meta: true
-title: "The Third Plate: Field Notes on the Future of Food"
+title: "<em>The Third Plate: Field Notes on the Future of Food</em>"
+subtitle: "Dan Barber"
 toc: false
 categories:
 - Dan Barber

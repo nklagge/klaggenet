@@ -1,7 +1,8 @@
 ---
 date: 2013-07-14
 meta: true
-title: "The Harried Leisure Class"
+title: "<em>The Harried Leisure Class</em>"
+subtitle: "Staffan Burenstam Linder"
 toc: false
 categories:
 - Staffan Burenstam Linder

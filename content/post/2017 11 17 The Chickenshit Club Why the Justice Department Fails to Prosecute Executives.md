@@ -1,7 +1,8 @@
 ---
 date: 2017-11-17
 meta: true
-title: "The Chickenshit Club: Why the Justice Department Fails to Prosecute Executives"
+title: "<em>The Chickenshit Club: Why the Justice Department Fails to Prosecute Executives</em>"
+subtitle: "Jesse Eisinger"
 toc: false
 categories:
 - Jesse Eisinger

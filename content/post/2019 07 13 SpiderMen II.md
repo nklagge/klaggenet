@@ -1,7 +1,8 @@
 ---
 date: 2019-07-13
 meta: true
-title: "Spider-Men II"
+title: "<em>Spider-Men II</em>"
+subtitle: "Brian Michael Bendis"
 toc: false
 categories:
 - Brian Michael Bendis

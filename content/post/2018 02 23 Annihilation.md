@@ -1,7 +1,8 @@
 ---
 date: 2018-02-23
 meta: true
-title: "Annihilation"
+title: "<em>Annihilation</em>"
+subtitle: "Jeff VanderMeer"
 toc: false
 categories:
 - Jeff VanderMeer

@@ -1,7 +1,8 @@
 ---
 date: 2014-02-11
 meta: true
-title: "Wild: From Lost to Found on the Pacific Crest Trail"
+title: "<em>Wild: From Lost to Found on the Pacific Crest Trail</em>"
+subtitle: "Cheryl Strayed"
 toc: false
 categories:
 - Cheryl Strayed

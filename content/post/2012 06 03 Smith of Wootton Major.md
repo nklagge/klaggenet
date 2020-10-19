@@ -1,7 +1,8 @@
 ---
 date: 2012-06-03
 meta: true
-title: "Smith of Wootton Major"
+title: "<em>Smith of Wootton Major</em>"
+subtitle: "J.R.R. Tolkien"
 toc: false
 categories:
 - J.R.R. Tolkien

@@ -1,7 +1,8 @@
 ---
 date: 2014-05-31
 meta: true
-title: "The Public Library: A Photographic Essay"
+title: "<em>The Public Library: A Photographic Essay</em>"
+subtitle: "Robert Dawson"
 toc: false
 categories:
 - Robert Dawson

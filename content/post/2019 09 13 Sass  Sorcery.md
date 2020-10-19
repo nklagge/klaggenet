@@ -1,7 +1,8 @@
 ---
 date: 2019-09-13
 meta: true
-title: "Sass & Sorcery"
+title: "<em>Sass & Sorcery</em>"
+subtitle: "Kurtis J. Wiebe"
 toc: false
 categories:
 - Kurtis J. Wiebe

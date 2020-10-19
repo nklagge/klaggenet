@@ -1,7 +1,8 @@
 ---
 date: 2011-03-23
 meta: true
-title: "Negotiation Genius: How to Overcome Obstacles and Achieve Brilliant Results at the Bargaining Table and Beyond"
+title: "<em>Negotiation Genius: How to Overcome Obstacles and Achieve Brilliant Results at the Bargaining Table and Beyond</em>"
+subtitle: "Deepak Malhotra"
 toc: false
 categories:
 - Deepak Malhotra

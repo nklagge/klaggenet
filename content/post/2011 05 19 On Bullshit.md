@@ -1,7 +1,8 @@
 ---
 date: 2011-05-19
 meta: true
-title: "On Bullshit"
+title: "<em>On Bullshit</em>"
+subtitle: "Harry G. Frankfurt"
 toc: false
 categories:
 - Harry G. Frankfurt

@@ -1,7 +1,8 @@
 ---
 date: 2009-09-17
 meta: true
-title: "Memories of Philippine Kitchens"
+title: "<em>Memories of Philippine Kitchens</em>"
+subtitle: "Amy Besa"
 toc: false
 categories:
 - Amy Besa

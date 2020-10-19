@@ -1,7 +1,8 @@
 ---
 date: 2015-12-01
 meta: true
-title: "Slade House"
+title: "<em>Slade House</em>"
+subtitle: "David Mitchell"
 toc: false
 categories:
 - David Mitchell

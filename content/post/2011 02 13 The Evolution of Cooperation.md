@@ -1,7 +1,8 @@
 ---
 date: 2011-02-13
 meta: true
-title: "The Evolution of Cooperation"
+title: "<em>The Evolution of Cooperation</em>"
+subtitle: "Robert Axelrod"
 toc: false
 categories:
 - Robert Axelrod

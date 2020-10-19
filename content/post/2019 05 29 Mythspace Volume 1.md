@@ -1,7 +1,8 @@
 ---
 date: 2019-05-29
 meta: true
-title: "Mythspace, Volume 1"
+title: "<em>Mythspace, Volume 1</em>"
+subtitle: "Paolo Chikiamco"
 toc: false
 categories:
 - Paolo Chikiamco

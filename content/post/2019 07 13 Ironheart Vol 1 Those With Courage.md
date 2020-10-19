@@ -1,7 +1,8 @@
 ---
 date: 2019-07-13
 meta: true
-title: "Ironheart, Vol. 1: Those With Courage"
+title: "<em>Ironheart, Vol. 1: Those With Courage</em>"
+subtitle: "Eve L. Ewing"
 toc: false
 categories:
 - Eve L. Ewing

@@ -1,7 +1,8 @@
 ---
 date: 2018-03-31
 meta: true
-title: "No Time to Spare: Thinking About What Matters"
+title: "<em>No Time to Spare: Thinking About What Matters</em>"
+subtitle: "Ursula K. Le Guin"
 toc: false
 categories:
 - Ursula K. Le Guin

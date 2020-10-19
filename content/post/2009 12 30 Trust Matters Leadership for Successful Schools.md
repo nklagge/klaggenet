@@ -1,7 +1,8 @@
 ---
 date: 2009-12-30
 meta: true
-title: "Trust Matters: Leadership for Successful Schools"
+title: "<em>Trust Matters: Leadership for Successful Schools</em>"
+subtitle: "Megan Tschannen-Moran"
 toc: false
 categories:
 - Megan Tschannen-Moran

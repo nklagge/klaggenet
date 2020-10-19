@@ -1,7 +1,8 @@
 ---
 date: 2018-04-25
 meta: true
-title: "America Is Not the Heart"
+title: "<em>America Is Not the Heart</em>"
+subtitle: "Elaine Castillo"
 toc: false
 categories:
 - Elaine Castillo

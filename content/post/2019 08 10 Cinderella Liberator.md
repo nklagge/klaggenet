@@ -1,7 +1,8 @@
 ---
 date: 2019-08-10
 meta: true
-title: "Cinderella Liberator"
+title: "<em>Cinderella Liberator</em>"
+subtitle: "Rebecca Solnit"
 toc: false
 categories:
 - Rebecca Solnit

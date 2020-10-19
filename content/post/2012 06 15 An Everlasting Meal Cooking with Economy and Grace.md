@@ -1,7 +1,8 @@
 ---
 date: 2012-06-15
 meta: true
-title: "An Everlasting Meal: Cooking with Economy and Grace"
+title: "<em>An Everlasting Meal: Cooking with Economy and Grace</em>"
+subtitle: "Tamar Adler"
 toc: false
 categories:
 - Tamar Adler

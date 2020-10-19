@@ -1,7 +1,8 @@
 ---
 date: 2017-12-15
 meta: true
-title: "The Life You Can Save: Acting Now to End World Poverty"
+title: "<em>The Life You Can Save: Acting Now to End World Poverty</em>"
+subtitle: "Peter Singer"
 toc: false
 categories:
 - Peter Singer

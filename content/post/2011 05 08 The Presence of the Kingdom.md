@@ -1,7 +1,8 @@
 ---
 date: 2011-05-08
 meta: true
-title: "The Presence of the Kingdom"
+title: "<em>The Presence of the Kingdom</em>"
+subtitle: "Jacques Ellul"
 toc: false
 categories:
 - Jacques Ellul

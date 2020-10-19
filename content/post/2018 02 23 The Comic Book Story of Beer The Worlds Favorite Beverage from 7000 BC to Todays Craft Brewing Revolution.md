@@ -1,7 +1,8 @@
 ---
 date: 2018-02-23
 meta: true
-title: "The Comic Book Story of Beer: The World's Favorite Beverage from 7000 BC to Today's Craft Brewing Revolution"
+title: "<em>The Comic Book Story of Beer: The World's Favorite Beverage from 7000 BC to Today's Craft Brewing Revolution</em>"
+subtitle: "Jonathan Hennessey"
 toc: false
 categories:
 - Jonathan Hennessey

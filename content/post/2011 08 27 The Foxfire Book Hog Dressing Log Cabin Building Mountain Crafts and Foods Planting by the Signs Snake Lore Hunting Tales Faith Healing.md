@@ -1,7 +1,8 @@
 ---
 date: 2011-08-27
 meta: true
-title: "The Foxfire Book: Hog Dressing; Log Cabin Building; Mountain Crafts and Foods; Planting by the Signs; Snake Lore, Hunting Tales, Faith Healing"
+title: "<em>The Foxfire Book: Hog Dressing; Log Cabin Building; Mountain Crafts and Foods; Planting by the Signs; Snake Lore, Hunting Tales, Faith Healing</em>"
+subtitle: "Eliot Wigginton"
 toc: false
 categories:
 - Eliot Wigginton

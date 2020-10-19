@@ -1,7 +1,8 @@
 ---
 date: 2015-11-07
 meta: true
-title: "The Courage to Act: A Memoir of a Crisis and Its Aftermath"
+title: "<em>The Courage to Act: A Memoir of a Crisis and Its Aftermath</em>"
+subtitle: "Ben S. Bernanke"
 toc: false
 categories:
 - Ben S. Bernanke

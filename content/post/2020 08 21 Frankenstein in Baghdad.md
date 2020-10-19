@@ -1,7 +1,8 @@
 ---
 date: 2020-08-21
 meta: true
-title: "Frankenstein in Baghdad"
+title: "<em>Frankenstein in Baghdad</em>"
+subtitle: "Ahmed Saadawi"
 toc: false
 categories:
 - Ahmed Saadawi

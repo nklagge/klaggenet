@@ -1,7 +1,8 @@
 ---
 date: 2017-01-08
 meta: true
-title: "Preludes & Nocturnes"
+title: "<em>Preludes & Nocturnes</em>"
+subtitle: "Neil Gaiman"
 toc: false
 categories:
 - Neil Gaiman

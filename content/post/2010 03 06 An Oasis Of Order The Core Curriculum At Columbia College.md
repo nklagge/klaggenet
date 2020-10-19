@@ -1,7 +1,8 @@
 ---
 date: 2010-03-06
 meta: true
-title: "An Oasis Of Order: The Core Curriculum At Columbia College"
+title: "<em>An Oasis Of Order: The Core Curriculum At Columbia College</em>"
+subtitle: "Timothy P Cross"
 toc: false
 categories:
 - Timothy P Cross

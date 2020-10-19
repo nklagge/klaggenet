@@ -1,7 +1,8 @@
 ---
 date: 2015-10-22
 meta: true
-title: "Finding Yourself in the Kitchen: Kitchen Meditations and Inspired Recipes from a Mindful Cook"
+title: "<em>Finding Yourself in the Kitchen: Kitchen Meditations and Inspired Recipes from a Mindful Cook</em>"
+subtitle: "Dana Velden"
 toc: false
 categories:
 - Dana Velden

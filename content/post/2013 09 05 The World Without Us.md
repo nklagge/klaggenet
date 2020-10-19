@@ -1,7 +1,8 @@
 ---
 date: 2013-09-05
 meta: true
-title: "The World Without Us"
+title: "<em>The World Without Us</em>"
+subtitle: "Alan Weisman"
 toc: false
 categories:
 - Alan Weisman

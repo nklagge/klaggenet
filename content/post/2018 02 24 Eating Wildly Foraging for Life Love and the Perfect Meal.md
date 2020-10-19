@@ -1,7 +1,8 @@
 ---
 date: 2018-02-24
 meta: true
-title: "Eating Wildly: Foraging for Life, Love and the Perfect Meal"
+title: "<em>Eating Wildly: Foraging for Life, Love and the Perfect Meal</em>"
+subtitle: "Ava Chin"
 toc: false
 categories:
 - Ava Chin

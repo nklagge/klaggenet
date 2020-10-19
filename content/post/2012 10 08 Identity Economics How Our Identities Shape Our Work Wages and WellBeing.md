@@ -1,7 +1,8 @@
 ---
 date: 2012-10-08
 meta: true
-title: "Identity Economics: How Our Identities Shape Our Work, Wages, and Well-Being"
+title: "<em>Identity Economics: How Our Identities Shape Our Work, Wages, and Well-Being</em>"
+subtitle: "George A. Akerlof"
 toc: false
 categories:
 - George A. Akerlof

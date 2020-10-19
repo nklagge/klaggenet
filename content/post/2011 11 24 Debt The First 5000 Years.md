@@ -1,7 +1,8 @@
 ---
 date: 2011-11-24
 meta: true
-title: "Debt: The First 5,000 Years"
+title: "<em>Debt: The First 5,000 Years</em>"
+subtitle: "David Graeber"
 toc: false
 categories:
 - David Graeber

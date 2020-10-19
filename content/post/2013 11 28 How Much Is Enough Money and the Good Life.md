@@ -1,7 +1,8 @@
 ---
 date: 2013-11-28
 meta: true
-title: "How Much Is Enough? Money and the Good Life"
+title: "<em>How Much Is Enough? Money and the Good Life</em>"
+subtitle: "Robert Skidelsky"
 toc: false
 categories:
 - Robert Skidelsky

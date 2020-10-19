@@ -1,7 +1,8 @@
 ---
 date: 2016-02-28
 meta: true
-title: "The Tale of Genji"
+title: "<em>The Tale of Genji</em>"
+subtitle: "Murasaki Shikibu"
 toc: false
 categories:
 - Murasaki Shikibu

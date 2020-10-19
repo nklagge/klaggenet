@@ -1,7 +1,8 @@
 ---
 date: 2012-04-23
 meta: true
-title: "A Tree Grows in Brooklyn"
+title: "<em>A Tree Grows in Brooklyn</em>"
+subtitle: "Betty  Smith"
 toc: false
 categories:
 - Betty  Smith

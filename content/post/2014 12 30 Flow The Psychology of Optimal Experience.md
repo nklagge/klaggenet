@@ -1,7 +1,8 @@
 ---
 date: 2014-12-30
 meta: true
-title: "Flow: The Psychology of Optimal Experience"
+title: "<em>Flow: The Psychology of Optimal Experience</em>"
+subtitle: "Mihaly Csikszentmihalyi"
 toc: false
 categories:
 - Mihaly Csikszentmihalyi

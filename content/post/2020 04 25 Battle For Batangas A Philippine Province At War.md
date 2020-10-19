@@ -1,7 +1,8 @@
 ---
 date: 2020-04-25
 meta: true
-title: "Battle For Batangas: A Philippine Province At War"
+title: "<em>Battle For Batangas: A Philippine Province At War</em>"
+subtitle: "Glenn Anthony May"
 toc: false
 categories:
 - Glenn Anthony May

@@ -1,7 +1,8 @@
 ---
 date: 2020-08-28
 meta: true
-title: "Superman Smashes the Klan"
+title: "<em>Superman Smashes the Klan</em>"
+subtitle: "Gene Luen Yang"
 toc: false
 categories:
 - Gene Luen Yang

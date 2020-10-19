@@ -1,7 +1,8 @@
 ---
 date: 2019-03-02
 meta: true
-title: "Winners Take All: The Elite Charade of Changing the World"
+title: "<em>Winners Take All: The Elite Charade of Changing the World</em>"
+subtitle: "Anand Giridharadas"
 toc: false
 categories:
 - Anand Giridharadas

@@ -1,7 +1,8 @@
 ---
 date: 2020-07-07
 meta: true
-title: "Avatar: The Last Airbender: The Promise"
+title: "<em>Avatar: The Last Airbender: The Promise</em>"
+subtitle: "Gene Luen Yang"
 toc: false
 categories:
 - Gene Luen Yang

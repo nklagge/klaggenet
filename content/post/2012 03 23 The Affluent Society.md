@@ -1,7 +1,8 @@
 ---
 date: 2012-03-23
 meta: true
-title: "The Affluent Society"
+title: "<em>The Affluent Society</em>"
+subtitle: "John Kenneth Galbraith"
 toc: false
 categories:
 - John Kenneth Galbraith

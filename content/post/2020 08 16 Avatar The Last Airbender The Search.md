@@ -1,7 +1,8 @@
 ---
 date: 2020-08-16
 meta: true
-title: "Avatar: The Last Airbender: The Search"
+title: "<em>Avatar: The Last Airbender: The Search</em>"
+subtitle: "Gene Luen Yang"
 toc: false
 categories:
 - Gene Luen Yang

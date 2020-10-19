@@ -1,7 +1,8 @@
 ---
 date: 2014-02-11
 meta: true
-title: "The New Complete Joy of Home Brewing"
+title: "<em>The New Complete Joy of Home Brewing</em>"
+subtitle: "Charles Papazian"
 toc: false
 categories:
 - Charles Papazian

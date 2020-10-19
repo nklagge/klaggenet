@@ -1,7 +1,8 @@
 ---
 date: 2018-08-04
 meta: true
-title: "The Monarchy of Fear: A Philosopher Looks at Our Political Crisis"
+title: "<em>The Monarchy of Fear: A Philosopher Looks at Our Political Crisis</em>"
+subtitle: "Martha C. Nussbaum"
 toc: false
 categories:
 - Martha C. Nussbaum

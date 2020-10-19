@@ -1,7 +1,8 @@
 ---
 date: 2019-09-14
 meta: true
-title: "Lola: A Ghost Story"
+title: "<em>Lola: A Ghost Story</em>"
+subtitle: "J. Torres"
 toc: false
 categories:
 - J. Torres

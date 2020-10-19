@@ -1,7 +1,8 @@
 ---
 date: 2019-08-10
 meta: true
-title: "The Woman Warrior: Memoirs of a Girlhood Among Ghosts"
+title: "<em>The Woman Warrior: Memoirs of a Girlhood Among Ghosts</em>"
+subtitle: "Maxine Hong Kingston"
 toc: false
 categories:
 - Maxine Hong Kingston

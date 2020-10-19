@@ -1,7 +1,8 @@
 ---
 date: 2012-01-15
 meta: true
-title: "Collaborative Resilience: Moving Through Crisis to Opportunity"
+title: "<em>Collaborative Resilience: Moving Through Crisis to Opportunity</em>"
+subtitle: "Bruce Evan Goldstein"
 toc: false
 categories:
 - Bruce Evan Goldstein

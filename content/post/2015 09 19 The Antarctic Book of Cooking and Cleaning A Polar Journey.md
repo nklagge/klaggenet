@@ -1,7 +1,8 @@
 ---
 date: 2015-09-19
 meta: true
-title: "The Antarctic Book of Cooking and Cleaning: A Polar Journey"
+title: "<em>The Antarctic Book of Cooking and Cleaning: A Polar Journey</em>"
+subtitle: "Carol  Devine"
 toc: false
 categories:
 - Carol  Devine

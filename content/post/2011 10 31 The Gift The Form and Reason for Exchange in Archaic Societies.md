@@ -1,7 +1,8 @@
 ---
 date: 2011-10-31
 meta: true
-title: "The Gift: The Form and Reason for Exchange in Archaic Societies"
+title: "<em>The Gift: The Form and Reason for Exchange in Archaic Societies</em>"
+subtitle: "Marcel Mauss"
 toc: false
 categories:
 - Marcel Mauss

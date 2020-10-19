@@ -1,7 +1,8 @@
 ---
 date: 2014-03-21
 meta: true
-title: "Fire Monks: Zen Mind Meets Wildfire at the Gates of Tassajara"
+title: "<em>Fire Monks: Zen Mind Meets Wildfire at the Gates of Tassajara</em>"
+subtitle: "Colleen Morton Busch"
 toc: false
 categories:
 - Colleen Morton Busch

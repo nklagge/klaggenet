@@ -1,7 +1,8 @@
 ---
 date: 2016-04-07
 meta: true
-title: "Simple Matters: Living with Less and Ending Up with More"
+title: "<em>Simple Matters: Living with Less and Ending Up with More</em>"
+subtitle: "Erin Boyle"
 toc: false
 categories:
 - Erin Boyle

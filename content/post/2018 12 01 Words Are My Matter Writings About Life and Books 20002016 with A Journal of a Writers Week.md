@@ -1,7 +1,8 @@
 ---
 date: 2018-12-01
 meta: true
-title: "Words Are My Matter: Writings About Life and Books, 2000–2016, with A Journal of a Writer's Week"
+title: "<em>Words Are My Matter: Writings About Life and Books, 2000–2016, with A Journal of a Writer's Week</em>"
+subtitle: "Ursula K. Le Guin"
 toc: false
 categories:
 - Ursula K. Le Guin

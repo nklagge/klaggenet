@@ -1,7 +1,8 @@
 ---
 date: 2019-06-15
 meta: true
-title: "The Body Papers"
+title: "<em>The Body Papers</em>"
+subtitle: "Grace Talusan"
 toc: false
 categories:
 - Grace Talusan

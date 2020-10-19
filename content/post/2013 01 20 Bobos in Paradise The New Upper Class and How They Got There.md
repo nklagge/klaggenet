@@ -1,7 +1,8 @@
 ---
 date: 2013-01-20
 meta: true
-title: "Bobos in Paradise: The New Upper Class and How They Got There"
+title: "<em>Bobos in Paradise: The New Upper Class and How They Got There</em>"
+subtitle: "David  Brooks"
 toc: false
 categories:
 - David  Brooks

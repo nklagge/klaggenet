@@ -1,7 +1,8 @@
 ---
 date: 2019-01-20
 meta: true
-title: "Hope in the Dark: Untold Histories, Wild Possibilities"
+title: "<em>Hope in the Dark: Untold Histories, Wild Possibilities</em>"
+subtitle: "Rebecca Solnit"
 toc: false
 categories:
 - Rebecca Solnit

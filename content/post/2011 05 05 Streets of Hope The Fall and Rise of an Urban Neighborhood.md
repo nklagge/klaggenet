@@ -1,7 +1,8 @@
 ---
 date: 2011-05-05
 meta: true
-title: "Streets of Hope: The Fall and Rise of an Urban Neighborhood"
+title: "<em>Streets of Hope: The Fall and Rise of an Urban Neighborhood</em>"
+subtitle: "Peter Medoff"
 toc: false
 categories:
 - Peter Medoff

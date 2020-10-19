@@ -1,7 +1,8 @@
 ---
 date: 2013-12-16
 meta: true
-title: "Sir Gawain and the Green Knight, Pearl, Sir Orfeo"
+title: "<em>Sir Gawain and the Green Knight, Pearl, Sir Orfeo</em>"
+subtitle: "Unknown"
 toc: false
 categories:
 - Unknown

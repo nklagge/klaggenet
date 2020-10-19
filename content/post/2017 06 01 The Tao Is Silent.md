@@ -1,7 +1,8 @@
 ---
 date: 2017-06-01
 meta: true
-title: "The Tao Is Silent"
+title: "<em>The Tao Is Silent</em>"
+subtitle: "Raymond M. Smullyan"
 toc: false
 categories:
 - Raymond M. Smullyan

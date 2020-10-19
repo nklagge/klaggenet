@@ -1,7 +1,8 @@
 ---
 date: 2011-03-27
 meta: true
-title: "Difficult Conversations: How to Discuss What Matters Most"
+title: "<em>Difficult Conversations: How to Discuss What Matters Most</em>"
+subtitle: "Douglas Stone"
 toc: false
 categories:
 - Douglas Stone

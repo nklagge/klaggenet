@@ -1,7 +1,8 @@
 ---
 date: 2015-08-26
 meta: true
-title: "Fika: The Art of The Swedish Coffee Break, with Recipes for Pastries, Breads, and Other Treats"
+title: "<em>Fika: The Art of The Swedish Coffee Break, with Recipes for Pastries, Breads, and Other Treats</em>"
+subtitle: "Anna Brones"
 toc: false
 categories:
 - Anna Brones

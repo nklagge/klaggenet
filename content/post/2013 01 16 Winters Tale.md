@@ -1,7 +1,8 @@
 ---
 date: 2013-01-16
 meta: true
-title: "Winter's Tale"
+title: "<em>Winter's Tale</em>"
+subtitle: "Mark Helprin"
 toc: false
 categories:
 - Mark Helprin

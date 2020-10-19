@@ -1,7 +1,8 @@
 ---
 date: 2016-06-03
 meta: true
-title: "The Encyclopedia of Trouble and Spaciousness"
+title: "<em>The Encyclopedia of Trouble and Spaciousness</em>"
+subtitle: "Rebecca Solnit"
 toc: false
 categories:
 - Rebecca Solnit

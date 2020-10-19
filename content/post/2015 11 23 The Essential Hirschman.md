@@ -1,7 +1,8 @@
 ---
 date: 2015-11-23
 meta: true
-title: "The Essential Hirschman"
+title: "<em>The Essential Hirschman</em>"
+subtitle: "Albert O. Hirschman"
 toc: false
 categories:
 - Albert O. Hirschman

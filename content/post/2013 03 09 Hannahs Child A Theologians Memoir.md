@@ -1,7 +1,8 @@
 ---
 date: 2013-03-09
 meta: true
-title: "Hannah's Child: A Theologian's Memoir"
+title: "<em>Hannah's Child: A Theologian's Memoir</em>"
+subtitle: "Stanley Hauerwas"
 toc: false
 categories:
 - Stanley Hauerwas

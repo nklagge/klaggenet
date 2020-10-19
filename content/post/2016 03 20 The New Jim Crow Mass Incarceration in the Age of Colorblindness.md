@@ -1,7 +1,8 @@
 ---
 date: 2016-03-20
 meta: true
-title: "The New Jim Crow: Mass Incarceration in the Age of Colorblindness"
+title: "<em>The New Jim Crow: Mass Incarceration in the Age of Colorblindness</em>"
+subtitle: "Michelle Alexander"
 toc: false
 categories:
 - Michelle Alexander

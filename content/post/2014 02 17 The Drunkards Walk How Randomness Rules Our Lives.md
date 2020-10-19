@@ -1,7 +1,8 @@
 ---
 date: 2014-02-17
 meta: true
-title: "The Drunkard's Walk: How Randomness Rules Our Lives"
+title: "<em>The Drunkard's Walk: How Randomness Rules Our Lives</em>"
+subtitle: "Leonard Mlodinow"
 toc: false
 categories:
 - Leonard Mlodinow

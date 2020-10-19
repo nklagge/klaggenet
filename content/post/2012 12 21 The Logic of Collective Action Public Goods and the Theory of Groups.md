@@ -1,7 +1,8 @@
 ---
 date: 2012-12-21
 meta: true
-title: "The Logic of Collective Action: Public Goods and the Theory of Groups"
+title: "<em>The Logic of Collective Action: Public Goods and the Theory of Groups</em>"
+subtitle: "Mancur Olson"
 toc: false
 categories:
 - Mancur Olson

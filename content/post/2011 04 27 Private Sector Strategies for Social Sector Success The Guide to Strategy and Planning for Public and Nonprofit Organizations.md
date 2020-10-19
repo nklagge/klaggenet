@@ -1,7 +1,8 @@
 ---
 date: 2011-04-27
 meta: true
-title: "Private Sector Strategies for Social Sector Success: The Guide to Strategy and Planning for Public and Nonprofit Organizations"
+title: "<em>Private Sector Strategies for Social Sector Success: The Guide to Strategy and Planning for Public and Nonprofit Organizations</em>"
+subtitle: "Kevin P. Kearns"
 toc: false
 categories:
 - Kevin P. Kearns

@@ -1,7 +1,8 @@
 ---
 date: 2019-12-27
 meta: true
-title: "Harry Potter and the Methods of Rationality"
+title: "<em>Harry Potter and the Methods of Rationality</em>"
+subtitle: "Eliezer Yudkowsky"
 toc: false
 categories:
 - Eliezer Yudkowsky

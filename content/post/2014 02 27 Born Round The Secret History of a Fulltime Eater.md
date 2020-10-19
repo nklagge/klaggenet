@@ -1,7 +1,8 @@
 ---
 date: 2014-02-27
 meta: true
-title: "Born Round: The Secret History of a Full-time Eater"
+title: "<em>Born Round: The Secret History of a Full-time Eater</em>"
+subtitle: "Frank Bruni"
 toc: false
 categories:
 - Frank Bruni

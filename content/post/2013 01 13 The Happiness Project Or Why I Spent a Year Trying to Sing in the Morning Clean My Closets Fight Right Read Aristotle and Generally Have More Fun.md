@@ -1,7 +1,8 @@
 ---
 date: 2013-01-13
 meta: true
-title: "The Happiness Project: Or Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle, and Generally Have More Fun"
+title: "<em>The Happiness Project: Or Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle, and Generally Have More Fun</em>"
+subtitle: "Gretchen Rubin"
 toc: false
 categories:
 - Gretchen Rubin

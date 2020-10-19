@@ -1,7 +1,8 @@
 ---
 date: 2010-05-15
 meta: true
-title: "The Great Good Place: Cafes, Coffee Shops, Bookstores, Bars, Hair Salons, and Other Hangouts at the Heart of a Community"
+title: "<em>The Great Good Place: Cafes, Coffee Shops, Bookstores, Bars, Hair Salons, and Other Hangouts at the Heart of a Community</em>"
+subtitle: "Ray Oldenburg"
 toc: false
 categories:
 - Ray Oldenburg

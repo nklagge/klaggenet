@@ -1,7 +1,8 @@
 ---
 date: 2010-01-12
 meta: true
-title: "Savage Inequalities: Children in America's Schools"
+title: "<em>Savage Inequalities: Children in America's Schools</em>"
+subtitle: "Jonathan Kozol"
 toc: false
 categories:
 - Jonathan Kozol

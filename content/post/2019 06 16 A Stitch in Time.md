@@ -1,7 +1,8 @@
 ---
 date: 2019-06-16
 meta: true
-title: "A Stitch in Time"
+title: "<em>A Stitch in Time</em>"
+subtitle: "Andrew J. Robinson"
 toc: false
 categories:
 - Andrew J. Robinson

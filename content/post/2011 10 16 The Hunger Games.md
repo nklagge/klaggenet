@@ -1,7 +1,8 @@
 ---
 date: 2011-10-16
 meta: true
-title: "The Hunger Games"
+title: "<em>The Hunger Games</em>"
+subtitle: "Suzanne Collins"
 toc: false
 categories:
 - Suzanne Collins

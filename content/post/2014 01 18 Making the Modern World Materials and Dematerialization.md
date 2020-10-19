@@ -1,7 +1,8 @@
 ---
 date: 2014-01-18
 meta: true
-title: "Making the Modern World: Materials and Dematerialization"
+title: "<em>Making the Modern World: Materials and Dematerialization</em>"
+subtitle: "Vaclav Smil"
 toc: false
 categories:
 - Vaclav Smil

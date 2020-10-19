@@ -1,7 +1,8 @@
 ---
 date: 2019-06-13
 meta: true
-title: "Good Morning, Midnight"
+title: "<em>Good Morning, Midnight</em>"
+subtitle: "Lily Brooks-Dalton"
 toc: false
 categories:
 - Lily Brooks-Dalton

@@ -1,7 +1,8 @@
 ---
 date: 2012-05-13
 meta: true
-title: "The Namesake"
+title: "<em>The Namesake</em>"
+subtitle: "Jhumpa Lahiri"
 toc: false
 categories:
 - Jhumpa Lahiri

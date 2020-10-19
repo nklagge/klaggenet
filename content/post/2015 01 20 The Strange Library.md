@@ -1,7 +1,8 @@
 ---
 date: 2015-01-20
 meta: true
-title: "The Strange Library"
+title: "<em>The Strange Library</em>"
+subtitle: "Haruki Murakami"
 toc: false
 categories:
 - Haruki Murakami

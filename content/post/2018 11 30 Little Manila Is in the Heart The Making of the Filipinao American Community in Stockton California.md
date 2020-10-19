@@ -1,7 +1,8 @@
 ---
 date: 2018-11-30
 meta: true
-title: "Little Manila Is in the Heart: The Making of the Filipina/o American Community in Stockton, California"
+title: "<em>Little Manila Is in the Heart: The Making of the Filipina/o American Community in Stockton, California</em>"
+subtitle: "Dawn Bohulano Mabalon"
 toc: false
 categories:
 - Dawn Bohulano Mabalon

@@ -1,7 +1,8 @@
 ---
 date: 2013-08-31
 meta: true
-title: "The Wind in the Willows"
+title: "<em>The Wind in the Willows</em>"
+subtitle: "Kenneth Grahame"
 toc: false
 categories:
 - Kenneth Grahame

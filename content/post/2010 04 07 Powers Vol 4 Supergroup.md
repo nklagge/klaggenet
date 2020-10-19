@@ -1,7 +1,8 @@
 ---
 date: 2010-04-07
 meta: true
-title: "Powers, Vol. 4: Supergroup"
+title: "<em>Powers, Vol. 4: Supergroup</em>"
+subtitle: "Brian Michael Bendis"
 toc: false
 categories:
 - Brian Michael Bendis

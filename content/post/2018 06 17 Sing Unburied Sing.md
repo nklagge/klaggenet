@@ -1,7 +1,8 @@
 ---
 date: 2018-06-17
 meta: true
-title: "Sing, Unburied, Sing"
+title: "<em>Sing, Unburied, Sing</em>"
+subtitle: "Jesmyn Ward"
 toc: false
 categories:
 - Jesmyn Ward

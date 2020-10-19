@@ -1,7 +1,8 @@
 ---
 date: 2019-10-06
 meta: true
-title: "A Closed and Common Orbit"
+title: "<em>A Closed and Common Orbit</em>"
+subtitle: "Becky Chambers"
 toc: false
 categories:
 - Becky Chambers

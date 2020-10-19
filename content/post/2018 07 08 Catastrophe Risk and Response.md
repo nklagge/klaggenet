@@ -1,7 +1,8 @@
 ---
 date: 2018-07-08
 meta: true
-title: "Catastrophe: Risk and Response"
+title: "<em>Catastrophe: Risk and Response</em>"
+subtitle: "Richard A. Posner"
 toc: false
 categories:
 - Richard A. Posner

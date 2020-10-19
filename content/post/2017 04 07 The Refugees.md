@@ -1,7 +1,8 @@
 ---
 date: 2017-04-07
 meta: true
-title: "The Refugees"
+title: "<em>The Refugees</em>"
+subtitle: "Viet Thanh Nguyen"
 toc: false
 categories:
 - Viet Thanh Nguyen

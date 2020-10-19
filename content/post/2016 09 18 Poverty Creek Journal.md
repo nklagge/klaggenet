@@ -1,7 +1,8 @@
 ---
 date: 2016-09-18
 meta: true
-title: "Poverty Creek Journal"
+title: "<em>Poverty Creek Journal</em>"
+subtitle: "Thomas Gardner"
 toc: false
 categories:
 - Thomas Gardner

@@ -1,7 +1,8 @@
 ---
 date: 2012-08-01
 meta: true
-title: "Brewing and Beer Traditions in Norway"
+title: "<em>Brewing and Beer Traditions in Norway</em>"
+subtitle: "Odd Nordland"
 toc: false
 categories:
 - Odd Nordland

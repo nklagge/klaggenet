@@ -1,7 +1,8 @@
 ---
 date: 2014-12-30
 meta: true
-title: "The Fateful Adventures of the Good Soldier Svejk During the World War, Book One"
+title: "<em>The Fateful Adventures of the Good Soldier Svejk During the World War, Book One</em>"
+subtitle: "Jaroslav Hašek"
 toc: false
 categories:
 - Jaroslav Hašek

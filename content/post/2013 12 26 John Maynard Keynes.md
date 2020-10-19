@@ -1,7 +1,8 @@
 ---
 date: 2013-12-26
 meta: true
-title: "John Maynard Keynes"
+title: "<em>John Maynard Keynes</em>"
+subtitle: "Hyman P. Minsky"
 toc: false
 categories:
 - Hyman P. Minsky

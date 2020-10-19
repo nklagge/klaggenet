@@ -1,7 +1,8 @@
 ---
 date: 2014-07-23
 meta: true
-title: "How to Live: A Life of Montaigne in One Question and Twenty Attempts at An Answer"
+title: "<em>How to Live: A Life of Montaigne in One Question and Twenty Attempts at An Answer</em>"
+subtitle: "Sarah Bakewell"
 toc: false
 categories:
 - Sarah Bakewell

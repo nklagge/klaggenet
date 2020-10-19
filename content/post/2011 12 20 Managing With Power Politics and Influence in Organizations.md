@@ -1,7 +1,8 @@
 ---
 date: 2011-12-20
 meta: true
-title: "Managing With Power: Politics and Influence in Organizations"
+title: "<em>Managing With Power: Politics and Influence in Organizations</em>"
+subtitle: "Jeffrey Pfeffer"
 toc: false
 categories:
 - Jeffrey Pfeffer

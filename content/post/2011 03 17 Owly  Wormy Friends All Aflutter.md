@@ -1,7 +1,8 @@
 ---
 date: 2011-03-17
 meta: true
-title: "Owly  Wormy, Friends All Aflutter!"
+title: "<em>Owly  Wormy, Friends All Aflutter!</em>"
+subtitle: "Andy Runton"
 toc: false
 categories:
 - Andy Runton

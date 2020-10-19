@@ -1,7 +1,8 @@
 ---
 date: 2015-11-14
 meta: true
-title: "Reclaiming Conversation: The Power of Talk in a Digital Age"
+title: "<em>Reclaiming Conversation: The Power of Talk in a Digital Age</em>"
+subtitle: "Sherry Turkle"
 toc: false
 categories:
 - Sherry Turkle

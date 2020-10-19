@@ -1,7 +1,8 @@
 ---
 date: 2011-06-05
 meta: true
-title: "The Nature of Economies"
+title: "<em>The Nature of Economies</em>"
+subtitle: "Jane Jacobs"
 toc: false
 categories:
 - Jane Jacobs

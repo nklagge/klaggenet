@@ -1,7 +1,8 @@
 ---
 date: 2020-05-09
 meta: true
-title: "Strongholds & Followers"
+title: "<em>Strongholds & Followers</em>"
+subtitle: "Matthew Colville"
 toc: false
 categories:
 - Matthew Colville

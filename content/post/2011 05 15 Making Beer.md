@@ -1,7 +1,8 @@
 ---
 date: 2011-05-15
 meta: true
-title: "Making Beer"
+title: "<em>Making Beer</em>"
+subtitle: "William J. Mares"
 toc: false
 categories:
 - William J. Mares

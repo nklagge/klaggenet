@@ -1,7 +1,8 @@
 ---
 date: 2010-03-22
 meta: true
-title: "Powers, Vol. 1: Who Killed Retro Girl?"
+title: "<em>Powers, Vol. 1: Who Killed Retro Girl?</em>"
+subtitle: "Brian Michael Bendis"
 toc: false
 categories:
 - Brian Michael Bendis

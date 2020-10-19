@@ -1,7 +1,8 @@
 ---
 date: 2020-02-08
 meta: true
-title: "The Black Bestiary: An Alejandro Pardo Compendium"
+title: "<em>The Black Bestiary: An Alejandro Pardo Compendium</em>"
+subtitle: "Budjette Tan"
 toc: false
 categories:
 - Budjette Tan

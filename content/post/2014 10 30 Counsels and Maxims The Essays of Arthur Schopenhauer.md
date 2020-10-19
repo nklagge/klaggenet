@@ -1,7 +1,8 @@
 ---
 date: 2014-10-30
 meta: true
-title: "Counsels and Maxims (The Essays of Arthur Schopenhauer)"
+title: "<em>Counsels and Maxims (The Essays of Arthur Schopenhauer)</em>"
+subtitle: "Arthur Schopenhauer"
 toc: false
 categories:
 - Arthur Schopenhauer

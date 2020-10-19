@@ -1,7 +1,8 @@
 ---
 date: 2011-02-03
 meta: true
-title: "Portfolios of the Poor: How the World's Poor Live on $2 a Day"
+title: "<em>Portfolios of the Poor: How the World's Poor Live on $2 a Day</em>"
+subtitle: "Daryl Collins"
 toc: false
 categories:
 - Daryl Collins

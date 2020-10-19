@@ -1,7 +1,8 @@
 ---
 date: 2019-10-27
 meta: true
-title: "The Halloween Tree"
+title: "<em>The Halloween Tree</em>"
+subtitle: "Ray Bradbury"
 toc: false
 categories:
 - Ray Bradbury

@@ -1,7 +1,8 @@
 ---
 date: 2016-09-28
 meta: true
-title: "On Trails: An Exploration"
+title: "<em>On Trails: An Exploration</em>"
+subtitle: "Robert Moor"
 toc: false
 categories:
 - Robert Moor

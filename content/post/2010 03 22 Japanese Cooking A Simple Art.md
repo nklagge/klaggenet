@@ -1,7 +1,8 @@
 ---
 date: 2010-03-22
 meta: true
-title: "Japanese Cooking: A Simple Art"
+title: "<em>Japanese Cooking: A Simple Art</em>"
+subtitle: "Shizuo Tsuji"
 toc: false
 categories:
 - Shizuo Tsuji

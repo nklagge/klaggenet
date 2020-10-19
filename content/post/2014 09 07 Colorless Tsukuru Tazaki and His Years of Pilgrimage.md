@@ -1,7 +1,8 @@
 ---
 date: 2014-09-07
 meta: true
-title: "Colorless Tsukuru Tazaki and His Years of Pilgrimage"
+title: "<em>Colorless Tsukuru Tazaki and His Years of Pilgrimage</em>"
+subtitle: "Haruki Murakami"
 toc: false
 categories:
 - Haruki Murakami

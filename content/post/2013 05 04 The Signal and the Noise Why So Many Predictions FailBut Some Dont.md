@@ -1,7 +1,8 @@
 ---
 date: 2013-05-04
 meta: true
-title: "The Signal and the Noise: Why So Many Predictions Fail—But Some Don't"
+title: "<em>The Signal and the Noise: Why So Many Predictions Fail—But Some Don't</em>"
+subtitle: "Nate Silver"
 toc: false
 categories:
 - Nate Silver

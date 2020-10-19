@@ -1,7 +1,8 @@
 ---
 date: 2019-06-15
 meta: true
-title: "The Electric State"
+title: "<em>The Electric State</em>"
+subtitle: "Simon Stålenhag"
 toc: false
 categories:
 - Simon Stålenhag

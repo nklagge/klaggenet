@@ -1,7 +1,8 @@
 ---
 date: 2011-01-29
 meta: true
-title: "A Better Hope: Resources for a Church Confronting Capitalism, Democracy, and Postmodernity"
+title: "<em>A Better Hope: Resources for a Church Confronting Capitalism, Democracy, and Postmodernity</em>"
+subtitle: "Stanley Hauerwas"
 toc: false
 categories:
 - Stanley Hauerwas

@@ -1,7 +1,8 @@
 ---
 date: 2019-07-14
 meta: true
-title: "On a Sunbeam"
+title: "<em>On a Sunbeam</em>"
+subtitle: "Tillie Walden"
 toc: false
 categories:
 - Tillie Walden

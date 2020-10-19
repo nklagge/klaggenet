@@ -1,7 +1,8 @@
 ---
 date: 2015-08-15
 meta: true
-title: "John of the Mountains: The Unpublished Journals of John Muir"
+title: "<em>John of the Mountains: The Unpublished Journals of John Muir</em>"
+subtitle: "John Muir"
 toc: false
 categories:
 - John Muir

@@ -1,7 +1,8 @@
 ---
 date: 2010-04-29
 meta: true
-title: "Owly, Vol. 2: Just a Little Blue"
+title: "<em>Owly, Vol. 2: Just a Little Blue</em>"
+subtitle: "Andy Runton"
 toc: false
 categories:
 - Andy Runton

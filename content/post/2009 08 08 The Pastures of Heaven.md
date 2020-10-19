@@ -1,7 +1,8 @@
 ---
 date: 2009-08-08
 meta: true
-title: "The Pastures of Heaven"
+title: "<em>The Pastures of Heaven</em>"
+subtitle: "John Steinbeck"
 toc: false
 categories:
 - John Steinbeck

@@ -1,7 +1,8 @@
 ---
 date: 2017-12-16
 meta: true
-title: "Xanathar's Guide To Everything"
+title: "<em>Xanathar's Guide To Everything</em>"
+subtitle: "Wizards of the Coast"
 toc: false
 categories:
 - Wizards of the Coast

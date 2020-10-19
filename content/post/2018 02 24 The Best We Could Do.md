@@ -1,7 +1,8 @@
 ---
 date: 2018-02-24
 meta: true
-title: "The Best We Could Do"
+title: "<em>The Best We Could Do</em>"
+subtitle: "Thi Bui"
 toc: false
 categories:
 - Thi Bui

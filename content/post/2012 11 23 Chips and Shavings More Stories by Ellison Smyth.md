@@ -1,7 +1,8 @@
 ---
 date: 2012-11-23
 meta: true
-title: "Chips and Shavings: More Stories by Ellison Smyth"
+title: "<em>Chips and Shavings: More Stories by Ellison Smyth</em>"
+subtitle: "Ellison A. Smyth"
 toc: false
 categories:
 - Ellison A. Smyth

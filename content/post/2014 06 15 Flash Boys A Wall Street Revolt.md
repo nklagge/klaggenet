@@ -1,7 +1,8 @@
 ---
 date: 2014-06-15
 meta: true
-title: "Flash Boys: A Wall Street Revolt"
+title: "<em>Flash Boys: A Wall Street Revolt</em>"
+subtitle: "Michael   Lewis"
 toc: false
 categories:
 - Michael   Lewis

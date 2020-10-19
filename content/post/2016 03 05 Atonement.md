@@ -1,7 +1,8 @@
 ---
 date: 2016-03-05
 meta: true
-title: "Atonement"
+title: "<em>Atonement</em>"
+subtitle: "Ian McEwan"
 toc: false
 categories:
 - Ian McEwan

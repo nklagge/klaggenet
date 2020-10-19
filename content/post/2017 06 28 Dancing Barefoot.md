@@ -1,7 +1,8 @@
 ---
 date: 2017-06-28
 meta: true
-title: "Dancing Barefoot"
+title: "<em>Dancing Barefoot</em>"
+subtitle: "Wil Wheaton"
 toc: false
 categories:
 - Wil Wheaton

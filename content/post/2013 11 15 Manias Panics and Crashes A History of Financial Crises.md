@@ -1,7 +1,8 @@
 ---
 date: 2013-11-15
 meta: true
-title: "Manias, Panics, and Crashes: A History of Financial Crises"
+title: "<em>Manias, Panics, and Crashes: A History of Financial Crises</em>"
+subtitle: "Charles P. Kindleberger"
 toc: false
 categories:
 - Charles P. Kindleberger

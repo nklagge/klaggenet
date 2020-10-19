@@ -1,7 +1,8 @@
 ---
 date: 2012-06-17
 meta: true
-title: "Watch With Me"
+title: "<em>Watch With Me</em>"
+subtitle: "Wendell Berry"
 toc: false
 categories:
 - Wendell Berry

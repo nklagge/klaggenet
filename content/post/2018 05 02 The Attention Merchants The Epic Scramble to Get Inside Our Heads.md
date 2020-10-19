@@ -1,7 +1,8 @@
 ---
 date: 2018-05-02
 meta: true
-title: "The Attention Merchants: The Epic Scramble to Get Inside Our Heads"
+title: "<em>The Attention Merchants: The Epic Scramble to Get Inside Our Heads</em>"
+subtitle: "Tim Wu"
 toc: false
 categories:
 - Tim Wu

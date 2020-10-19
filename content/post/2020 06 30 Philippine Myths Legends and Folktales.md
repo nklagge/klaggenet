@@ -1,7 +1,8 @@
 ---
 date: 2020-06-30
 meta: true
-title: "Philippine Myths, Legends, and Folktales"
+title: "<em>Philippine Myths, Legends, and Folktales</em>"
+subtitle: "Maximo D Ramos"
 toc: false
 categories:
 - Maximo D Ramos

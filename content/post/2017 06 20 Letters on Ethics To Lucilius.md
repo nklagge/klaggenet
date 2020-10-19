@@ -1,7 +1,8 @@
 ---
 date: 2017-06-20
 meta: true
-title: "Letters on Ethics: To Lucilius"
+title: "<em>Letters on Ethics: To Lucilius</em>"
+subtitle: "Seneca"
 toc: false
 categories:
 - Seneca

@@ -1,7 +1,8 @@
 ---
 date: 2018-11-28
 meta: true
-title: "Journey for Justice: The Life of Larry Itliong"
+title: "<em>Journey for Justice: The Life of Larry Itliong</em>"
+subtitle: "Dawn Bohulano Mabalon"
 toc: false
 categories:
 - Dawn Bohulano Mabalon

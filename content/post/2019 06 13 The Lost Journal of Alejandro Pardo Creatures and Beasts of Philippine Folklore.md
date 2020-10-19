@@ -1,7 +1,8 @@
 ---
 date: 2019-06-13
 meta: true
-title: "The Lost Journal of Alejandro Pardo: Creatures and Beasts of Philippine Folklore"
+title: "<em>The Lost Journal of Alejandro Pardo: Creatures and Beasts of Philippine Folklore</em>"
+subtitle: "Budjette Tan"
 toc: false
 categories:
 - Budjette Tan

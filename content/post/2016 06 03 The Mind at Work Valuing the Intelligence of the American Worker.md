@@ -1,7 +1,8 @@
 ---
 date: 2016-06-03
 meta: true
-title: "The Mind at Work: Valuing the Intelligence of the American Worker"
+title: "<em>The Mind at Work: Valuing the Intelligence of the American Worker</em>"
+subtitle: "Mike Rose"
 toc: false
 categories:
 - Mike Rose

@@ -1,7 +1,8 @@
 ---
 date: 2009-09-27
 meta: true
-title: "The Amazing Adventures of Kavalier & Clay"
+title: "<em>The Amazing Adventures of Kavalier & Clay</em>"
+subtitle: "Michael Chabon"
 toc: false
 categories:
 - Michael Chabon

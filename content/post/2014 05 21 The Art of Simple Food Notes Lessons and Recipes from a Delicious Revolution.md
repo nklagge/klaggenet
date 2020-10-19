@@ -1,7 +1,8 @@
 ---
 date: 2014-05-21
 meta: true
-title: "The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution"
+title: "<em>The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution</em>"
+subtitle: "Alice Waters"
 toc: false
 categories:
 - Alice Waters

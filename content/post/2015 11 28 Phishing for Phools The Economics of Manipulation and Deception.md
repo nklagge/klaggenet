@@ -1,7 +1,8 @@
 ---
 date: 2015-11-28
 meta: true
-title: "Phishing for Phools: The Economics of Manipulation and Deception"
+title: "<em>Phishing for Phools: The Economics of Manipulation and Deception</em>"
+subtitle: "George A. Akerlof"
 toc: false
 categories:
 - George A. Akerlof

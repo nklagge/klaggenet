@@ -1,7 +1,8 @@
 ---
 date: 2012-10-24
 meta: true
-title: "Thinking, Fast and Slow"
+title: "<em>Thinking, Fast and Slow</em>"
+subtitle: "Daniel Kahneman"
 toc: false
 categories:
 - Daniel Kahneman

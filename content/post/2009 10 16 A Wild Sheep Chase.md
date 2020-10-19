@@ -1,7 +1,8 @@
 ---
 date: 2009-10-16
 meta: true
-title: "A Wild Sheep Chase"
+title: "<em>A Wild Sheep Chase</em>"
+subtitle: "Haruki Murakami"
 toc: false
 categories:
 - Haruki Murakami

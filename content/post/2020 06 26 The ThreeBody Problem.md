@@ -1,7 +1,8 @@
 ---
 date: 2020-06-26
 meta: true
-title: "The Three-Body Problem"
+title: "<em>The Three-Body Problem</em>"
+subtitle: "Liu Cixin"
 toc: false
 categories:
 - Liu Cixin

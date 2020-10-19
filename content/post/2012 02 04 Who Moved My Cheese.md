@@ -1,7 +1,8 @@
 ---
 date: 2012-02-04
 meta: true
-title: "Who Moved My Cheese?"
+title: "<em>Who Moved My Cheese?</em>"
+subtitle: "Spencer Johnson"
 toc: false
 categories:
 - Spencer Johnson

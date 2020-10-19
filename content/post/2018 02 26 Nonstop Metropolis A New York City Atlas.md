@@ -1,7 +1,8 @@
 ---
 date: 2018-02-26
 meta: true
-title: "Nonstop Metropolis: A New York City Atlas"
+title: "<em>Nonstop Metropolis: A New York City Atlas</em>"
+subtitle: "Rebecca Solnit"
 toc: false
 categories:
 - Rebecca Solnit

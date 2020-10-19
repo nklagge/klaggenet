@@ -1,7 +1,8 @@
 ---
 date: 2020-05-15
 meta: true
-title: "The Precipice: Existential Risk and the Future of Humanity"
+title: "<em>The Precipice: Existential Risk and the Future of Humanity</em>"
+subtitle: "Toby  Ord"
 toc: false
 categories:
 - Toby  Ord

@@ -1,7 +1,8 @@
 ---
 date: 2018-05-18
 meta: true
-title: "On the Nature of Things"
+title: "<em>On the Nature of Things</em>"
+subtitle: "Lucretius"
 toc: false
 categories:
 - Lucretius

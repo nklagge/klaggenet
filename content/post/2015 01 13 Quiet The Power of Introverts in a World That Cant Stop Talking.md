@@ -1,7 +1,8 @@
 ---
 date: 2015-01-13
 meta: true
-title: "Quiet: The Power of Introverts in a World That Can't Stop Talking"
+title: "<em>Quiet: The Power of Introverts in a World That Can't Stop Talking</em>"
+subtitle: "Susan Cain"
 toc: false
 categories:
 - Susan Cain

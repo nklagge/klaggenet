@@ -1,7 +1,8 @@
 ---
 date: 2014-02-08
 meta: true
-title: "The Shepherd's Tale"
+title: "<em>The Shepherd's Tale</em>"
+subtitle: "Joss Whedon"
 toc: false
 categories:
 - Joss Whedon

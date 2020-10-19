@@ -1,7 +1,8 @@
 ---
 date: 2020-07-03
 meta: true
-title: "The Ballad of Black Tom"
+title: "<em>The Ballad of Black Tom</em>"
+subtitle: "Victor LaValle"
 toc: false
 categories:
 - Victor LaValle

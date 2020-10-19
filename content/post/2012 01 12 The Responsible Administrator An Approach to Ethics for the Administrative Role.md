@@ -1,7 +1,8 @@
 ---
 date: 2012-01-12
 meta: true
-title: "The Responsible Administrator: An Approach to Ethics for the Administrative Role"
+title: "<em>The Responsible Administrator: An Approach to Ethics for the Administrative Role</em>"
+subtitle: "Terry L. Cooper"
 toc: false
 categories:
 - Terry L. Cooper

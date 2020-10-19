@@ -1,7 +1,8 @@
 ---
 date: 2019-01-05
 meta: true
-title: "The House of the Spirits"
+title: "<em>The House of the Spirits</em>"
+subtitle: "Isabel Allende"
 toc: false
 categories:
 - Isabel Allende

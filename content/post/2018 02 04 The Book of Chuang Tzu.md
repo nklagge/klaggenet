@@ -1,7 +1,8 @@
 ---
 date: 2018-02-04
 meta: true
-title: "The Book of Chuang Tzu"
+title: "<em>The Book of Chuang Tzu</em>"
+subtitle: "Zhuangzi"
 toc: false
 categories:
 - Zhuangzi

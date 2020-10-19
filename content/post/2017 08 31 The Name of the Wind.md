@@ -1,7 +1,8 @@
 ---
 date: 2017-08-31
 meta: true
-title: "The Name of the Wind"
+title: "<em>The Name of the Wind</em>"
+subtitle: "Patrick Rothfuss"
 toc: false
 categories:
 - Patrick Rothfuss

@@ -1,7 +1,8 @@
 ---
 date: 2020-02-16
 meta: true
-title: "Descender, Vol. 1: Tin Stars"
+title: "<em>Descender, Vol. 1: Tin Stars</em>"
+subtitle: "Jeff Lemire"
 toc: false
 categories:
 - Jeff Lemire

@@ -1,7 +1,8 @@
 ---
 date: 2015-06-19
 meta: true
-title: "The Yosemite"
+title: "<em>The Yosemite</em>"
+subtitle: "John Muir"
 toc: false
 categories:
 - John Muir

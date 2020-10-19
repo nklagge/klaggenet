@@ -1,7 +1,8 @@
 ---
 date: 2014-03-01
 meta: true
-title: "The Lowland"
+title: "<em>The Lowland</em>"
+subtitle: "Jhumpa Lahiri"
 toc: false
 categories:
 - Jhumpa Lahiri

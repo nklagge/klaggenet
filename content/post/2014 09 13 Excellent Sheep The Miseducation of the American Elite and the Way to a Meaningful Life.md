@@ -1,7 +1,8 @@
 ---
 date: 2014-09-13
 meta: true
-title: "Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life"
+title: "<em>Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life</em>"
+subtitle: "William Deresiewicz"
 toc: false
 categories:
 - William Deresiewicz

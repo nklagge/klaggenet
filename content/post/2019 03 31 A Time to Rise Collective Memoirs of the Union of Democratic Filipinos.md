@@ -1,7 +1,8 @@
 ---
 date: 2019-03-31
 meta: true
-title: "A Time to Rise: Collective Memoirs of the Union of Democratic Filipinos"
+title: "<em>A Time to Rise: Collective Memoirs of the Union of Democratic Filipinos</em>"
+subtitle: "Rene Ciria Cruz"
 toc: false
 categories:
 - Rene Ciria Cruz

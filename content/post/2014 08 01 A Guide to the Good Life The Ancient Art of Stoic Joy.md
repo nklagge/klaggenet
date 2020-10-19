@@ -1,7 +1,8 @@
 ---
 date: 2014-08-01
 meta: true
-title: "A Guide to the Good Life: The Ancient Art of Stoic Joy"
+title: "<em>A Guide to the Good Life: The Ancient Art of Stoic Joy</em>"
+subtitle: "William B. Irvine"
 toc: false
 categories:
 - William B. Irvine

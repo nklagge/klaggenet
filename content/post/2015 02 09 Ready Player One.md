@@ -1,7 +1,8 @@
 ---
 date: 2015-02-09
 meta: true
-title: "Ready Player One"
+title: "<em>Ready Player One</em>"
+subtitle: "Ernest Cline"
 toc: false
 categories:
 - Ernest Cline

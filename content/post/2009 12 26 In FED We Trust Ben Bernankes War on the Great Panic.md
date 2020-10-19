@@ -1,7 +1,8 @@
 ---
 date: 2009-12-26
 meta: true
-title: "In FED We Trust: Ben Bernanke's War on the Great Panic"
+title: "<em>In FED We Trust: Ben Bernanke's War on the Great Panic</em>"
+subtitle: "David Wessel"
 toc: false
 categories:
 - David Wessel

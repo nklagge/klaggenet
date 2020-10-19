@@ -1,7 +1,8 @@
 ---
 date: 2011-07-14
 meta: true
-title: "The Thousand Autumns of Jacob de Zoet"
+title: "<em>The Thousand Autumns of Jacob de Zoet</em>"
+subtitle: "David Mitchell"
 toc: false
 categories:
 - David Mitchell

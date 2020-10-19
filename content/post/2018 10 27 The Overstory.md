@@ -1,7 +1,8 @@
 ---
 date: 2018-10-27
 meta: true
-title: "The Overstory"
+title: "<em>The Overstory</em>"
+subtitle: "Richard Powers"
 toc: false
 categories:
 - Richard Powers

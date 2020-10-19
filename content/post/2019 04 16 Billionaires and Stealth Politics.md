@@ -1,7 +1,8 @@
 ---
 date: 2019-04-16
 meta: true
-title: "Billionaires and Stealth Politics"
+title: "<em>Billionaires and Stealth Politics</em>"
+subtitle: "Benjamin I. Page"
 toc: false
 categories:
 - Benjamin I. Page

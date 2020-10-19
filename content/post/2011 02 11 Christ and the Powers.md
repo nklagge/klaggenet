@@ -1,7 +1,8 @@
 ---
 date: 2011-02-11
 meta: true
-title: "Christ and the Powers"
+title: "<em>Christ and the Powers</em>"
+subtitle: "Hendrikus Berkhof"
 toc: false
 categories:
 - Hendrikus Berkhof

@@ -1,7 +1,8 @@
 ---
 date: 2016-04-04
 meta: true
-title: "Without Names: A Collection Of Poems"
+title: "<em>Without Names: A Collection Of Poems</em>"
+subtitle: "Bay Area Pilipino American Writers"
 toc: false
 categories:
 - Bay Area Pilipino American Writers

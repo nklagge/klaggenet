@@ -1,7 +1,8 @@
 ---
 date: 2015-03-23
 meta: true
-title: "Fast Food Nation: The Dark Side of the All-American Meal"
+title: "<em>Fast Food Nation: The Dark Side of the All-American Meal</em>"
+subtitle: "Eric Schlosser"
 toc: false
 categories:
 - Eric Schlosser

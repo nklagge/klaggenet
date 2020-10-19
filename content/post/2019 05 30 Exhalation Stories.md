@@ -1,7 +1,8 @@
 ---
 date: 2019-05-30
 meta: true
-title: "Exhalation: Stories"
+title: "<em>Exhalation: Stories</em>"
+subtitle: "Ted Chiang"
 toc: false
 categories:
 - Ted Chiang

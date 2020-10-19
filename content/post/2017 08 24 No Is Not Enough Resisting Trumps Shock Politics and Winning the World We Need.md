@@ -1,7 +1,8 @@
 ---
 date: 2017-08-24
 meta: true
-title: "No Is Not Enough: Resisting Trump’s Shock Politics and Winning the World We Need"
+title: "<em>No Is Not Enough: Resisting Trump’s Shock Politics and Winning the World We Need</em>"
+subtitle: "Naomi Klein"
 toc: false
 categories:
 - Naomi Klein

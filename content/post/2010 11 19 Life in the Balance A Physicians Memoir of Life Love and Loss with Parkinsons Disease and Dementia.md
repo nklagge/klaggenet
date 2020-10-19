@@ -1,7 +1,8 @@
 ---
 date: 2010-11-19
 meta: true
-title: "Life in the Balance: A Physician's Memoir of Life, Love, and Loss with Parkinson's Disease and Dementia"
+title: "<em>Life in the Balance: A Physician's Memoir of Life, Love, and Loss with Parkinson's Disease and Dementia</em>"
+subtitle: "Thomas Graboys"
 toc: false
 categories:
 - Thomas Graboys

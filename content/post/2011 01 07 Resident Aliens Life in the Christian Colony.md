@@ -1,7 +1,8 @@
 ---
 date: 2011-01-07
 meta: true
-title: "Resident Aliens: Life in the Christian Colony"
+title: "<em>Resident Aliens: Life in the Christian Colony</em>"
+subtitle: "Stanley Hauerwas"
 toc: false
 categories:
 - Stanley Hauerwas

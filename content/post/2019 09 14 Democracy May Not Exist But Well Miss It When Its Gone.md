@@ -1,7 +1,8 @@
 ---
 date: 2019-09-14
 meta: true
-title: "Democracy May Not Exist, But We'll Miss It When It's Gone"
+title: "<em>Democracy May Not Exist, But We'll Miss It When It's Gone</em>"
+subtitle: "Astra Taylor"
 toc: false
 categories:
 - Astra Taylor

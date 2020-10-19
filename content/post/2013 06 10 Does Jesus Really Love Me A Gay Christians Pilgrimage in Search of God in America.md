@@ -1,7 +1,8 @@
 ---
 date: 2013-06-10
 meta: true
-title: "Does Jesus Really Love Me?: A Gay Christian's Pilgrimage in Search of God in America"
+title: "<em>Does Jesus Really Love Me?: A Gay Christian's Pilgrimage in Search of God in America</em>"
+subtitle: "Jeff Chu"
 toc: false
 categories:
 - Jeff Chu

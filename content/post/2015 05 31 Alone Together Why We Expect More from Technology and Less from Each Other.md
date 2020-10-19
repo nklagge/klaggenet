@@ -1,7 +1,8 @@
 ---
 date: 2015-05-31
 meta: true
-title: "Alone Together: Why We Expect More from Technology and Less from Each Other"
+title: "<em>Alone Together: Why We Expect More from Technology and Less from Each Other</em>"
+subtitle: "Sherry Turkle"
 toc: false
 categories:
 - Sherry Turkle

@@ -1,7 +1,8 @@
 ---
 date: 2015-07-08
 meta: true
-title: "Backpacking with the Saints: Wilderness Hiking as Spiritual Practice"
+title: "<em>Backpacking with the Saints: Wilderness Hiking as Spiritual Practice</em>"
+subtitle: "Belden C. Lane"
 toc: false
 categories:
 - Belden C. Lane

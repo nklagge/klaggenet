@@ -1,7 +1,8 @@
 ---
 date: 2019-03-31
 meta: true
-title: "Parable of the Sower"
+title: "<em>Parable of the Sower</em>"
+subtitle: "Octavia E. Butler"
 toc: false
 categories:
 - Octavia E. Butler

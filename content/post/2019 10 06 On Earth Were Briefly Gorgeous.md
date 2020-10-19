@@ -1,7 +1,8 @@
 ---
 date: 2019-10-06
 meta: true
-title: "On Earth We're Briefly Gorgeous"
+title: "<em>On Earth We're Briefly Gorgeous</em>"
+subtitle: "Ocean Vuong"
 toc: false
 categories:
 - Ocean Vuong

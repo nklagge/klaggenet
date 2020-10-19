@@ -1,7 +1,8 @@
 ---
 date: 2010-06-22
 meta: true
-title: "Doctor Faustus"
+title: "<em>Doctor Faustus</em>"
+subtitle: "Thomas Mann"
 toc: false
 categories:
 - Thomas Mann

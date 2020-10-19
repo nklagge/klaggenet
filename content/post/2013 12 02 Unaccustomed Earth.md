@@ -1,7 +1,8 @@
 ---
 date: 2013-12-02
 meta: true
-title: "Unaccustomed Earth"
+title: "<em>Unaccustomed Earth</em>"
+subtitle: "Jhumpa Lahiri"
 toc: false
 categories:
 - Jhumpa Lahiri

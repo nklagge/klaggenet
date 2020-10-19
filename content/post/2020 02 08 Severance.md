@@ -1,7 +1,8 @@
 ---
 date: 2020-02-08
 meta: true
-title: "Severance"
+title: "<em>Severance</em>"
+subtitle: "Ling  Ma"
 toc: false
 categories:
 - Ling  Ma

@@ -1,7 +1,8 @@
 ---
 date: 2020-03-05
 meta: true
-title: "Human Compatible: Artificial Intelligence and the Problem of Control"
+title: "<em>Human Compatible: Artificial Intelligence and the Problem of Control</em>"
+subtitle: "Stuart Russell"
 toc: false
 categories:
 - Stuart Russell

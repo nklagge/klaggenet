@@ -1,7 +1,8 @@
 ---
 date: 2018-08-04
 meta: true
-title: "Suicide Club"
+title: "<em>Suicide Club</em>"
+subtitle: "Rachel Heng"
 toc: false
 categories:
 - Rachel Heng

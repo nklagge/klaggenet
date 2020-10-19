@@ -1,7 +1,8 @@
 ---
 date: 2019-02-01
 meta: true
-title: "How Long 'til Black Future Month?"
+title: "<em>How Long 'til Black Future Month?</em>"
+subtitle: "N.K. Jemisin"
 toc: false
 categories:
 - N.K. Jemisin

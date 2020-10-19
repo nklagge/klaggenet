@@ -1,7 +1,8 @@
 ---
 date: 2018-10-08
 meta: true
-title: "The Hidden Wealth of Nations: The Scourge of Tax Havens"
+title: "<em>The Hidden Wealth of Nations: The Scourge of Tax Havens</em>"
+subtitle: "Gabriel Zucman"
 toc: false
 categories:
 - Gabriel Zucman

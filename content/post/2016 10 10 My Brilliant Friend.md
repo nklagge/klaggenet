@@ -1,7 +1,8 @@
 ---
 date: 2016-10-10
 meta: true
-title: "My Brilliant Friend"
+title: "<em>My Brilliant Friend</em>"
+subtitle: "Elena Ferrante"
 toc: false
 categories:
 - Elena Ferrante

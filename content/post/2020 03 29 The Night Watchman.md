@@ -1,7 +1,8 @@
 ---
 date: 2020-03-29
 meta: true
-title: "The Night Watchman"
+title: "<em>The Night Watchman</em>"
+subtitle: "Louise Erdrich"
 toc: false
 categories:
 - Louise Erdrich

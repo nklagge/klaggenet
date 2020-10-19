@@ -1,7 +1,8 @@
 ---
 date: 2019-10-27
 meta: true
-title: "Ghost Wall"
+title: "<em>Ghost Wall</em>"
+subtitle: "Sarah Moss"
 toc: false
 categories:
 - Sarah Moss

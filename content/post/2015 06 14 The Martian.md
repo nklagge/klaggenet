@@ -1,7 +1,8 @@
 ---
 date: 2015-06-14
 meta: true
-title: "The Martian"
+title: "<em>The Martian</em>"
+subtitle: "Andy Weir"
 toc: false
 categories:
 - Andy Weir

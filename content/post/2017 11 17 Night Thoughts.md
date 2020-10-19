@@ -1,7 +1,8 @@
 ---
 date: 2017-11-17
 meta: true
-title: "Night Thoughts"
+title: "<em>Night Thoughts</em>"
+subtitle: "Wallace Shawn"
 toc: false
 categories:
 - Wallace Shawn

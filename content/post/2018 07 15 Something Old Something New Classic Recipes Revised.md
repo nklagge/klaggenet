@@ -1,7 +1,8 @@
 ---
 date: 2018-07-15
 meta: true
-title: "Something Old, Something New: Classic Recipes Revised"
+title: "<em>Something Old, Something New: Classic Recipes Revised</em>"
+subtitle: "Tamar Adler"
 toc: false
 categories:
 - Tamar Adler

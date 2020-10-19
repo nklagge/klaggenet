@@ -1,7 +1,8 @@
 ---
 date: 2018-01-10
 meta: true
-title: "Midlife: A Philosophical Guide"
+title: "<em>Midlife: A Philosophical Guide</em>"
+subtitle: "Kieran Setiya"
 toc: false
 categories:
 - Kieran Setiya

@@ -1,7 +1,8 @@
 ---
 date: 2009-11-28
 meta: true
-title: "Return to the Hundred Acre Wood"
+title: "<em>Return to the Hundred Acre Wood</em>"
+subtitle: "David Benedictus"
 toc: false
 categories:
 - David Benedictus

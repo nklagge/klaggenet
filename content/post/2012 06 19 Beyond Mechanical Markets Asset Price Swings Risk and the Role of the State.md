@@ -1,7 +1,8 @@
 ---
 date: 2012-06-19
 meta: true
-title: "Beyond Mechanical Markets: Asset Price Swings, Risk, and the Role of the State"
+title: "<em>Beyond Mechanical Markets: Asset Price Swings, Risk, and the Role of the State</em>"
+subtitle: "Roman Frydman"
 toc: false
 categories:
 - Roman Frydman

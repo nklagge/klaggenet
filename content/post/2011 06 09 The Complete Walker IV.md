@@ -1,7 +1,8 @@
 ---
 date: 2011-06-09
 meta: true
-title: "The Complete Walker IV"
+title: "<em>The Complete Walker IV</em>"
+subtitle: "Colin Fletcher"
 toc: false
 categories:
 - Colin Fletcher

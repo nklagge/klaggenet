@@ -1,7 +1,8 @@
 ---
 date: 2015-08-08
 meta: true
-title: "Ancillary Justice"
+title: "<em>Ancillary Justice</em>"
+subtitle: "Ann Leckie"
 toc: false
 categories:
 - Ann Leckie

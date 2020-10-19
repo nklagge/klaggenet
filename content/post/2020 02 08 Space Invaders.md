@@ -1,7 +1,8 @@
 ---
 date: 2020-02-08
 meta: true
-title: "Space Invaders"
+title: "<em>Space Invaders</em>"
+subtitle: "Nona Fernández"
 toc: false
 categories:
 - Nona Fernández

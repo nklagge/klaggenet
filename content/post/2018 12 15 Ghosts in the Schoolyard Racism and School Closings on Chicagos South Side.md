@@ -1,7 +1,8 @@
 ---
 date: 2018-12-15
 meta: true
-title: "Ghosts in the Schoolyard: Racism and School Closings on Chicago's South Side"
+title: "<em>Ghosts in the Schoolyard: Racism and School Closings on Chicago's South Side</em>"
+subtitle: "Eve L. Ewing"
 toc: false
 categories:
 - Eve L. Ewing

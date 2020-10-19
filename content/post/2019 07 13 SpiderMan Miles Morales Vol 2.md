@@ -1,7 +1,8 @@
 ---
 date: 2019-07-13
 meta: true
-title: "Spider-Man: Miles Morales, Vol. 2"
+title: "<em>Spider-Man: Miles Morales, Vol. 2</em>"
+subtitle: "Brian Michael Bendis"
 toc: false
 categories:
 - Brian Michael Bendis

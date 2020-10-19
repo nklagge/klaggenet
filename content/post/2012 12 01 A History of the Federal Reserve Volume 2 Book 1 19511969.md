@@ -1,7 +1,8 @@
 ---
 date: 2012-12-01
 meta: true
-title: "A History of the Federal Reserve, Volume 2, Book 1, 1951-1969"
+title: "<em>A History of the Federal Reserve, Volume 2, Book 1, 1951-1969</em>"
+subtitle: "Allan H. Meltzer"
 toc: false
 categories:
 - Allan H. Meltzer

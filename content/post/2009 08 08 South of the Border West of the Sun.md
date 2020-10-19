@@ -1,7 +1,8 @@
 ---
 date: 2009-08-08
 meta: true
-title: "South of the Border, West of the Sun"
+title: "<em>South of the Border, West of the Sun</em>"
+subtitle: "Haruki Murakami"
 toc: false
 categories:
 - Haruki Murakami

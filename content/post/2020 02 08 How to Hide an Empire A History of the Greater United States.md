@@ -1,7 +1,8 @@
 ---
 date: 2020-02-08
 meta: true
-title: "How to Hide an Empire: A History of the Greater United States"
+title: "<em>How to Hide an Empire: A History of the Greater United States</em>"
+subtitle: "Daniel Immerwahr"
 toc: false
 categories:
 - Daniel Immerwahr

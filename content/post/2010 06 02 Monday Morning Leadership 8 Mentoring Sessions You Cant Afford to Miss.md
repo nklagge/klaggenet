@@ -1,7 +1,8 @@
 ---
 date: 2010-06-02
 meta: true
-title: "Monday Morning Leadership: 8 Mentoring Sessions You Can't Afford to Miss"
+title: "<em>Monday Morning Leadership: 8 Mentoring Sessions You Can't Afford to Miss</em>"
+subtitle: "David Cottrell"
 toc: false
 categories:
 - David Cottrell

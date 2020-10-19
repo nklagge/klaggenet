@@ -1,7 +1,8 @@
 ---
 date: 2020-01-20
 meta: true
-title: "Rationality: From AI to Zombies"
+title: "<em>Rationality: From AI to Zombies</em>"
+subtitle: "Eliezer Yudkowsky"
 toc: false
 categories:
 - Eliezer Yudkowsky

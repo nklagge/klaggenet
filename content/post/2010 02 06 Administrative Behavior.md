@@ -1,7 +1,8 @@
 ---
 date: 2010-02-06
 meta: true
-title: "Administrative Behavior"
+title: "<em>Administrative Behavior</em>"
+subtitle: "Herbert A. Simon"
 toc: false
 categories:
 - Herbert A. Simon

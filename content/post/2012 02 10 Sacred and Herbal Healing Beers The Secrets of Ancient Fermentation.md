@@ -1,7 +1,8 @@
 ---
 date: 2012-02-10
 meta: true
-title: "Sacred and Herbal Healing Beers: The Secrets of Ancient Fermentation"
+title: "<em>Sacred and Herbal Healing Beers: The Secrets of Ancient Fermentation</em>"
+subtitle: "Stephen Harrod Buhner"
 toc: false
 categories:
 - Stephen Harrod Buhner

@@ -1,7 +1,8 @@
 ---
 date: 2010-05-07
 meta: true
-title: "Owly, Vol. 4:  A Time to Be Brave"
+title: "<em>Owly, Vol. 4:  A Time to Be Brave</em>"
+subtitle: "Andy Runton"
 toc: false
 categories:
 - Andy Runton

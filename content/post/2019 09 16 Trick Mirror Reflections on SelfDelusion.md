@@ -1,7 +1,8 @@
 ---
 date: 2019-09-16
 meta: true
-title: "Trick Mirror: Reflections on Self-Delusion"
+title: "<em>Trick Mirror: Reflections on Self-Delusion</em>"
+subtitle: "Jia Tolentino"
 toc: false
 categories:
 - Jia Tolentino

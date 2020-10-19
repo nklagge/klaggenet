@@ -1,7 +1,8 @@
 ---
 date: 2020-08-12
 meta: true
-title: "Wake, Siren: Ovid Resung"
+title: "<em>Wake, Siren: Ovid Resung</em>"
+subtitle: "Nina MacLaughlin"
 toc: false
 categories:
 - Nina MacLaughlin

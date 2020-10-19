@@ -1,7 +1,8 @@
 ---
 date: 2010-04-12
 meta: true
-title: "Billy Budd & Other Stories"
+title: "<em>Billy Budd & Other Stories</em>"
+subtitle: "Herman Melville"
 toc: false
 categories:
 - Herman Melville

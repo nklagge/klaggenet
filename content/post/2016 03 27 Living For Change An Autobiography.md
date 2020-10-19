@@ -1,7 +1,8 @@
 ---
 date: 2016-03-27
 meta: true
-title: "Living For Change: An Autobiography"
+title: "<em>Living For Change: An Autobiography</em>"
+subtitle: "Grace Lee Boggs"
 toc: false
 categories:
 - Grace Lee Boggs

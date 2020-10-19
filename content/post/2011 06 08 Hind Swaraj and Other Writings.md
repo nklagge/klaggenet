@@ -1,7 +1,8 @@
 ---
 date: 2011-06-08
 meta: true
-title: "Hind Swaraj and Other Writings"
+title: "<em>Hind Swaraj and Other Writings</em>"
+subtitle: "Mahatma Gandhi"
 toc: false
 categories:
 - Mahatma Gandhi

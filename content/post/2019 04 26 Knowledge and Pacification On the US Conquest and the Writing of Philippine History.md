@@ -1,7 +1,8 @@
 ---
 date: 2019-04-26
 meta: true
-title: "Knowledge and Pacification: On the U.S. Conquest and the Writing of Philippine History"
+title: "<em>Knowledge and Pacification: On the U.S. Conquest and the Writing of Philippine History</em>"
+subtitle: "Reynaldo Clemeña Ileto"
 toc: false
 categories:
 - Reynaldo Clemeña Ileto

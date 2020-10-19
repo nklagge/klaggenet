@@ -1,7 +1,8 @@
 ---
 date: 2019-01-20
 meta: true
-title: "Dungeons and Dragons Art and Arcana: A Visual History"
+title: "<em>Dungeons and Dragons Art and Arcana: A Visual History</em>"
+subtitle: "Kyle Newman"
 toc: false
 categories:
 - Kyle Newman

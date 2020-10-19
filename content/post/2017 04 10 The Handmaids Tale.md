@@ -1,7 +1,8 @@
 ---
 date: 2017-04-10
 meta: true
-title: "The Handmaid's Tale"
+title: "<em>The Handmaid's Tale</em>"
+subtitle: "Margaret Atwood"
 toc: false
 categories:
 - Margaret Atwood

@@ -1,7 +1,8 @@
 ---
 date: 2016-11-15
 meta: true
-title: "The Lost Books of the Odyssey"
+title: "<em>The Lost Books of the Odyssey</em>"
+subtitle: "Zachary Mason"
 toc: false
 categories:
 - Zachary Mason

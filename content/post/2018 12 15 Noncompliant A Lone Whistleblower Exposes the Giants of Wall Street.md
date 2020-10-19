@@ -1,7 +1,8 @@
 ---
 date: 2018-12-15
 meta: true
-title: "Noncompliant: A Lone Whistleblower Exposes the Giants of Wall Street"
+title: "<em>Noncompliant: A Lone Whistleblower Exposes the Giants of Wall Street</em>"
+subtitle: "Carmen Segarra"
 toc: false
 categories:
 - Carmen Segarra

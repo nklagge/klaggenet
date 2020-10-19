@@ -1,7 +1,8 @@
 ---
 date: 2014-01-12
 meta: true
-title: "Philosophy of Economics: A Contemporary Introduction"
+title: "<em>Philosophy of Economics: A Contemporary Introduction</em>"
+subtitle: "Julian Reiss"
 toc: false
 categories:
 - Julian Reiss

@@ -1,7 +1,8 @@
 ---
 date: 2014-08-10
 meta: true
-title: "Can't We Talk about Something More Pleasant?"
+title: "<em>Can't We Talk about Something More Pleasant?</em>"
+subtitle: "Roz Chast"
 toc: false
 categories:
 - Roz Chast

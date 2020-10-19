@@ -1,7 +1,8 @@
 ---
 date: 2020-01-25
 meta: true
-title: "The Steerswoman"
+title: "<em>The Steerswoman</em>"
+subtitle: "Rosemary Kirstein"
 toc: false
 categories:
 - Rosemary Kirstein

@@ -1,7 +1,8 @@
 ---
 date: 2016-10-28
 meta: true
-title: "Harry Potter and the Cursed Child: Parts One and Two"
+title: "<em>Harry Potter and the Cursed Child: Parts One and Two</em>"
+subtitle: "John Tiffany"
 toc: false
 categories:
 - John Tiffany

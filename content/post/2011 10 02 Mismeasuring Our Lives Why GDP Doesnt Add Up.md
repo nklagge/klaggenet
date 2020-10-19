@@ -1,7 +1,8 @@
 ---
 date: 2011-10-02
 meta: true
-title: "Mismeasuring Our Lives: Why GDP Doesn't Add Up"
+title: "<em>Mismeasuring Our Lives: Why GDP Doesn't Add Up</em>"
+subtitle: "Joseph E. Stiglitz"
 toc: false
 categories:
 - Joseph E. Stiglitz

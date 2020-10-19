@@ -1,7 +1,8 @@
 ---
 date: 2015-12-10
 meta: true
-title: "The Prize: Who's in Charge of America's Schools?"
+title: "<em>The Prize: Who's in Charge of America's Schools?</em>"
+subtitle: "Dale Russakoff"
 toc: false
 categories:
 - Dale Russakoff

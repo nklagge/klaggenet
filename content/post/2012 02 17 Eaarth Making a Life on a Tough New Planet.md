@@ -1,7 +1,8 @@
 ---
 date: 2012-02-17
 meta: true
-title: "Eaarth: Making a Life on a Tough New Planet"
+title: "<em>Eaarth: Making a Life on a Tough New Planet</em>"
+subtitle: "Bill McKibben"
 toc: false
 categories:
 - Bill McKibben

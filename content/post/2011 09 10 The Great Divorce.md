@@ -1,7 +1,8 @@
 ---
 date: 2011-09-10
 meta: true
-title: "The Great Divorce"
+title: "<em>The Great Divorce</em>"
+subtitle: "C.S. Lewis"
 toc: false
 categories:
 - C.S. Lewis

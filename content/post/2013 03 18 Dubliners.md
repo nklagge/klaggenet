@@ -1,7 +1,8 @@
 ---
 date: 2013-03-18
 meta: true
-title: "Dubliners"
+title: "<em>Dubliners</em>"
+subtitle: "James Joyce"
 toc: false
 categories:
 - James Joyce

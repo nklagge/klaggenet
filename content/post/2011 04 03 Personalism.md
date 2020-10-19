@@ -1,7 +1,8 @@
 ---
 date: 2011-04-03
 meta: true
-title: "Personalism"
+title: "<em>Personalism</em>"
+subtitle: "Emmanuel Mounier"
 toc: false
 categories:
 - Emmanuel Mounier

@@ -1,7 +1,8 @@
 ---
 date: 2019-05-14
 meta: true
-title: "Miles Morales: Ultimate Spider-Man: Ultimate Collection, Book 1"
+title: "<em>Miles Morales: Ultimate Spider-Man: Ultimate Collection, Book 1</em>"
+subtitle: "Brian Michael Bendis"
 toc: false
 categories:
 - Brian Michael Bendis

@@ -1,7 +1,8 @@
 ---
 date: 2018-03-16
 meta: true
-title: "The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures"
+title: "<em>The Wall Street Journal Guide to Information Graphics: The Dos and Don'ts of Presenting Data, Facts, and Figures</em>"
+subtitle: "Dona M. Wong"
 toc: false
 categories:
 - Dona M. Wong

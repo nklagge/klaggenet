@@ -1,7 +1,8 @@
 ---
 date: 2011-08-23
 meta: true
-title: "The Brief Wondrous Life of Oscar Wao"
+title: "<em>The Brief Wondrous Life of Oscar Wao</em>"
+subtitle: "Junot Díaz"
 toc: false
 categories:
 - Junot Díaz

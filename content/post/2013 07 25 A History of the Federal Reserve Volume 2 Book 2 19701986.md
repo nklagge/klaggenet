@@ -1,7 +1,8 @@
 ---
 date: 2013-07-25
 meta: true
-title: "A History of the Federal Reserve, Volume 2, Book 2, 1970-1986"
+title: "<em>A History of the Federal Reserve, Volume 2, Book 2, 1970-1986</em>"
+subtitle: "Allan H. Meltzer"
 toc: false
 categories:
 - Allan H. Meltzer

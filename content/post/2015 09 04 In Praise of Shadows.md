@@ -1,7 +1,8 @@
 ---
 date: 2015-09-04
 meta: true
-title: "In Praise of Shadows"
+title: "<em>In Praise of Shadows</em>"
+subtitle: "Jun'ichirō Tanizaki"
 toc: false
 categories:
 - Jun'ichirō Tanizaki

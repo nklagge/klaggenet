@@ -1,7 +1,8 @@
 ---
 date: 2016-01-20
 meta: true
-title: "Secret Coders"
+title: "<em>Secret Coders</em>"
+subtitle: "Gene Luen Yang"
 toc: false
 categories:
 - Gene Luen Yang

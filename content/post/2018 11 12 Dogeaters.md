@@ -1,7 +1,8 @@
 ---
 date: 2018-11-12
 meta: true
-title: "Dogeaters"
+title: "<em>Dogeaters</em>"
+subtitle: "Jessica Hagedorn"
 toc: false
 categories:
 - Jessica Hagedorn

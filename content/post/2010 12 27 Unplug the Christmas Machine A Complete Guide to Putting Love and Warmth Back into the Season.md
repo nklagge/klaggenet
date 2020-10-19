@@ -1,7 +1,8 @@
 ---
 date: 2010-12-27
 meta: true
-title: "Unplug the Christmas Machine: A Complete Guide to Putting Love and Warmth Back into the Season"
+title: "<em>Unplug the Christmas Machine: A Complete Guide to Putting Love and Warmth Back into the Season</em>"
+subtitle: "Jo Robinson"
 toc: false
 categories:
 - Jo Robinson

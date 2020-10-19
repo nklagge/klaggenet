@@ -1,7 +1,8 @@
 ---
 date: 2010-10-28
 meta: true
-title: "Retrospect, or Growing Up in Blacksburg and Other Tales Through a Long Life"
+title: "<em>Retrospect, or Growing Up in Blacksburg and Other Tales Through a Long Life</em>"
+subtitle: "Ellison A. Smyth"
 toc: false
 categories:
 - Ellison A. Smyth

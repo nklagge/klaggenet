@@ -1,7 +1,8 @@
 ---
 date: 2013-12-23
 meta: true
-title: "Interpreter of Maladies"
+title: "<em>Interpreter of Maladies</em>"
+subtitle: "Jhumpa Lahiri"
 toc: false
 categories:
 - Jhumpa Lahiri

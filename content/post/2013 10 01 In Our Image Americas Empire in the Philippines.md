@@ -1,7 +1,8 @@
 ---
 date: 2013-10-01
 meta: true
-title: "In Our Image: America's Empire in the Philippines"
+title: "<em>In Our Image: America's Empire in the Philippines</em>"
+subtitle: "Stanley Karnow"
 toc: false
 categories:
 - Stanley Karnow

@@ -1,7 +1,8 @@
 ---
 date: 2016-10-28
 meta: true
-title: "Wanderlust: A History of Walking"
+title: "<em>Wanderlust: A History of Walking</em>"
+subtitle: "Rebecca Solnit"
 toc: false
 categories:
 - Rebecca Solnit

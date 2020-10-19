@@ -1,7 +1,8 @@
 ---
 date: 2010-04-09
 meta: true
-title: "Powers, Vol. 3: Little Deaths"
+title: "<em>Powers, Vol. 3: Little Deaths</em>"
+subtitle: "Brian Michael Bendis"
 toc: false
 categories:
 - Brian Michael Bendis

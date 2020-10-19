@@ -1,7 +1,8 @@
 ---
 date: 2017-11-17
 meta: true
-title: "Al Franken, Giant of the Senate"
+title: "<em>Al Franken, Giant of the Senate</em>"
+subtitle: "Al Franken"
 toc: false
 categories:
 - Al Franken

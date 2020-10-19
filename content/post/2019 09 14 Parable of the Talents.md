@@ -1,7 +1,8 @@
 ---
 date: 2019-09-14
 meta: true
-title: "Parable of the Talents"
+title: "<em>Parable of the Talents</em>"
+subtitle: "Octavia E. Butler"
 toc: false
 categories:
 - Octavia E. Butler

@@ -1,7 +1,8 @@
 ---
 date: 2017-12-15
 meta: true
-title: "La Belle Sauvage"
+title: "<em>La Belle Sauvage</em>"
+subtitle: "Philip Pullman"
 toc: false
 categories:
 - Philip Pullman

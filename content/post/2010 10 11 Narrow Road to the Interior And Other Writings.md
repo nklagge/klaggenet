@@ -1,7 +1,8 @@
 ---
 date: 2010-10-11
 meta: true
-title: "Narrow Road to the Interior: And Other Writings"
+title: "<em>Narrow Road to the Interior: And Other Writings</em>"
+subtitle: "Matsuo Bashō"
 toc: false
 categories:
 - Matsuo Bashō

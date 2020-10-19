@@ -1,7 +1,8 @@
 ---
 date: 2018-09-03
 meta: true
-title: "A Deepness in the Sky"
+title: "<em>A Deepness in the Sky</em>"
+subtitle: "Vernor Vinge"
 toc: false
 categories:
 - Vernor Vinge

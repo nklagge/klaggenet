@@ -1,7 +1,8 @@
 ---
 date: 2012-11-24
 meta: true
-title: "Models.Behaving.Badly.: Why Confusing Illusion with Reality Can Lead to Disaster, on Wall Street and in Life"
+title: "<em>Models.Behaving.Badly.: Why Confusing Illusion with Reality Can Lead to Disaster, on Wall Street and in Life</em>"
+subtitle: "Emanuel Derman"
 toc: false
 categories:
 - Emanuel Derman

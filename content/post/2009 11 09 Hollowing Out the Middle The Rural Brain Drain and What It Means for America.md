@@ -1,7 +1,8 @@
 ---
 date: 2009-11-09
 meta: true
-title: "Hollowing Out the Middle: The Rural Brain Drain and What It Means for America"
+title: "<em>Hollowing Out the Middle: The Rural Brain Drain and What It Means for America</em>"
+subtitle: "Patrick J. Carr"
 toc: false
 categories:
 - Patrick J. Carr

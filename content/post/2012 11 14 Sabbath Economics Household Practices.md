@@ -1,7 +1,8 @@
 ---
 date: 2012-11-14
 meta: true
-title: "Sabbath Economics: Household Practices"
+title: "<em>Sabbath Economics: Household Practices</em>"
+subtitle: "Matthew Colwell"
 toc: false
 categories:
 - Matthew Colwell

@@ -1,7 +1,8 @@
 ---
 date: 2017-05-01
 meta: true
-title: "The Outermost House: A Year of Life on the Great Beach of Cape Cod"
+title: "<em>The Outermost House: A Year of Life on the Great Beach of Cape Cod</em>"
+subtitle: "Henry Beston"
 toc: false
 categories:
 - Henry Beston

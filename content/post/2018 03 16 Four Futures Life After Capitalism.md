@@ -1,7 +1,8 @@
 ---
 date: 2018-03-16
 meta: true
-title: "Four Futures: Life After Capitalism"
+title: "<em>Four Futures: Life After Capitalism</em>"
+subtitle: "Peter Frase"
 toc: false
 categories:
 - Peter Frase

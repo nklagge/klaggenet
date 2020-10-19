@@ -1,7 +1,8 @@
 ---
 date: 2018-10-08
 meta: true
-title: "Throne of the Crescent Moon"
+title: "<em>Throne of the Crescent Moon</em>"
+subtitle: "Saladin Ahmed"
 toc: false
 categories:
 - Saladin Ahmed

@@ -1,7 +1,8 @@
 ---
 date: 2010-04-29
 meta: true
-title: "Owly, Vol. 3: Flying Lessons"
+title: "<em>Owly, Vol. 3: Flying Lessons</em>"
+subtitle: "Andy Runton"
 toc: false
 categories:
 - Andy Runton

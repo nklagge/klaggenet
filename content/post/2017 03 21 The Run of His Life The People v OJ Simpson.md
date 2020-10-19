@@ -1,7 +1,8 @@
 ---
 date: 2017-03-21
 meta: true
-title: "The Run of His Life: The People v. O.J. Simpson"
+title: "<em>The Run of His Life: The People v. O.J. Simpson</em>"
+subtitle: "Jeffrey Toobin"
 toc: false
 categories:
 - Jeffrey Toobin

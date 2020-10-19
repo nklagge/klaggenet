@@ -1,7 +1,8 @@
 ---
 date: 2011-07-22
 meta: true
-title: "The New Frugality: How to Consume Less, Save More, and Live Better"
+title: "<em>The New Frugality: How to Consume Less, Save More, and Live Better</em>"
+subtitle: "Chris Farrell"
 toc: false
 categories:
 - Chris Farrell

@@ -1,7 +1,8 @@
 ---
 date: 2019-02-01
 meta: true
-title: "Planescape Campaign Setting"
+title: "<em>Planescape Campaign Setting</em>"
+subtitle: "David Zeb Cook"
 toc: false
 categories:
 - David Zeb Cook

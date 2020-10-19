@@ -1,7 +1,8 @@
 ---
 date: 2019-04-11
 meta: true
-title: "Something New: Tales from a Makeshift Bride"
+title: "<em>Something New: Tales from a Makeshift Bride</em>"
+subtitle: "Lucy Knisley"
 toc: false
 categories:
 - Lucy Knisley

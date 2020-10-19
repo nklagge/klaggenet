@@ -1,7 +1,8 @@
 ---
 date: 2013-04-09
 meta: true
-title: "A Game of Thrones"
+title: "<em>A Game of Thrones</em>"
+subtitle: "George R.R. Martin"
 toc: false
 categories:
 - George R.R. Martin

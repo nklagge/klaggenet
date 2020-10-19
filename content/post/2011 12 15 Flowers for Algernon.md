@@ -1,7 +1,8 @@
 ---
 date: 2011-12-15
 meta: true
-title: "Flowers for Algernon"
+title: "<em>Flowers for Algernon</em>"
+subtitle: "Daniel Keyes"
 toc: false
 categories:
 - Daniel Keyes

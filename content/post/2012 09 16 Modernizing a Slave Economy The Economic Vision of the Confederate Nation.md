@@ -1,7 +1,8 @@
 ---
 date: 2012-09-16
 meta: true
-title: "Modernizing a Slave Economy: The Economic Vision of the Confederate Nation"
+title: "<em>Modernizing a Slave Economy: The Economic Vision of the Confederate Nation</em>"
+subtitle: "John D.  Majewski"
 toc: false
 categories:
 - John D.  Majewski

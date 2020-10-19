@@ -1,7 +1,8 @@
 ---
 date: 2012-06-22
 meta: true
-title: "Discipleship as Political Responsibility"
+title: "<em>Discipleship as Political Responsibility</em>"
+subtitle: "John Howard Yoder"
 toc: false
 categories:
 - John Howard Yoder

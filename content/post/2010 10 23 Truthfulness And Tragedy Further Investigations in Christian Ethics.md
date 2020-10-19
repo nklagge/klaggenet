@@ -1,7 +1,8 @@
 ---
 date: 2010-10-23
 meta: true
-title: "Truthfulness And Tragedy: Further Investigations in Christian Ethics"
+title: "<em>Truthfulness And Tragedy: Further Investigations in Christian Ethics</em>"
+subtitle: "Stanley Hauerwas"
 toc: false
 categories:
 - Stanley Hauerwas

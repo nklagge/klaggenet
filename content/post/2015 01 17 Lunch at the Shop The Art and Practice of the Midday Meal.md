@@ -1,7 +1,8 @@
 ---
 date: 2015-01-17
 meta: true
-title: "Lunch at the Shop: The Art and Practice of the Midday Meal"
+title: "<em>Lunch at the Shop: The Art and Practice of the Midday Meal</em>"
+subtitle: "Peter Miller"
 toc: false
 categories:
 - Peter Miller

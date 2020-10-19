@@ -1,7 +1,8 @@
 ---
 date: 2020-05-19
 meta: true
-title: "Inadequate Equilibria: Where and How Civilizations Get Stuck"
+title: "<em>Inadequate Equilibria: Where and How Civilizations Get Stuck</em>"
+subtitle: "Eliezer Yudkowsky"
 toc: false
 categories:
 - Eliezer Yudkowsky

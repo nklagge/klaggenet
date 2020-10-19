@@ -1,7 +1,8 @@
 ---
 date: 2014-10-20
 meta: true
-title: "Judgment Under Uncertainty: Heuristics and Biases"
+title: "<em>Judgment Under Uncertainty: Heuristics and Biases</em>"
+subtitle: "Daniel Kahneman"
 toc: false
 categories:
 - Daniel Kahneman

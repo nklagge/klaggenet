@@ -1,7 +1,8 @@
 ---
 date: 2010-02-28
 meta: true
-title: "The Fortress of Solitude"
+title: "<em>The Fortress of Solitude</em>"
+subtitle: "Jonathan Lethem"
 toc: false
 categories:
 - Jonathan Lethem

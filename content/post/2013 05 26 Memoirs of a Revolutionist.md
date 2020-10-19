@@ -1,7 +1,8 @@
 ---
 date: 2013-05-26
 meta: true
-title: "Memoirs of a Revolutionist"
+title: "<em>Memoirs of a Revolutionist</em>"
+subtitle: "Pyotr Kropotkin"
 toc: false
 categories:
 - Pyotr Kropotkin

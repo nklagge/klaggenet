@@ -1,7 +1,8 @@
 ---
 date: 2018-02-25
 meta: true
-title: "The Shadow Over Innsmouth"
+title: "<em>The Shadow Over Innsmouth</em>"
+subtitle: "H.P. Lovecraft"
 toc: false
 categories:
 - H.P. Lovecraft

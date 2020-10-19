@@ -1,7 +1,8 @@
 ---
 date: 2017-12-10
 meta: true
-title: "The Vampyre; A Tale"
+title: "<em>The Vampyre; A Tale</em>"
+subtitle: "John William Polidori"
 toc: false
 categories:
 - John William Polidori

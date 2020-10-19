@@ -1,7 +1,8 @@
 ---
 date: 2017-03-01
 meta: true
-title: "Deep Work: Rules for Focused Success in a Distracted World"
+title: "<em>Deep Work: Rules for Focused Success in a Distracted World</em>"
+subtitle: "Cal Newport"
 toc: false
 categories:
 - Cal Newport

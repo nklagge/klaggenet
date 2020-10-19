@@ -1,7 +1,8 @@
 ---
 date: 2012-02-17
 meta: true
-title: "Wall Street: How It Works and for Whom"
+title: "<em>Wall Street: How It Works and for Whom</em>"
+subtitle: "Doug Henwood"
 toc: false
 categories:
 - Doug Henwood

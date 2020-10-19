@@ -1,7 +1,8 @@
 ---
 date: 2018-02-23
 meta: true
-title: "Electric Arches"
+title: "<em>Electric Arches</em>"
+subtitle: "Eve L. Ewing"
 toc: false
 categories:
 - Eve L. Ewing

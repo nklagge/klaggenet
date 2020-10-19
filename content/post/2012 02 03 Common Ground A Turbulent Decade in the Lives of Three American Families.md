@@ -1,7 +1,8 @@
 ---
 date: 2012-02-03
 meta: true
-title: "Common Ground: A Turbulent Decade in the Lives of Three American Families"
+title: "<em>Common Ground: A Turbulent Decade in the Lives of Three American Families</em>"
+subtitle: "J. Anthony Lukas"
 toc: false
 categories:
 - J. Anthony Lukas

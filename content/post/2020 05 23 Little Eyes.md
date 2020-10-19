@@ -1,7 +1,8 @@
 ---
 date: 2020-05-23
 meta: true
-title: "Little Eyes"
+title: "<em>Little Eyes</em>"
+subtitle: "Samanta Schweblin"
 toc: false
 categories:
 - Samanta Schweblin

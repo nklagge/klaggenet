@@ -1,7 +1,8 @@
 ---
 date: 2011-07-23
 meta: true
-title: "Tricks of the Trade: How to Think about Your Research While You're Doing It"
+title: "<em>Tricks of the Trade: How to Think about Your Research While You're Doing It</em>"
+subtitle: "Howard S. Becker"
 toc: false
 categories:
 - Howard S. Becker

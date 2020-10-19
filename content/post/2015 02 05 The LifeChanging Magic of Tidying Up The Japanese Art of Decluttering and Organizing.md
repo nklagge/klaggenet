@@ -1,7 +1,8 @@
 ---
 date: 2015-02-05
 meta: true
-title: "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing"
+title: "<em>The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing</em>"
+subtitle: "Marie Kondō"
 toc: false
 categories:
 - Marie Kondō

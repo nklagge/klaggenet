@@ -1,7 +1,8 @@
 ---
 date: 2019-03-31
 meta: true
-title: "Intruders: Short Stories"
+title: "<em>Intruders: Short Stories</em>"
+subtitle: "Mohale Mashigo"
 toc: false
 categories:
 - Mohale Mashigo

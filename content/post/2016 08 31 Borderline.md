@@ -1,7 +1,8 @@
 ---
 date: 2016-08-31
 meta: true
-title: "Borderline"
+title: "<em>Borderline</em>"
+subtitle: "Mishell Baker"
 toc: false
 categories:
 - Mishell Baker

@@ -1,7 +1,8 @@
 ---
 date: 2009-10-11
 meta: true
-title: "Death in Venice and Seven Other Stories"
+title: "<em>Death in Venice and Seven Other Stories</em>"
+subtitle: "Thomas Mann"
 toc: false
 categories:
 - Thomas Mann

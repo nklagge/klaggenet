@@ -1,7 +1,8 @@
 ---
 date: 2009-10-11
 meta: true
-title: "The Acts of King Arthur and His Noble Knights"
+title: "<em>The Acts of King Arthur and His Noble Knights</em>"
+subtitle: "John Steinbeck"
 toc: false
 categories:
 - John Steinbeck

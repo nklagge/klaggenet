@@ -1,7 +1,8 @@
 ---
 date: 2020-05-26
 meta: true
-title: "Philippine Folk Literature: The Folk Tales"
+title: "<em>Philippine Folk Literature: The Folk Tales</em>"
+subtitle: "Damiana L. Eugenio"
 toc: false
 categories:
 - Damiana L. Eugenio

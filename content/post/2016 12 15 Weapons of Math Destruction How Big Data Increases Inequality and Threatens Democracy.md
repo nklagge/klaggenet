@@ -1,7 +1,8 @@
 ---
 date: 2016-12-15
 meta: true
-title: "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"
+title: "<em>Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</em>"
+subtitle: "Cathy O'Neil"
 toc: false
 categories:
 - Cathy O'Neil

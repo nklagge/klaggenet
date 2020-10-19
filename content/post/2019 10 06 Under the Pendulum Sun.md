@@ -1,7 +1,8 @@
 ---
 date: 2019-10-06
 meta: true
-title: "Under the Pendulum Sun"
+title: "<em>Under the Pendulum Sun</em>"
+subtitle: "Jeannette Ng"
 toc: false
 categories:
 - Jeannette Ng

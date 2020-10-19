@@ -1,7 +1,8 @@
 ---
 date: 2018-10-08
 meta: true
-title: "Monster Manual"
+title: "<em>Monster Manual</em>"
+subtitle: "Mike Mearls"
 toc: false
 categories:
 - Mike Mearls

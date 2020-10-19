@@ -1,7 +1,8 @@
 ---
 date: 2012-03-20
 meta: true
-title: "The Legend of Sigurd & Gudrún"
+title: "<em>The Legend of Sigurd & Gudrún</em>"
+subtitle: "J.R.R. Tolkien"
 toc: false
 categories:
 - J.R.R. Tolkien

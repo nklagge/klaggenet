@@ -1,7 +1,8 @@
 ---
 date: 2017-01-15
 meta: true
-title: "The ABCs of Socialism"
+title: "<em>The ABCs of Socialism</em>"
+subtitle: "Bhaskar Sunkara"
 toc: false
 categories:
 - Bhaskar Sunkara

@@ -1,7 +1,8 @@
 ---
 date: 2015-10-14
 meta: true
-title: "America Is in the Heart: A Personal History"
+title: "<em>America Is in the Heart: A Personal History</em>"
+subtitle: "Carlos Bulosan"
 toc: false
 categories:
 - Carlos Bulosan

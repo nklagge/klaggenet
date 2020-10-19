@@ -1,7 +1,8 @@
 ---
 date: 2015-07-03
 meta: true
-title: "The World Beyond Your Head: On Becoming an Individual in an Age of Distraction"
+title: "<em>The World Beyond Your Head: On Becoming an Individual in an Age of Distraction</em>"
+subtitle: "Matthew B. Crawford"
 toc: false
 categories:
 - Matthew B. Crawford

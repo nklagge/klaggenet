@@ -1,7 +1,8 @@
 ---
 date: 2010-12-27
 meta: true
-title: "Starting at Home: Caring and Social Policy"
+title: "<em>Starting at Home: Caring and Social Policy</em>"
+subtitle: "Nel Noddings"
 toc: false
 categories:
 - Nel Noddings

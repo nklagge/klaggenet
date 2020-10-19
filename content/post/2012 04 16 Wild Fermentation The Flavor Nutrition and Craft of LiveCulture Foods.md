@@ -1,7 +1,8 @@
 ---
 date: 2012-04-16
 meta: true
-title: "Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods"
+title: "<em>Wild Fermentation: The Flavor, Nutrition, and Craft of Live-Culture Foods</em>"
+subtitle: "Sandor Ellix Katz"
 toc: false
 categories:
 - Sandor Ellix Katz

@@ -1,7 +1,8 @@
 ---
 date: 2017-07-07
 meta: true
-title: "A Small Porch: Sabbath Poems 2014 and 2015"
+title: "<em>A Small Porch: Sabbath Poems 2014 and 2015</em>"
+subtitle: "Wendell Berry"
 toc: false
 categories:
 - Wendell Berry

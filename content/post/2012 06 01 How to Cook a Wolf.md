@@ -1,7 +1,8 @@
 ---
 date: 2012-06-01
 meta: true
-title: "How to Cook a Wolf"
+title: "<em>How to Cook a Wolf</em>"
+subtitle: "M.F.K. Fisher"
 toc: false
 categories:
 - M.F.K. Fisher

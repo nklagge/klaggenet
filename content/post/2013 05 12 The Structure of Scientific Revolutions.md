@@ -1,7 +1,8 @@
 ---
 date: 2013-05-12
 meta: true
-title: "The Structure of Scientific Revolutions"
+title: "<em>The Structure of Scientific Revolutions</em>"
+subtitle: "Thomas S. Kuhn"
 toc: false
 categories:
 - Thomas S. Kuhn

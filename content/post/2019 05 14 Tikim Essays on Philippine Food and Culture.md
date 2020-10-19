@@ -1,7 +1,8 @@
 ---
 date: 2019-05-14
 meta: true
-title: "Tikim: Essays on Philippine Food and Culture"
+title: "<em>Tikim: Essays on Philippine Food and Culture</em>"
+subtitle: "Doreen G. Fernandez"
 toc: false
 categories:
 - Doreen G. Fernandez

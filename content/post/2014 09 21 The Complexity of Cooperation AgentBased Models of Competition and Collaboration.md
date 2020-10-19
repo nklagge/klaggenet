@@ -1,7 +1,8 @@
 ---
 date: 2014-09-21
 meta: true
-title: "The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration"
+title: "<em>The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration</em>"
+subtitle: "Robert Axelrod"
 toc: false
 categories:
 - Robert Axelrod

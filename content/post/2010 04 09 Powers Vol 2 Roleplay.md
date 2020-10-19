@@ -1,7 +1,8 @@
 ---
 date: 2010-04-09
 meta: true
-title: "Powers, Vol. 2: Roleplay"
+title: "<em>Powers, Vol. 2: Roleplay</em>"
+subtitle: "Brian Michael Bendis"
 toc: false
 categories:
 - Brian Michael Bendis

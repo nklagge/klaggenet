@@ -1,7 +1,8 @@
 ---
 date: 2018-05-02
 meta: true
-title: "Supernormal Stimuli: How Primal Urges Overran Their Evolutionary Purpose"
+title: "<em>Supernormal Stimuli: How Primal Urges Overran Their Evolutionary Purpose</em>"
+subtitle: "Deirdre Barrett"
 toc: false
 categories:
 - Deirdre Barrett

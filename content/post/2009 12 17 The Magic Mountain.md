@@ -1,7 +1,8 @@
 ---
 date: 2009-12-17
 meta: true
-title: "The Magic Mountain"
+title: "<em>The Magic Mountain</em>"
+subtitle: "Thomas Mann"
 toc: false
 categories:
 - Thomas Mann

@@ -1,7 +1,8 @@
 ---
 date: 2011-03-06
 meta: true
-title: "The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History, Got Sick, and Will (Eventually) Feel Better"
+title: "<em>The Great Stagnation: How America Ate All The Low-Hanging Fruit of Modern History, Got Sick, and Will (Eventually) Feel Better</em>"
+subtitle: "Tyler Cowen"
 toc: false
 categories:
 - Tyler Cowen

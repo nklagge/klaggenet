@@ -1,7 +1,8 @@
 ---
 date: 2012-12-16
 meta: true
-title: "Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States"
+title: "<em>Exit, Voice, and Loyalty: Responses to Decline in Firms, Organizations, and States</em>"
+subtitle: "Albert O. Hirschman"
 toc: false
 categories:
 - Albert O. Hirschman

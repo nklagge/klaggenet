@@ -1,7 +1,8 @@
 ---
 date: 2017-04-05
 meta: true
-title: "Thinking in Systems: A Primer"
+title: "<em>Thinking in Systems: A Primer</em>"
+subtitle: "Donella H. Meadows"
 toc: false
 categories:
 - Donella H. Meadows

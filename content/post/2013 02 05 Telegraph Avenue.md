@@ -1,7 +1,8 @@
 ---
 date: 2013-02-05
 meta: true
-title: "Telegraph Avenue"
+title: "<em>Telegraph Avenue</em>"
+subtitle: "Michael Chabon"
 toc: false
 categories:
 - Michael Chabon

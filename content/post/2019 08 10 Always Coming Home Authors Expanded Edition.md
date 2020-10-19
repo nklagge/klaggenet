@@ -1,7 +1,8 @@
 ---
 date: 2019-08-10
 meta: true
-title: "Always Coming Home: Author's Expanded Edition"
+title: "<em>Always Coming Home: Author's Expanded Edition</em>"
+subtitle: "Ursula K. Le Guin"
 toc: false
 categories:
 - Ursula K. Le Guin

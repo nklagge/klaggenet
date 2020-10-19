@@ -1,7 +1,8 @@
 ---
 date: 2011-05-18
 meta: true
-title: "Strength to Love"
+title: "<em>Strength to Love</em>"
+subtitle: "Martin Luther King Jr."
 toc: false
 categories:
 - Martin Luther King Jr.

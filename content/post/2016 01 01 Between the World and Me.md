@@ -1,7 +1,8 @@
 ---
 date: 2016-01-01
 meta: true
-title: "Between the World and Me"
+title: "<em>Between the World and Me</em>"
+subtitle: "Ta-Nehisi Coates"
 toc: false
 categories:
 - Ta-Nehisi Coates

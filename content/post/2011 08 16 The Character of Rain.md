@@ -1,7 +1,8 @@
 ---
 date: 2011-08-16
 meta: true
-title: "The Character of Rain"
+title: "<em>The Character of Rain</em>"
+subtitle: "Amélie Nothomb"
 toc: false
 categories:
 - Amélie Nothomb

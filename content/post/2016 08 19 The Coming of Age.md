@@ -1,7 +1,8 @@
 ---
 date: 2016-08-19
 meta: true
-title: "The Coming of Age"
+title: "<em>The Coming of Age</em>"
+subtitle: "Simone de Beauvoir"
 toc: false
 categories:
 - Simone de Beauvoir

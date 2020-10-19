@@ -1,7 +1,8 @@
 ---
 date: 2014-02-01
 meta: true
-title: "Those Left Behind"
+title: "<em>Those Left Behind</em>"
+subtitle: "Joss Whedon"
 toc: false
 categories:
 - Joss Whedon

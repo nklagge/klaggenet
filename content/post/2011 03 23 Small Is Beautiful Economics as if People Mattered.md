@@ -1,7 +1,8 @@
 ---
 date: 2011-03-23
 meta: true
-title: "Small Is Beautiful: Economics as if People Mattered"
+title: "<em>Small Is Beautiful: Economics as if People Mattered</em>"
+subtitle: "Ernst F. Schumacher"
 toc: false
 categories:
 - Ernst F. Schumacher

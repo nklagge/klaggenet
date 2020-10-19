@@ -1,7 +1,8 @@
 ---
 date: 2019-11-23
 meta: true
-title: "Dear Girls: Intimate Tales, Untold Secrets, & Advice for Living Your Best Life"
+title: "<em>Dear Girls: Intimate Tales, Untold Secrets, & Advice for Living Your Best Life</em>"
+subtitle: "Ali Wong"
 toc: false
 categories:
 - Ali Wong

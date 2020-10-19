@@ -1,7 +1,8 @@
 ---
 date: 2019-04-11
 meta: true
-title: "The Long Way to a Small, Angry Planet"
+title: "<em>The Long Way to a Small, Angry Planet</em>"
+subtitle: "Becky Chambers"
 toc: false
 categories:
 - Becky Chambers

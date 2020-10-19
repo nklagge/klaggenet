@@ -1,7 +1,8 @@
 ---
 date: 2011-10-18
 meta: true
-title: "Catching Fire"
+title: "<em>Catching Fire</em>"
+subtitle: "Suzanne Collins"
 toc: false
 categories:
 - Suzanne Collins

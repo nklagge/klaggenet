@@ -1,7 +1,8 @@
 ---
 date: 2017-04-21
 meta: true
-title: "Essays After Eighty"
+title: "<em>Essays After Eighty</em>"
+subtitle: "Donald Hall"
 toc: false
 categories:
 - Donald Hall

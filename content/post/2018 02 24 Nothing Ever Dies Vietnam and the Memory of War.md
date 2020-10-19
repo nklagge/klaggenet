@@ -1,7 +1,8 @@
 ---
 date: 2018-02-24
 meta: true
-title: "Nothing Ever Dies: Vietnam and the Memory of War"
+title: "<em>Nothing Ever Dies: Vietnam and the Memory of War</em>"
+subtitle: "Viet Thanh Nguyen"
 toc: false
 categories:
 - Viet Thanh Nguyen

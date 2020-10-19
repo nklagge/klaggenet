@@ -1,7 +1,8 @@
 ---
 date: 2010-12-13
 meta: true
-title: "After Virtue: A Study in Moral Theory"
+title: "<em>After Virtue: A Study in Moral Theory</em>"
+subtitle: "Alasdair MacIntyre"
 toc: false
 categories:
 - Alasdair MacIntyre

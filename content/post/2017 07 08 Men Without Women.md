@@ -1,7 +1,8 @@
 ---
 date: 2017-07-08
 meta: true
-title: "Men Without Women"
+title: "<em>Men Without Women</em>"
+subtitle: "Haruki Murakami"
 toc: false
 categories:
 - Haruki Murakami

@@ -1,7 +1,8 @@
 ---
 date: 2011-08-08
 meta: true
-title: "After Dark"
+title: "<em>After Dark</em>"
+subtitle: "Haruki Murakami"
 toc: false
 categories:
 - Haruki Murakami

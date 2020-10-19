@@ -1,7 +1,8 @@
 ---
 date: 2013-06-02
 meta: true
-title: "Asterios Polyp"
+title: "<em>Asterios Polyp</em>"
+subtitle: "David Mazzucchelli"
 toc: false
 categories:
 - David Mazzucchelli

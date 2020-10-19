@@ -1,7 +1,8 @@
 ---
 date: 2011-10-21
 meta: true
-title: "Mockingjay"
+title: "<em>Mockingjay</em>"
+subtitle: "Suzanne Collins"
 toc: false
 categories:
 - Suzanne Collins

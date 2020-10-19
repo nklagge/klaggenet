@@ -1,7 +1,8 @@
 ---
 date: 2015-05-31
 meta: true
-title: "Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life"
+title: "<em>Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life</em>"
+subtitle: "Jon Kabat-Zinn"
 toc: false
 categories:
 - Jon Kabat-Zinn

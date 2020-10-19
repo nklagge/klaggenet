@@ -1,7 +1,8 @@
 ---
 date: 2014-04-10
 meta: true
-title: "Bury My Heart at Wounded Knee: An Indian History of the American West"
+title: "<em>Bury My Heart at Wounded Knee: An Indian History of the American West</em>"
+subtitle: "Dee Brown"
 toc: false
 categories:
 - Dee Brown

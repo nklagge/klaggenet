@@ -1,7 +1,8 @@
 ---
 date: 2018-10-21
 meta: true
-title: "Call Them by Their True Names"
+title: "<em>Call Them by Their True Names</em>"
+subtitle: "Rebecca Solnit"
 toc: false
 categories:
 - Rebecca Solnit

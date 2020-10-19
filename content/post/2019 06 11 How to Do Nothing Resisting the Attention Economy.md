@@ -1,7 +1,8 @@
 ---
 date: 2019-06-11
 meta: true
-title: "How to Do Nothing: Resisting the Attention Economy"
+title: "<em>How to Do Nothing: Resisting the Attention Economy</em>"
+subtitle: "Jenny Odell"
 toc: false
 categories:
 - Jenny Odell

@@ -1,7 +1,8 @@
 ---
 date: 2016-12-15
 meta: true
-title: "Homegoing"
+title: "<em>Homegoing</em>"
+subtitle: "Yaa Gyasi"
 toc: false
 categories:
 - Yaa Gyasi

@@ -1,7 +1,8 @@
 ---
 date: 2009-11-25
 meta: true
-title: "Discourses and Enchiridion"
+title: "<em>Discourses and Enchiridion</em>"
+subtitle: "Epictetus"
 toc: false
 categories:
 - Epictetus

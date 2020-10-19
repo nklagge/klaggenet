@@ -1,7 +1,8 @@
 ---
 date: 2013-11-04
 meta: true
-title: "A Fire Upon the Deep"
+title: "<em>A Fire Upon the Deep</em>"
+subtitle: "Vernor Vinge"
 toc: false
 categories:
 - Vernor Vinge

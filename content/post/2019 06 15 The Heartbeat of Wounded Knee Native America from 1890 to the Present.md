@@ -1,7 +1,8 @@
 ---
 date: 2019-06-15
 meta: true
-title: "The Heartbeat of Wounded Knee: Native America from 1890 to the Present"
+title: "<em>The Heartbeat of Wounded Knee: Native America from 1890 to the Present</em>"
+subtitle: "David Treuer"
 toc: false
 categories:
 - David Treuer

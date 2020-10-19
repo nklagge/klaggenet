@@ -1,7 +1,8 @@
 ---
 date: 2013-09-10
 meta: true
-title: "Man's Search for Meaning"
+title: "<em>Man's Search for Meaning</em>"
+subtitle: "Viktor E. Frankl"
 toc: false
 categories:
 - Viktor E. Frankl

@@ -1,7 +1,8 @@
 ---
 date: 2019-10-07
 meta: true
-title: "Payback: Debt and the Shadow Side of Wealth"
+title: "<em>Payback: Debt and the Shadow Side of Wealth</em>"
+subtitle: "Margaret Atwood"
 toc: false
 categories:
 - Margaret Atwood

@@ -1,7 +1,8 @@
 ---
 date: 2017-01-31
 meta: true
-title: "The Importance of Living"
+title: "<em>The Importance of Living</em>"
+subtitle: "Lin Yutang"
 toc: false
 categories:
 - Lin Yutang

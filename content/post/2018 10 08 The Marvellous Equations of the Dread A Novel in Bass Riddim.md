@@ -1,7 +1,8 @@
 ---
 date: 2018-10-08
 meta: true
-title: "The Marvellous Equations of the Dread: A Novel in Bass Riddim"
+title: "<em>The Marvellous Equations of the Dread: A Novel in Bass Riddim</em>"
+subtitle: "Marcia Douglas"
 toc: false
 categories:
 - Marcia Douglas

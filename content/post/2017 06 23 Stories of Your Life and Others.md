@@ -1,7 +1,8 @@
 ---
 date: 2017-06-23
 meta: true
-title: "Stories of Your Life and Others"
+title: "<em>Stories of Your Life and Others</em>"
+subtitle: "Ted Chiang"
 toc: false
 categories:
 - Ted Chiang

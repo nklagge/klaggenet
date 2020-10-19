@@ -1,7 +1,8 @@
 ---
 date: 2018-04-15
 meta: true
-title: "The Rise and Fall of Classical Greece"
+title: "<em>The Rise and Fall of Classical Greece</em>"
+subtitle: "Josiah Ober"
 toc: false
 categories:
 - Josiah Ober

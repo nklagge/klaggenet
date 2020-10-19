@@ -1,7 +1,8 @@
 ---
 date: 2013-08-07
 meta: true
-title: "The Limits to Growth: The 30-Year Update"
+title: "<em>The Limits to Growth: The 30-Year Update</em>"
+subtitle: "Donella H. Meadows"
 toc: false
 categories:
 - Donella H. Meadows

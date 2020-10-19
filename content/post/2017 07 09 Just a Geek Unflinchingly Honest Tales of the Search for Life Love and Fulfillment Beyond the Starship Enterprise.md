@@ -1,7 +1,8 @@
 ---
 date: 2017-07-09
 meta: true
-title: "Just a Geek: Unflinchingly Honest Tales of the Search for Life, Love, and Fulfillment Beyond the Starship Enterprise"
+title: "<em>Just a Geek: Unflinchingly Honest Tales of the Search for Life, Love, and Fulfillment Beyond the Starship Enterprise</em>"
+subtitle: "Wil Wheaton"
 toc: false
 categories:
 - Wil Wheaton

@@ -1,7 +1,8 @@
 ---
 date: 2010-11-23
 meta: true
-title: "In a Different Voice: Psychological Theory and Women's Development"
+title: "<em>In a Different Voice: Psychological Theory and Women's Development</em>"
+subtitle: "Carol Gilligan"
 toc: false
 categories:
 - Carol Gilligan

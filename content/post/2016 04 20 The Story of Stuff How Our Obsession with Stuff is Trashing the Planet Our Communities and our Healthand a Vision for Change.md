@@ -1,7 +1,8 @@
 ---
 date: 2016-04-20
 meta: true
-title: "The Story of Stuff: How Our Obsession with Stuff is Trashing the Planet, Our Communities, and our Health—and a Vision for Change"
+title: "<em>The Story of Stuff: How Our Obsession with Stuff is Trashing the Planet, Our Communities, and our Health—and a Vision for Change</em>"
+subtitle: "Annie Leonard"
 toc: false
 categories:
 - Annie Leonard

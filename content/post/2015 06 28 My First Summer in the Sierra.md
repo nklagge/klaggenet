@@ -1,7 +1,8 @@
 ---
 date: 2015-06-28
 meta: true
-title: "My First Summer in the Sierra"
+title: "<em>My First Summer in the Sierra</em>"
+subtitle: "John Muir"
 toc: false
 categories:
 - John Muir

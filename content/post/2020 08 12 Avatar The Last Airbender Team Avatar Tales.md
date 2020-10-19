@@ -1,7 +1,8 @@
 ---
 date: 2020-08-12
 meta: true
-title: "Avatar: The Last Airbender: Team Avatar Tales"
+title: "<em>Avatar: The Last Airbender: Team Avatar Tales</em>"
+subtitle: "Gene Luen Yang"
 toc: false
 categories:
 - Gene Luen Yang

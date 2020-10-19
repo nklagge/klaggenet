@@ -1,7 +1,8 @@
 ---
 date: 2020-08-27
 meta: true
-title: "Dragon Hoops"
+title: "<em>Dragon Hoops</em>"
+subtitle: "Gene Luen Yang"
 toc: false
 categories:
 - Gene Luen Yang

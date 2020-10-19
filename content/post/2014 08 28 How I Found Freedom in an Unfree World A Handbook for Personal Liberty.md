@@ -1,7 +1,8 @@
 ---
 date: 2014-08-28
 meta: true
-title: "How I Found Freedom in an Unfree World: A Handbook for Personal Liberty"
+title: "<em>How I Found Freedom in an Unfree World: A Handbook for Personal Liberty</em>"
+subtitle: "Harry Browne"
 toc: false
 categories:
 - Harry Browne

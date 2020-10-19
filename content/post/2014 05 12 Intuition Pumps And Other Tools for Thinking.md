@@ -1,7 +1,8 @@
 ---
 date: 2014-05-12
 meta: true
-title: "Intuition Pumps And Other Tools for Thinking"
+title: "<em>Intuition Pumps And Other Tools for Thinking</em>"
+subtitle: "Daniel C. Dennett"
 toc: false
 categories:
 - Daniel C. Dennett

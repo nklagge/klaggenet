@@ -1,7 +1,8 @@
 ---
 date: 2016-02-05
 meta: true
-title: "When Breath Becomes Air"
+title: "<em>When Breath Becomes Air</em>"
+subtitle: "Paul Kalanithi"
 toc: false
 categories:
 - Paul Kalanithi

@@ -1,7 +1,8 @@
 ---
 date: 2010-07-02
 meta: true
-title: "Bicycle Diaries"
+title: "<em>Bicycle Diaries</em>"
+subtitle: "David Byrne"
 toc: false
 categories:
 - David Byrne

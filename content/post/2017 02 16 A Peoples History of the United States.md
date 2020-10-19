@@ -1,7 +1,8 @@
 ---
 date: 2017-02-16
 meta: true
-title: "A People's History of the United States"
+title: "<em>A People's History of the United States</em>"
+subtitle: "Howard Zinn"
 toc: false
 categories:
 - Howard Zinn

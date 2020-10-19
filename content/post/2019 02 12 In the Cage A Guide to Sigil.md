@@ -1,7 +1,8 @@
 ---
 date: 2019-02-12
 meta: true
-title: "In the Cage: A Guide to Sigil"
+title: "<em>In the Cage: A Guide to Sigil</em>"
+subtitle: "Wolfgang Baur"
 toc: false
 categories:
 - Wolfgang Baur

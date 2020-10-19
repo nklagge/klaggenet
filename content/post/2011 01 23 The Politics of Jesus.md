@@ -1,7 +1,8 @@
 ---
 date: 2011-01-23
 meta: true
-title: "The Politics of Jesus"
+title: "<em>The Politics of Jesus</em>"
+subtitle: "John Howard Yoder"
 toc: false
 categories:
 - John Howard Yoder

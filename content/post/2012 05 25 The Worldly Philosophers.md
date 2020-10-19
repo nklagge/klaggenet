@@ -1,7 +1,8 @@
 ---
 date: 2012-05-25
 meta: true
-title: "The Worldly Philosophers"
+title: "<em>The Worldly Philosophers</em>"
+subtitle: "Robert L. Heilbroner"
 toc: false
 categories:
 - Robert L. Heilbroner

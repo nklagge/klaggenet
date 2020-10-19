@@ -1,7 +1,8 @@
 ---
 date: 2020-01-25
 meta: true
-title: "Trese: Stories from the Diabolical, Volume 1"
+title: "<em>Trese: Stories from the Diabolical, Volume 1</em>"
+subtitle: "Budjette Tan"
 toc: false
 categories:
 - Budjette Tan

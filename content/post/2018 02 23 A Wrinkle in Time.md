@@ -1,7 +1,8 @@
 ---
 date: 2018-02-23
 meta: true
-title: "A Wrinkle in Time"
+title: "<em>A Wrinkle in Time</em>"
+subtitle: "Madeleine L'Engle"
 toc: false
 categories:
 - Madeleine L'Engle

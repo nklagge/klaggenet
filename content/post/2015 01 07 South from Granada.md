@@ -1,7 +1,8 @@
 ---
 date: 2015-01-07
 meta: true
-title: "South from Granada"
+title: "<em>South from Granada</em>"
+subtitle: "Gerald Brenan"
 toc: false
 categories:
 - Gerald Brenan

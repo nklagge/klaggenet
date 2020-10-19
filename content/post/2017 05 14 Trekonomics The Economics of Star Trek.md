@@ -1,7 +1,8 @@
 ---
 date: 2017-05-14
 meta: true
-title: "Trekonomics: The Economics of Star Trek"
+title: "<em>Trekonomics: The Economics of Star Trek</em>"
+subtitle: "Manu Saadia"
 toc: false
 categories:
 - Manu Saadia

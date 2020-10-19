@@ -1,7 +1,8 @@
 ---
 date: 2017-10-12
 meta: true
-title: "The Stone Sky"
+title: "<em>The Stone Sky</em>"
+subtitle: "N.K. Jemisin"
 toc: false
 categories:
 - N.K. Jemisin

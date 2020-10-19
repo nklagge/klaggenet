@@ -1,7 +1,8 @@
 ---
 date: 2020-06-28
 meta: true
-title: "Race for Profit: How Banks and the Real Estate Industry Undermined Black Homeownership"
+title: "<em>Race for Profit: How Banks and the Real Estate Industry Undermined Black Homeownership</em>"
+subtitle: "Keeanga-Yamahtta Taylor"
 toc: false
 categories:
 - Keeanga-Yamahtta Taylor

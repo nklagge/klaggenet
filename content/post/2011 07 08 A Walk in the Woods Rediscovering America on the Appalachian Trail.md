@@ -1,7 +1,8 @@
 ---
 date: 2011-07-08
 meta: true
-title: "A Walk in the Woods: Rediscovering America on the Appalachian Trail"
+title: "<em>A Walk in the Woods: Rediscovering America on the Appalachian Trail</em>"
+subtitle: "Bill Bryson"
 toc: false
 categories:
 - Bill Bryson

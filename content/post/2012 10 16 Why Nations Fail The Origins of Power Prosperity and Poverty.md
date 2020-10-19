@@ -1,7 +1,8 @@
 ---
 date: 2012-10-16
 meta: true
-title: "Why Nations Fail: The Origins of Power, Prosperity, and Poverty"
+title: "<em>Why Nations Fail: The Origins of Power, Prosperity, and Poverty</em>"
+subtitle: "Daron Acemoğlu"
 toc: false
 categories:
 - Daron Acemoğlu

@@ -1,7 +1,8 @@
 ---
 date: 2014-05-26
 meta: true
-title: "Bikenomics: How Bicycling Can Save The Economy"
+title: "<em>Bikenomics: How Bicycling Can Save The Economy</em>"
+subtitle: "Elly Blue"
 toc: false
 categories:
 - Elly Blue

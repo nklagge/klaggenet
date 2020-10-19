@@ -1,7 +1,8 @@
 ---
 date: 2019-11-23
 meta: true
-title: "Monstress, Vol. 2: The Blood"
+title: "<em>Monstress, Vol. 2: The Blood</em>"
+subtitle: "Marjorie M. Liu"
 toc: false
 categories:
 - Marjorie M. Liu

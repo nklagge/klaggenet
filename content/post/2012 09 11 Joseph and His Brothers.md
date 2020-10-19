@@ -1,7 +1,8 @@
 ---
 date: 2012-09-11
 meta: true
-title: "Joseph and His Brothers"
+title: "<em>Joseph and His Brothers</em>"
+subtitle: "Thomas Mann"
 toc: false
 categories:
 - Thomas Mann

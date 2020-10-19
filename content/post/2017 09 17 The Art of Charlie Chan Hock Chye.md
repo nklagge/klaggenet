@@ -1,7 +1,8 @@
 ---
 date: 2017-09-17
 meta: true
-title: "The Art of Charlie Chan Hock Chye"
+title: "<em>The Art of Charlie Chan Hock Chye</em>"
+subtitle: "Sonny Liew"
 toc: false
 categories:
 - Sonny Liew

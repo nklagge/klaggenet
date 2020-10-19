@@ -1,7 +1,8 @@
 ---
 date: 2015-06-05
 meta: true
-title: "Cohousing"
+title: "<em>Cohousing</em>"
+subtitle: "Kathryn McCamant"
 toc: false
 categories:
 - Kathryn McCamant

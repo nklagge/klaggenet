@@ -1,7 +1,8 @@
 ---
 date: 2014-03-15
 meta: true
-title: "Mutual Aid"
+title: "<em>Mutual Aid</em>"
+subtitle: "Pyotr Kropotkin"
 toc: false
 categories:
 - Pyotr Kropotkin

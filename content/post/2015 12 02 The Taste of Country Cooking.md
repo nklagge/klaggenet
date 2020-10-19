@@ -1,7 +1,8 @@
 ---
 date: 2015-12-02
 meta: true
-title: "The Taste of Country Cooking"
+title: "<em>The Taste of Country Cooking</em>"
+subtitle: "Edna Lewis"
 toc: false
 categories:
 - Edna Lewis

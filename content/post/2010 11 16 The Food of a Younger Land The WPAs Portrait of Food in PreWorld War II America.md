@@ -1,7 +1,8 @@
 ---
 date: 2010-11-16
 meta: true
-title: "The Food of a Younger Land: The WPA's Portrait of Food in Pre-World War II America"
+title: "<em>The Food of a Younger Land: The WPA's Portrait of Food in Pre-World War II America</em>"
+subtitle: "Mark Kurlansky"
 toc: false
 categories:
 - Mark Kurlansky

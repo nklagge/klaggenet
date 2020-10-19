@@ -1,7 +1,8 @@
 ---
 date: 2010-12-13
 meta: true
-title: "Policy Paradox: The Art of Political Decision Making"
+title: "<em>Policy Paradox: The Art of Political Decision Making</em>"
+subtitle: "Deborah Stone"
 toc: false
 categories:
 - Deborah Stone

@@ -1,7 +1,8 @@
 ---
 date: 2015-06-26
 meta: true
-title: "And Then the Vulture Eats You"
+title: "<em>And Then the Vulture Eats You</em>"
+subtitle: "John L. Parker Jr."
 toc: false
 categories:
 - John L. Parker Jr.

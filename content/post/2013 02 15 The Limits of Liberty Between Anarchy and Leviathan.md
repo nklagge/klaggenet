@@ -1,7 +1,8 @@
 ---
 date: 2013-02-15
 meta: true
-title: "The Limits of Liberty: Between Anarchy and Leviathan"
+title: "<em>The Limits of Liberty: Between Anarchy and Leviathan</em>"
+subtitle: "James M. Buchanan"
 toc: false
 categories:
 - James M. Buchanan

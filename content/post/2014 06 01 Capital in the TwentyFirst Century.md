@@ -1,7 +1,8 @@
 ---
 date: 2014-06-01
 meta: true
-title: "Capital in the Twenty-First Century"
+title: "<em>Capital in the Twenty-First Century</em>"
+subtitle: "Thomas Piketty"
 toc: false
 categories:
 - Thomas Piketty

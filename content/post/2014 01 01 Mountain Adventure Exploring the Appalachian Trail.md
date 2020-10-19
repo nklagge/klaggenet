@@ -1,7 +1,8 @@
 ---
 date: 2014-01-01
 meta: true
-title: "Mountain Adventure: Exploring the Appalachian Trail"
+title: "<em>Mountain Adventure: Exploring the Appalachian Trail</em>"
+subtitle: "Ronald M. Fisher"
 toc: false
 categories:
 - Ronald M. Fisher

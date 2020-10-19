@@ -1,7 +1,8 @@
 ---
 date: 2019-11-23
 meta: true
-title: "Monstress, Vol. 1: Awakening"
+title: "<em>Monstress, Vol. 1: Awakening</em>"
+subtitle: "Marjorie M. Liu"
 toc: false
 categories:
 - Marjorie M. Liu

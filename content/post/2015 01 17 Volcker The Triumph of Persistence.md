@@ -1,7 +1,8 @@
 ---
 date: 2015-01-17
 meta: true
-title: "Volcker: The Triumph of Persistence"
+title: "<em>Volcker: The Triumph of Persistence</em>"
+subtitle: "William L. Silber"
 toc: false
 categories:
 - William L. Silber

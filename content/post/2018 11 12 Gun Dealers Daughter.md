@@ -1,7 +1,8 @@
 ---
 date: 2018-11-12
 meta: true
-title: "Gun Dealers' Daughter"
+title: "<em>Gun Dealers' Daughter</em>"
+subtitle: "Gina Apostol"
 toc: false
 categories:
 - Gina Apostol

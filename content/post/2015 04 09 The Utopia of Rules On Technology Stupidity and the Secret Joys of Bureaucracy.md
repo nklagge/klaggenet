@@ -1,7 +1,8 @@
 ---
 date: 2015-04-09
 meta: true
-title: "The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy"
+title: "<em>The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy</em>"
+subtitle: "David Graeber"
 toc: false
 categories:
 - David Graeber

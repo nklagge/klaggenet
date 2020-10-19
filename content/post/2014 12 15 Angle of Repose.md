@@ -1,7 +1,8 @@
 ---
 date: 2014-12-15
 meta: true
-title: "Angle of Repose"
+title: "<em>Angle of Repose</em>"
+subtitle: "Wallace Stegner"
 toc: false
 categories:
 - Wallace Stegner

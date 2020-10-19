@@ -1,7 +1,8 @@
 ---
 date: 2016-01-31
 meta: true
-title: "War Music: An Account of Books 1-4 and 16-19 of Homer's Iliad"
+title: "<em>War Music: An Account of Books 1-4 and 16-19 of Homer's Iliad</em>"
+subtitle: "Christopher Logue"
 toc: false
 categories:
 - Christopher Logue

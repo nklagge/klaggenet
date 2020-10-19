@@ -1,7 +1,8 @@
 ---
 date: 2019-07-13
 meta: true
-title: "I Was Their American Dream: A Graphic Memoir"
+title: "<em>I Was Their American Dream: A Graphic Memoir</em>"
+subtitle: "Malaka Gharib"
 toc: false
 categories:
 - Malaka Gharib

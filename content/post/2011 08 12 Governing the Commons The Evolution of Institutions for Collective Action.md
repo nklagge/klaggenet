@@ -1,7 +1,8 @@
 ---
 date: 2011-08-12
 meta: true
-title: "Governing the Commons: The Evolution of Institutions for Collective Action"
+title: "<em>Governing the Commons: The Evolution of Institutions for Collective Action</em>"
+subtitle: "Elinor Ostrom"
 toc: false
 categories:
 - Elinor Ostrom

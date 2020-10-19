@@ -1,7 +1,8 @@
 ---
 date: 2017-03-06
 meta: true
-title: "The Best Bear in All the World"
+title: "<em>The Best Bear in All the World</em>"
+subtitle: "A.A. Milne"
 toc: false
 categories:
 - A.A. Milne

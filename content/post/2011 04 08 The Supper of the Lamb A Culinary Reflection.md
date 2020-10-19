@@ -1,7 +1,8 @@
 ---
 date: 2011-04-08
 meta: true
-title: "The Supper of the Lamb: A Culinary Reflection"
+title: "<em>The Supper of the Lamb: A Culinary Reflection</em>"
+subtitle: "Robert Farrar Capon"
 toc: false
 categories:
 - Robert Farrar Capon

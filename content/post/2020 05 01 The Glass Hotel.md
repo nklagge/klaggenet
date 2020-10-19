@@ -1,7 +1,8 @@
 ---
 date: 2020-05-01
 meta: true
-title: "The Glass Hotel"
+title: "<em>The Glass Hotel</em>"
+subtitle: "Emily St. John Mandel"
 toc: false
 categories:
 - Emily St. John Mandel

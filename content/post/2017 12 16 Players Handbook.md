@@ -1,7 +1,8 @@
 ---
 date: 2017-12-16
 meta: true
-title: "Player's Handbook"
+title: "<em>Player's Handbook</em>"
+subtitle: "James Wyatt"
 toc: false
 categories:
 - James Wyatt

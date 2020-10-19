@@ -1,7 +1,8 @@
 ---
 date: 2014-01-29
 meta: true
-title: "What Money Can't Buy: The Moral Limits of Markets"
+title: "<em>What Money Can't Buy: The Moral Limits of Markets</em>"
+subtitle: "Michael J. Sandel"
 toc: false
 categories:
 - Michael J. Sandel

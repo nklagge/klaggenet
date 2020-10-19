@@ -1,7 +1,8 @@
 ---
 date: 2015-09-02
 meta: true
-title: "All the Light We Cannot See"
+title: "<em>All the Light We Cannot See</em>"
+subtitle: "Anthony Doerr"
 toc: false
 categories:
 - Anthony Doerr

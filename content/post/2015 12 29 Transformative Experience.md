@@ -1,7 +1,8 @@
 ---
 date: 2015-12-29
 meta: true
-title: "Transformative Experience"
+title: "<em>Transformative Experience</em>"
+subtitle: "L.A. Paul"
 toc: false
 categories:
 - L.A. Paul

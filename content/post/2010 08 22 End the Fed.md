@@ -1,7 +1,8 @@
 ---
 date: 2010-08-22
 meta: true
-title: "End the Fed"
+title: "<em>End the Fed</em>"
+subtitle: "Ron Paul"
 toc: false
 categories:
 - Ron Paul

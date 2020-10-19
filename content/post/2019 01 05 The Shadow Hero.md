@@ -1,7 +1,8 @@
 ---
 date: 2019-01-05
 meta: true
-title: "The Shadow Hero"
+title: "<em>The Shadow Hero</em>"
+subtitle: "Gene Luen Yang"
 toc: false
 categories:
 - Gene Luen Yang

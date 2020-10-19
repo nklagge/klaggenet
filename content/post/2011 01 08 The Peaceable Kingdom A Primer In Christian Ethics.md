@@ -1,7 +1,8 @@
 ---
 date: 2011-01-08
 meta: true
-title: "The Peaceable Kingdom: A Primer In Christian Ethics"
+title: "<em>The Peaceable Kingdom: A Primer In Christian Ethics</em>"
+subtitle: "Stanley Hauerwas"
 toc: false
 categories:
 - Stanley Hauerwas

@@ -1,7 +1,8 @@
 ---
 date: 2012-08-16
 meta: true
-title: "The Making Of An Economist, Redux"
+title: "<em>The Making Of An Economist, Redux</em>"
+subtitle: "David Colander"
 toc: false
 categories:
 - David Colander

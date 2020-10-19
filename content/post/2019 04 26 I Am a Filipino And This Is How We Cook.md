@@ -1,7 +1,8 @@
 ---
 date: 2019-04-26
 meta: true
-title: "I Am a Filipino: And This Is How We Cook"
+title: "<em>I Am a Filipino: And This Is How We Cook</em>"
+subtitle: "Nicole Ponseca"
 toc: false
 categories:
 - Nicole Ponseca

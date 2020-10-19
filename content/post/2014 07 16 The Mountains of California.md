@@ -1,7 +1,8 @@
 ---
 date: 2014-07-16
 meta: true
-title: "The Mountains of California"
+title: "<em>The Mountains of California</em>"
+subtitle: "John Muir"
 toc: false
 categories:
 - John Muir

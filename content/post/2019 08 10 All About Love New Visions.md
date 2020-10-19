@@ -1,7 +1,8 @@
 ---
 date: 2019-08-10
 meta: true
-title: "All About Love: New Visions"
+title: "<em>All About Love: New Visions</em>"
+subtitle: "Bell Hooks"
 toc: false
 categories:
 - Bell Hooks

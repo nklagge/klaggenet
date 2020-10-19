@@ -1,7 +1,8 @@
 ---
 date: 2010-02-21
 meta: true
-title: "The Importance of Being Earnest and Other Plays"
+title: "<em>The Importance of Being Earnest and Other Plays</em>"
+subtitle: "Oscar Wilde"
 toc: false
 categories:
 - Oscar Wilde

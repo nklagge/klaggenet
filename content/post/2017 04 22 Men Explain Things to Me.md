@@ -1,7 +1,8 @@
 ---
 date: 2017-04-22
 meta: true
-title: "Men Explain Things to Me"
+title: "<em>Men Explain Things to Me</em>"
+subtitle: "Rebecca Solnit"
 toc: false
 categories:
 - Rebecca Solnit

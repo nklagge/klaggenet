@@ -1,7 +1,8 @@
 ---
 date: 2015-02-19
 meta: true
-title: "Come Here Often?: 53 Writers Raise a Glass to Their Favorite Bar"
+title: "<em>Come Here Often?: 53 Writers Raise a Glass to Their Favorite Bar</em>"
+subtitle: "Sean Manning"
 toc: false
 categories:
 - Sean Manning

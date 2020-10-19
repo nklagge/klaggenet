@@ -1,7 +1,8 @@
 ---
 date: 2011-06-29
 meta: true
-title: "Logicomix: An Epic Search for Truth"
+title: "<em>Logicomix: An Epic Search for Truth</em>"
+subtitle: "Apostolos Doxiadis"
 toc: false
 categories:
 - Apostolos Doxiadis

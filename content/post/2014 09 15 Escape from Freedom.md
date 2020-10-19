@@ -1,7 +1,8 @@
 ---
 date: 2014-09-15
 meta: true
-title: "Escape from Freedom"
+title: "<em>Escape from Freedom</em>"
+subtitle: "Erich Fromm"
 toc: false
 categories:
 - Erich Fromm

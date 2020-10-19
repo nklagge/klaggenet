@@ -1,7 +1,8 @@
 ---
 date: 2019-04-26
 meta: true
-title: "Invincible Iron Man: Ironheart, Volume 1: Riri Williams"
+title: "<em>Invincible Iron Man: Ironheart, Volume 1: Riri Williams</em>"
+subtitle: "Brian Michael Bendis"
 toc: false
 categories:
 - Brian Michael Bendis

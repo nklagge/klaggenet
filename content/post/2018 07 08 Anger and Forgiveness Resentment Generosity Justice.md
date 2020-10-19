@@ -1,7 +1,8 @@
 ---
 date: 2018-07-08
 meta: true
-title: "Anger and Forgiveness: Resentment, Generosity, Justice"
+title: "<em>Anger and Forgiveness: Resentment, Generosity, Justice</em>"
+subtitle: "Martha C. Nussbaum"
 toc: false
 categories:
 - Martha C. Nussbaum

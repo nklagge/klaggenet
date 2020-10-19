@@ -1,7 +1,8 @@
 ---
 date: 2020-02-17
 meta: true
-title: "The Books of Earthsea"
+title: "<em>The Books of Earthsea</em>"
+subtitle: "Ursula K. Le Guin"
 toc: false
 categories:
 - Ursula K. Le Guin

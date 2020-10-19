@@ -1,7 +1,8 @@
 ---
 date: 2014-06-04
 meta: true
-title: "Economics After the Crisis: Objectives and Means"
+title: "<em>Economics After the Crisis: Objectives and Means</em>"
+subtitle: "Adair Turner"
 toc: false
 categories:
 - Adair Turner

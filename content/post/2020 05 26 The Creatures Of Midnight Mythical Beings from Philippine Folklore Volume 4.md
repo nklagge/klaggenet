@@ -1,7 +1,8 @@
 ---
 date: 2020-05-26
 meta: true
-title: "The Creatures Of Midnight: Mythical Beings from Philippine Folklore: Volume 4"
+title: "<em>The Creatures Of Midnight: Mythical Beings from Philippine Folklore: Volume 4</em>"
+subtitle: "Maximo D. Ramos"
 toc: false
 categories:
 - Maximo D. Ramos

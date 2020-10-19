@@ -1,7 +1,8 @@
 ---
 date: 2014-01-24
 meta: true
-title: "Salt Sugar Fat: How the Food Giants Hooked Us"
+title: "<em>Salt Sugar Fat: How the Food Giants Hooked Us</em>"
+subtitle: "Michael Moss"
 toc: false
 categories:
 - Michael Moss
