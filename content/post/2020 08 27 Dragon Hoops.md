@@ -17,3 +17,4 @@ A really fun and heartfelt story about the basketball team at the high school wh
 [My Goodreads rating: 4 stars](https://www.goodreads.com/review/show/3507407789)  
 
 [IndieBound](https://www.indiebound.org/book/9781626720794)
+<!--more-->
