@@ -9,7 +9,7 @@ tags: []
 math: no
 meta: yes
 toc: no
-draft: yes
+draft: no
 ---
 
 *The Cosmopolitan Tradition: A Noble but Flawed Ideal*, Martha Nussbaum {{< figure src="https://images.booksense.com/images/499/052/9780674052499.jpg" type="margin" label="mn-cover" alt="Book cover">}} - I'm a [big](/post/2018-05-29-sex-and-social-justice/) [fan](/post/2018-07-08-anger-and-forgiveness-resentment-generosity-justice/) [of](/post/2018-08-04-the-monarchy-of-fear-a-philosopher-looks-at-our-political-crisis/) Martha Nussbaum, and just happened to check whether she'd published anything recently. This was published in 2019, and was also relevant to my interest in reading more about [justice and charity](/post/2020-12-24-effective-giving-reparative-giving/). In this book (which consists of a lecture series), she covers a very interesting topic: why does the cosmopolitan philosophical tradition, which stretches back to the Stoics and Cicero, assign duties of justice toward all other citizens of the world, but not duties of material support to those who are less well off? And can this difference be philosophically justified? Nussbaum concludes that it cannot, and her critiques of the Stoic tradition are quite interesting. I thought Nussbaum faltered in the final section, where she concludes based on fairly weak support that providing effective material aid to people in other countries is practically very difficult. I think the evidence I've seen contradicts this position; Nussbaum didn't even mention GiveDirectly, which seems like the purest form of what she's talking about, and which is seen as having a good track record. I think Nussbaum may be insufficiently open to radical critiques of the modern geopolitical status quo.
