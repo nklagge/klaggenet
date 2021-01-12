@@ -35,16 +35,28 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
   url = "/about"
 [[menu.nav]]
   name = "All Posts"
-  pre = "<i class='fab fa-pagelines fa-lg'></i> "
+  pre = "<i class='fas fa-mountain fa-lg'></i> "
   weight = -100 
   identifier = "posts"
   url = "/post"
 [[menu.nav]]
   name = "Categories"
-  pre = "<i class='fas fa-crow fa-lg'></i> "
+  pre = "<i class='fab fa-pagelines fa-lg'></i> "
   weight = -90 
   identifier = "categories"
   url = "/categories"
+[[menu.nav]]
+  name = "RSS"
+  pre = "<i class='fas fa-dog fa-lg'></i> "
+  weight = -80 
+  identifier = "rss"
+  url = "/post/index.xml"
+[[menu.nav]]
+  name = "Twitter"
+  pre = "<i class='fas fa-crow fa-lg'></i> "
+  weight = -70 
+  identifier = "twitter"
+  url = "https://twitter.com/klagge"
 
 # -----------------------------------------------------------------------
 # Footer menu 
