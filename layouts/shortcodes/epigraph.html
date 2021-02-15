@@ -1,0 +1,13 @@
+<div class="epigraph">
+<blockquote>
+{{ $t := .Get "type" }}
+{{ if eq $t "compact"  }}{{ .Inner }}{{ else }}<p>{{ .Inner }}</p>{{ end }}
+{{ if .IsNamedParams }}
+<footer>
+{{ with .Get "pre"  | safeHTML}}{{ . }}{{ end }}
+{{ with .Get "cite"  | safeHTML}}<cite>{{ . }}</cite>{{ end }}
+{{ with .Get "post"  | safeHTML}}{{ . }}{{ end }}
+</footer>
+{{ end }}
+<blockquote>
+</div>
