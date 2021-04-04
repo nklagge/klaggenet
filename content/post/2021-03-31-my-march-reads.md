@@ -1,0 +1,36 @@
+---
+title: My March Reads
+author: ''
+date: '2021-03-31'
+slug: my-march-reads
+categories: []
+tags: []
+math: no
+meta: yes
+toc: no
+draft: yes
+---
+
+*Beowulf*, tr. Maria Dahvana Headley {{< figure src="https://images.booksense.com/images/031/110/9780374110031.jpg" type="margin" label="mn-cover" alt="Book cover">}}- Do you even go on adventures, bro? Headley has gotten a lot of attention for her choice to translate the first word of *Beowulf*, "hwaet", as "bro" (Seamus Heaney went with "so"). Come for that, sure, but stay for the awesome rollicking tale. This book has a lot in common with Christopher Logue's *All Day Permanent Red*, in being an intentionally loose translation of an ancient text making ample use of modern slang, but Headley's book just felt...cooler, more natural. It has a lot in common with "Hamilton," somehow feeling like it "just works." Also, like Lin-Manuel Miranda, Headley gives her verse a hip-hop sound, and doesn't force a meter or use alliteration to a point that sounds clunky to a 21st century American ear. This is an eminently readable translation--one which I read over two days--and I always looked forward to picking it up. The "bro-y" bravado works perfectly for the setting, and also helps Headley highlight some of the more mournful aspects of the story. I thought the closing lines were just as great as the opening one: "He rode hard! He stayed thirsty! He was the man! He was the man." The repetition of the last sentence, first with an exclamation point and then with a period, just works perfectly for the elegiac tone of the end of the poem.
+
+<!--more-->
+
+*Freedom From The Market*, Mike Konczal - I'm an avid reader of Konczal on the internet as a smart left commentator on economics and finance, so I was excited that he published a book. It's a slim volume with an interesting theme--recovering a part of the American tradition that focuses on providing freedom by carving out spaces in our lives to be protected from market competition. A lot of the content was familiar to me, either from Konczal himself or from general reading, but I did learn a lot from the chapter on the federal government's national free childcare program during WWII!
+
+*Tokyo Ueno Station*, Yu Miri - A quiet novella told from the perspective of a dead guy whose ghost continues to inhabit the area of the Ueno train station, where he lived as a homeless man in life. Narrating his memories, he reveals some really tragic history, but for the most part I also didn't feel the book was too heavy. I liked the soft intertwining of Kazu's mostly unremarkable life with bigger events in national history.
+
+*Finna*, Nate Marshall - Loved this. I'm an inconsistent reader of poetry, but one thing I've established for certain is that I like Eve Ewing's poetry. So I went looking for poets connected to her and found Nate Marshall. As with Ewing, I think there's a strong spoken word influence in Marshall's poetry, which manifests in an attention to the rhythm and music of everyday conversation, a sense of humor, often a propulsive feeling, and a focus on concrete topics. (The titular "Finna" is a colloquial contraction of "fixing to," i.e. getting ready to do something.) When I'm reading Marshall or Ewing, I feel like I can enjoy the poem from the start, without having to struggle to break through the surface--though they may also have deeper layers or reward subsequent readings. I love Marshall's ongoing musings about "the other Nate Marshall," a white supremacist in Colorado who he found on the internet. My favorite in the collection was "Only 1 for whitefolk using black language."
+
+*Life On Mars*, Tracy K. Smith - This poetry collection didn't click with me as much. I must have thought of it because of the recent Mars rover landing, although the book's collection to the red planet is quite indirect (the title is in reference to the David Bowie song). There is a through-line of reflecting on life on Earth as it might be seen from a remove, from another planet or by an alien species. I didn't generally feel excited about picking the book up. Compared to Marshall, Smith's poems here often felt quite abstract to me, like something I had to work on. My favorite poem in the collection, really the only one I have a strong memory of several weeks after reading, was "The Universe is a House Party"--which, come to think of it, has some similarities to "Only 1 for whitefolk using black language."
+
+*Avatar: The Rift*, Gene Luen Yang - Picked this up as a restarted watching Legend of Korra from the middle of season 2 (glad I did--the first half of season 2 is just a real low). It's a solid continuation, really more of a continuation of *The Promise* where *The Search* is its own side-plot. Here we continue the themes bridging ATLA and LOK--the blending of different nations, spirits versus humanity, tradition versus modernity. I thought Yang did a nice job creating a quiet little story where Aang continues to shoulder the burdens of being a leader without a major antagonist.
+
+*Meant to Fly*, Eve L. Ewing - Weirdly, this collects Ironheart 1-12, where the previous collection *Those With Courage* collected 1-6. Actually worked out well for me though, as it was good to skim through 1-6 for a refresher. I like Riri's stories in Chicago, and I felt the series pushed too hard to have her go to a bunch of places to team up with a bunch of other Marvel heroes. Riri is enough!
+
+*Lose Your Mother*, Saidiya Hartman - I got interested in reading Hartman's work from this [New Yorker article](https://www.newyorker.com/magazine/2020/10/26/how-saidiya-hartman-retells-the-history-of-black-life). As someone who's taken an interest in family history and genealogy from time to time, it's important to me to read the perspectives of people like Hartman for whom historical injustices make such study impossible--or at least, not possible in the same way. Although Hartman is an academic, this book is a very personal story of her trip to West Africa to make some personal connection with her history as well as her academic research on the slave trade. It's a book of lacunae and disappointments, and Hartman doesn't pretend to tie it up with a neat conclusion. She challenges the (largely violent) role of the historical archive in circumscribing how we can study and understand history. Interesting portrayal as well of the relations between West Africans (mainly Ghanaians) and the African Americans who travel there to connect with their roots.
+
+*The Cooking Gene*, Michael Twitty - Did not finish. Twitty is a really interesting guy, but his writing meanders around a lot and I didn't feel engaged. 
+
+*For Small Creatures Such As We*, Sasha Sagan - Did not finish. Worthy topic--the need for rituals and the challenge of creating and maintaining them as a secular person--but after the first chapter, I wasn't sure Sagan had something worth saying on it.
+
+*On What Matters*, Derek Parfit - Did not finish. I have wanted to check this out for a while, as I really liked [*Reasons and Persons*](/post/2017-06-11-reasons-and-persons/). But I didn't feel interested in most of what Parfit was writing about here, and skimmed or skipped the majority of the book. However, there were a few sections of Volume 2 that I found engaging. I hope to write more about these at some point.
