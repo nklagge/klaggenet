@@ -8,7 +8,7 @@ tags: []
 math: no
 meta: yes
 toc: no
-draft: yes
+draft: no
 ---
 
 *Beowulf*, tr. Maria Dahvana Headley {{< figure src="https://images.booksense.com/images/031/110/9780374110031.jpg" type="margin" label="mn-cover" alt="Book cover">}}- Do you even go on adventures, bro? Headley has gotten a lot of attention for her choice to translate the first word of *Beowulf*, "hwaet", as "bro" (Seamus Heaney went with "so"). Come for that, sure, but stay for the awesome rollicking tale. This book has a lot in common with Christopher Logue's *All Day Permanent Red*, in being an intentionally loose translation of an ancient text making ample use of modern slang, but Headley's book just felt...cooler, more natural. It has a lot in common with "Hamilton," somehow feeling like it "just works." Also, like Lin-Manuel Miranda, Headley gives her verse a hip-hop sound, and doesn't force a meter or use alliteration to a point that sounds clunky to a 21st century American ear. This is an eminently readable translation--one which I read over two days--and I always looked forward to picking it up. The "bro-y" bravado works perfectly for the setting, and also helps Headley highlight some of the more mournful aspects of the story. I thought the closing lines were just as great as the opening one: "He rode hard! He stayed thirsty! He was the man! He was the man." The repetition of the last sentence, first with an exclamation point and then with a period, just works perfectly for the elegiac tone of the end of the poem.
